@@ -7,9 +7,6 @@ $crd-width: calc(100% - ((#{$crd-icon-size} / 2))
   position: relative
   display: flex
   flex-direction: row
-
-  
- 
   z-index: 1
 
   &::before
@@ -79,7 +76,7 @@ $crd-width: calc(100% - ((#{$crd-icon-size} / 2))
     right: 0
     width: $crd-width
     height: 100%    
-    background-color: #FAFAFA
+    background-color: #f0f0f0
     border-radius: 15px
     z-index: -1
 
@@ -210,9 +207,29 @@ $crd-width: calc(100% - ((#{$crd-icon-size} / 2))
 .tabs-a__tab 
     background-color: #E8E8E8
 
+.hr-blank
+  width: 100%
+  margin: 2.5rem 0
+
+
+.lista-ul--color li > i:first-of-type 
+  color: #7D6EB2 !important
+
+.crd-gris
+  //background-color: #FAFAFA
+
+.roundNumber
+  background-color: #26AAB7
+  padding: 0.25rem 0.55rem
+  border-radius: 999px 
+  color: white
   
+.custom-cl
+  background-color: #F6F6F6 !important
+  &::before
+    background-color: #CBC5E0 !important
 
-
-
-
-  
+.crd_02__icon 
+  width: 65px !important
+  img
+    width: 65px !important;

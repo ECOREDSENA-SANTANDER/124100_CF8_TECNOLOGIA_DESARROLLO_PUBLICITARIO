@@ -14,79 +14,78 @@
 
     #t_2_1.titulo-segundo
       h2 2.1 Conceptos básicos del marketing digital
-    p.mb-5 El marketing por naturaleza tiene una amplia diversidad de conceptos, la mayoría de ellos anglicismos que pueden llegar a confundir un poco a quien comienza a estudiar este tema. Además, cuenta con otra gran variedad de términos que de igual forma son importantes para comprender el tema y desarrollar las estrategias adecuadamente.
-    p Por consiguiente, a continuación, se indican algunos términos con sus respectivas definiciones, tomadas de Cibrián (2018), en su libro Marketing Digital. Mide, Analiza y Mejora:
+    p El marketing por naturaleza tiene una amplia diversidad de conceptos, la mayoría de ellos anglicismos que pueden llegar a confundir un poco a quien comienza a estudiar este tema. Además, cuenta con otra gran variedad de términos que de igual forma son importantes para comprender el tema y desarrollar las estrategias adecuadamente.
+    p.mb-5 Por consiguiente, a continuación, se indican algunos términos con sus respectivas definiciones, tomadas de Cibrián (2018), en su libro Marketing Digital. Mide, Analiza y Mejora:
 
-    .row.justify-content-around.align-items-center.mb-5
-      .col-lg.justify-content-md-center.align-self-center
-  
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-7.mb-4.mb-lg-0
         .ul.lista-ul--color
           li 
             i.fas.fa-caret-right
-            p #[strong Cookie:] las cookies son pequeños ficheros de texto con información sobre el usuario. Estas se almacenan en el navegador, desde donde el usuario puede aceptarlas, bloquearlas o eliminarlas. 
-          p A esta información que se almacena en las cookies se puede acceder posteriormente con distintos fines como ofrecer publicidad, hacer remarketing (anuncios personalizados dirigidos a usuarios que visitaron previamente tu web), conocer el número total de sesiones generadas por los usuarios, mantener los productos añadidos en las cestas de la compra de las tiendas online, usar aplicaciones como las de los bancos sin necesidad de iniciar sesión en cada página, etc.
-          p Las cookies tienen varias clasificaciones y criterios:
+            p #[strong Cookie:] las cookies son pequeños ficheros de texto con información sobre el usuario. Estas se almacenan en el navegador, desde donde el usuario puede aceptarlas, bloquearlas o eliminarlas.<br><br> A esta información que se almacena en las cookies se puede acceder posteriormente con distintos fines como ofrecer publicidad, hacer remarketing (anuncios personalizados dirigidos a usuarios que visitaron previamente tu web), conocer el número total de sesiones generadas por los usuarios, mantener los productos añadidos en las cestas de la compra de las tiendas online, usar aplicaciones como las de los bancos sin necesidad de iniciar sesión en cada página, etc.
+          
 
-      .col-12.col-lg-auto.justify-content-md-center.mb-4
-        .mb-0.colc
-            figure
-            img(src='@/assets/tema2/img-1.svg', alt='Tipos de titulares')
+      .col-lg-5.justify-content-md-center      
+        img(src='@/assets/tema2/img-1.svg', alt='Tipos de titulares', style="width:350px;").m-auto
+
+    p Las cookies tienen varias clasificaciones y criterios:
+
     .row.m-5    
       .crd_03.p-0.my-4
         .crd_02__icon.m-3
           img(src='@/assets/tema2/img-2.svg' alt='AvatarTop' ).class 
         .crd_02__txt.m-4
-          .h4 Cookies propias o de primera parte: 
+          .h4 Cookies propias o de primera parte
           p Son las generadas y almacenadas única y exclusivamente por el dominio al que se está accediendo. Por ejemplo, las que se utilizan en las tiendas online. A medida que vas añadiendo productos al carrito de la compra, la información se almacena en una cookie que permite que en las siguientes páginas se puedan mantener los mismos productos. Las herramientas de medición como Google Analytics usan cookies de primera parte para hacer el seguimiento de las interacciones de los usuarios: para saber de dónde vienen, cuántas sesiones generan, qué páginas visitan, etc.
+
       .crd_03.p-0.my-4
         .crd_02__icon.m-3
           img(src='@/assets/tema2/img-2.svg' alt='AvatarTop' ).class 
         .crd_02__txt.m-4
-          .h4 Cookies de terceros o de tercera parte:
+          .h4 Cookies de terceros o de tercera parte
           p Son las generadas y utilizadas por un dominio externo al del sitio web que estén visitando los usuarios. Por ejemplo, cuando accedes a una web y ves banners sobre productos que te interesan, esa publicidad no se produce de forma aleatoria. Esto ocurre porque en las cookies se guardan tus preferencias de navegación, lo que permite a los anunciantes mostrarte anuncios adaptados a tus gustos a través de otras webs.
       .crd_03.p-0.my-4
         .crd_02__icon.m-3
           img(src='@/assets/tema2/img-2.svg' alt='AvatarTop' ).class 
         .crd_02__txt.m-4
-          .h4 Cookies de sesión: 
+          .h4 Cookies de sesión
           p Son las que se eliminan en cuanto caduca la sesión. Su propósito es permitirte moverte entre las diferentes páginas de una web sin necesidad de que tengas que dar la misma información una y otra vez. Por ejemplo, las que se utilizan en las tiendas online. A medida que vas añadiendo productos al carrito de la compra, la información se almacena en una cookie que permite que en las siguientes páginas se puedan mantener los mismos productos.
       .crd_03.p-0.my-4
         .crd_02__icon.m-3
           img(src='@/assets/tema2/img-2.svg' alt='AvatarTop' ).class 
         .crd_02__txt.m-4
-          .h4 Cookies persistentes:
+          .h4 Cookies persistentes
           p Son las que permiten almacenar los datos de los usuarios durante más tiempo. También tienen fecha de caducidad, la cual es definida por el responsable de la cookie. En el caso de que el usuario no elimine estas cookies manualmente desde su navegador, cuando lleguen a su fecha de caducidad estas se eliminarán completamente de este.
       .crd_03.p-0.my-4
         .crd_02__icon.m-3
           img(src='@/assets/tema2/img-2.svg' alt='AvatarTop' ).class 
         .crd_02__txt.m-4
-          .h4 Cookies técnicas:
+          .h4 Cookies técnicas
           p Son las que permiten a los usuarios navegar a través de una página web o aplicación y utilizar sus servicios. Por ejemplo, las que te permiten recordar los productos en el carrito de la compra o registrarte en un evento.
-
 
       .crd_03.p-0.my-4
         .crd_02__icon.m-3
           img(src='@/assets/tema2/img-2.svg' alt='AvatarTop' ).class 
         .crd_02__txt.m-4
-          .h4 Cookies de personalización: 
+          .h4 Cookies de personalización 
           p Son las que permiten al usuario disfrutar del servicio que presta la web o aplicación de una forma personalizada. Por ejemplo, cuando una web está traducida a muchos idiomas, el que tú la veas en el tuyo es posible gracias a las cookies de personalización.                                          
       .crd_03.p-0.my-4
         .crd_02__icon.m-3
           img(src='@/assets/tema2/img-2.svg' alt='AvatarTop' ).class 
         .crd_02__txt.m-4
-          .h4 Cookies de análisis:
+          .h4 Cookies de análisis
           p Son las que permiten registrar y almacenar los datos sobre los usuarios para posteriormente analizar su comportamiento.
       .crd_03.p-0.my-4
         .crd_02__icon.m-3
           img(src='@/assets/tema2/img-2.svg' alt='AvatarTop' ).class 
         .crd_02__txt.m-4
-          .h4 Cookies publicitarias:
+          .h4 Cookies publicitarias
           p Son cookies cuyo único propósito es hacer publicidad.
       .crd_03.p-0.my-4
         .crd_02__icon.m-3
           img(src='@/assets/tema2/img-2.svg' alt='AvatarTop' ).class 
         .crd_02__txt.m-4
-          .h4 Cookies de publicidad comportamental:
+          .h4 Cookies de publicidad comportamental
           p Son las cookies que permiten hacer publicidad a los usuarios, pero de una forma más personalizada. ¿Cómo? Recabando información de su comportamiento, para así mostrarles publicidad basada en dicho comportamiento.
 
                                                 
@@ -150,7 +149,7 @@
         .col-lg-6.mb-5.row.imgc
           .cajon2.cajon.color-primario.p-4.mb-4.fond1.row
             .col-lg.align-self-center
-              .h4.text-center ROI = [(ingresos - inversión) / inversión] * 100
+              .h4.mb-0.text-center ROI = [(ingresos - inversión) / inversión] * 100
 
         li 
           i.fas.fa-caret-right
@@ -159,7 +158,7 @@
         .col-lg-8.mb-5.row.imgc
           .cajon2.cajon.color-primario.p-4.mb-4.fond1.row
             .col-lg.align-self-center
-              .h4.text-center Tasa de rebote = (total de sesiones que vieron una sola página / total de sesiones) * 100
+              .h4.mb-0.text-center Tasa de rebote = (total de sesiones que vieron una sola página / total de sesiones) * 100
 
         p Si se tiene una tasa de rebote del 26 % significa que, de cada 100 sesiones, 26 salieron de la web sin mirar nada más. Este KPI es útil para conocer el rendimiento de tu web en general y de las distintas páginas de esta en particular.
 
@@ -207,95 +206,107 @@
     br
     #t_2_3.titulo-segundo
       h2 2.3 Herramientas de medición
-    p.mb-5 Existe una gran variedad de herramientas de medición de datos, todas ellas con características y ventajas diferentes, algunas gratuitas y otras que tienen un sistema de pago que oscila de moderado a alto, lo importante es que la información debe ser analizada y utilizada de la mejor forma posible. A continuación, se verán algunas de las herramientas más versátiles para la medición de los datos:         
+    p.mb-5 Existe una gran variedad de herramientas de medición de datos, todas ellas con características y ventajas diferentes, algunas gratuitas y otras que tienen un sistema de pago que oscila de moderado a alto, lo importante es que la información debe ser analizada y utilizada de la mejor forma posible. A continuación, se verán algunas de las herramientas más versátiles para la medición de los datos:   
 
-    .row.img-200.justify-content-around.align-items-center
-      figure.mb-5
-        img(src='@/assets/tema2/img-11.svg', alt='Marketing')
+    img(src='@/assets/tema2/img-11.svg', alt='Marketing', style="width:650px;").m-auto
     
     .h4 Buscador de Google
     p.mb-5 Las búsquedas en Google son el primer paso para conocer el estado de una empresa y para el desarrollo inicial de las estrategias de comunicación. Para alguien que trabaje en comunicación digital es importante conocer todas las acciones y posibilidades que este buscador ofrece:
 
-    .row.mb-5
-      .col-md-6.col-lg.mb-5.mb-lg-0
+    .row
+      .col-xl-6
         .sep2
-        .crd_01.p-0.my-4
+        .crd_01
+          .crd_02__icon.m-3
+            img(src='@/assets/tema2/img-12.svg' alt='AvatarTop')
+          .crd_02__txt.m-4
+            .h4 Google Trends
+            p.mb-0 Permite hacer un seguimiento del interés que se tiene por una marca en particular a nivel mundial, nacional o local, también investigar a los competidores en los mismos aspectos y lo más importante, ver las tendencias de búsquedas que realizan las personas en un determinado momento y lugar.
+      .col-xl-6
+        .sep2
+        .crd_01
           .crd_02__icon.m-3
             img(src='@/assets/tema2/img-12.svg' alt='AvatarTop' ).class 
           .crd_02__txt.m-4
-            .h4 Google Trends: 
-            p Permite hacer un seguimiento del interés que se tiene por una marca en particular a nivel mundial, nacional o local, también investigar a los competidores en los mismos aspectos y lo más importante, ver las tendencias de búsquedas que realizan las personas en un determinado momento y lugar.
+            .h4 Board reader
+            p.mb-0 En este buscador cualquier marca a nivel mundial puede conocer lo que están opinando de ella en foros y comunidades. Es muy útil porque se centra en foros, un elemento que sería muy dispendioso de analizar si se hiciese uno por uno.
+    .row
+      .col-xl-6
         .sep2
-        .crd_01.p-0.my-4
+        .crd_01
           .crd_02__icon.m-3
             img(src='@/assets/tema2/img-12.svg' alt='AvatarTop' ).class 
           .crd_02__txt.m-4
-            .h4 Board reader:
-            p En este buscador cualquier marca a nivel mundial puede conocer lo que están opinando de ella en foros y comunidades. Es muy útil porque se centra en foros, un elemento que sería muy dispendioso de analizar si se hiciese uno por uno.
+            .h4 How sociable
+            p.mb-0 Es una herramienta muy útil para conocer el nivel de influencia que se tiene en las diferentes redes sociales.
+      .col-xl-6
         .sep2
-        .crd_01.p-0.my-4
+        .crd_01
           .crd_02__icon.m-3
             img(src='@/assets/tema2/img-12.svg' alt='AvatarTop' ).class 
           .crd_02__txt.m-4
-            .h4 How sociable: 
-            p Es una herramienta muy útil para conocer el nivel de influencia que se tiene en las diferentes redes sociales.
+            .h4 Icerocket
+            p.mb-0 Esta herramienta arroja datos relacionados con el nivel de aceptación que tiene una marca frente a sus competidores, de acuerdo al nivel de comentarios que hayan realizado los usuarios.
 
-
+    .row
+      .col-xl-6
         .sep2
-        .crd_01.p-0.my-4
+        .crd_01
           .crd_02__icon.m-3
             img(src='@/assets/tema2/img-12.svg' alt='AvatarTop' ).class 
           .crd_02__txt.m-4
-            .h4 Icerocket: 
-            p Esta herramienta arroja datos relacionados con el nivel de aceptación que tiene una marca frente a sus competidores, de acuerdo al nivel de comentarios que hayan realizado los usuarios.
-        .sep2
-        .crd_01.p-0.my-4
-          .crd_02__icon.m-3
-            img(src='@/assets/tema2/img-12.svg' alt='AvatarTop' ).class 
-          .crd_02__txt.m-4
-            .h4 Klout: 
-            p Este medidor de influencia permite conocer el estado de la marca haciendo un ponderado de todos los medios que esta posee: blogs, redes sociales, canales, sitios web, etc.
+            .h4 Klout
+            p.mb-0 Este medidor de influencia permite conocer el estado de la marca haciendo un ponderado de todos los medios que esta posee: blogs, redes sociales, canales, sitios web, etc.
                                                               
-      .col-md-6.col-lg.mb-5.mb-lg-0
+      .col-xl-6
         .sep2
-        .crd_01.p-0.my-4
+        .crd_01
           .crd_02__icon.m-3
             img(src='@/assets/tema2/img-12.svg' alt='AvatarTop' ).class 
           .crd_02__txt.m-4
-            .h4 Estadísticas de las redes sociales: 
-            p Cuando se ha creado una página en Facebook o cuentas en Instagram o Twitter, por ejemplo, estas mismas redes sociales proporcionan información detallada de la interacción, alcance y popularidad de cada post o anuncio que se haga en ellas, así se puede determinar la efectividad de las estrategias que se realicen para una marca en particular.
+            .h4 Estadísticas de las redes sociales
+            p.mb-0 Cuando se ha creado una página en Facebook o cuentas en Instagram o Twitter, por ejemplo, estas mismas redes sociales proporcionan información detallada de la interacción, alcance y popularidad de cada post o anuncio que se haga en ellas, así se puede determinar la efectividad de las estrategias que se realicen para una marca en particular.
+
+    .row
+      .col-xl-6
         .sep2
-        .crd_01.p-0.my-4
+        .crd_01
           .crd_02__icon.m-3
             img(src='@/assets/tema2/img-12.svg' alt='AvatarTop' ).class 
           .crd_02__txt.m-4
-            .h4 Linkfluence: 
-            p Esta plataforma permite realizar una medición permanente de segmentación y mapeo de conversaciones de las diferentes comunidades. Se integra con e-reputation, engage y observatorio de tendencias para monitorizar el nivel de influencia y reputación de una marca en particular.
+            .h4 Linkfluence
+            p.mb-0 Esta plataforma permite realizar una medición permanente de segmentación y mapeo de conversaciones de las diferentes comunidades. Se integra con e-reputation, engage y observatorio de tendencias para monitorizar el nivel de influencia y reputación de una marca en particular.
+      .col-xl-6
         .sep2
-        .crd_01.p-0.my-4
+        .crd_01
           .crd_02__icon.m-3
             img(src='@/assets/tema2/img-12.svg' alt='AvatarTop' ).class 
           .crd_02__txt.m-4
-            .h4 Social Mention: 
-            p Esta plataforma permite realizar seguimiento en redes sociales de comentarios o publicaciones realizadas por los usuarios referentes a un tema determinado.
+            .h4 Social Mention
+            p.mb-0 Esta plataforma permite realizar seguimiento en redes sociales de comentarios o publicaciones realizadas por los usuarios referentes a un tema determinado.
+        
+
+    .row.mb-5
+      .col-xl-6
         .sep2
-        .crd_01.p-0.my-4
+        .crd_01
           .crd_02__icon.m-3
             img(src='@/assets/tema2/img-12.svg' alt='AvatarTop' ).class 
           .crd_02__txt.m-4
-            .h4 Crimson Hexagon: 
-            p Es un sistema de monitoreo de redes sociales para realizar un análisis global de marcas y organizaciones, conociendo las opiniones de consumidores y los puntos de vista que estos tienen de la empresa, los productos, la industria y la competencia.
+            .h4 Crimson Hexagon
+            p.mb-0 Es un sistema de monitoreo de redes sociales para realizar un análisis global de marcas y organizaciones, conociendo las opiniones de consumidores y los puntos de vista que estos tienen de la empresa, los productos, la industria y la competencia.
+        .sep2
 
     .h4 Analítica web
     p.mb-5 Consiste en la recolección, almacenamiento y análisis de datos estadísticos que surgen del funcionamiento de un sitio web. Esta información se estudia con el fin de generar conocimiento relevante para el desarrollo de las actividades de marketing digital. La analítica web permite realizar diferentes tipos de actividades:
 
     .row.justify-content-around.align-items-center.m-5
-      .col-md-6
+      .col-lg-6
         .mb-0.colc
             figure
             img(src='@/assets/tema2/img-13.svg', alt='Tipos de titulares')
 
-      .col-md-6.mr-5.row
+      .col-lg-6.mr-5.row
         .ul.lista-ul--color
           li 
             i.fas.fa-check
@@ -319,8 +330,7 @@
     p Adicionalmente, la analítica web tiene una serie de tarea definidas dentro de la organización; actividades enfocadas en el CRM y otros procesos de interacción entre la marca y el consumidor. La analítica interviene además en la toma de decisiones relacionadas con la comercialización de los productos o servicios, así como el estudio permanente de los clientes, el mercado y las tendencias. De este modo es necesario que se tengan en cuenta una serie de indicadores relacionados con la analítica web: 
 
     .row.justify-content-around.align-items-center.my-5
-
-      .col-lg.mr-5.row
+      .col-lg-auto
         .ul.lista-ul--color
           li 
             i.fas.fa-check
@@ -338,10 +348,8 @@
             i.fas.fa-check
             p Seguimiento de la marca.     
 
-      .col-auto.col-6.align-self-center
-        .mb-0.colc
-            figure
-            img(src='@/assets/tema2/img-14.svg', alt='Tipos de titulares')
+      .col-auto          
+        img(src='@/assets/tema2/img-14.svg', alt='Tipos de titulares', style="width:450px;").m-auto
 
     .h4 Mediciones en Facebook
     p.mb-5 Siendo la red social más grande del mundo por su número de suscriptores que superan los 2400 millones, una de las mayores fuentes de datos del mercado y un generador de anuncios virales, es necesario hacer un análisis de las mediciones que se pueden realizar en Facebook. Las variadas posibilidades de comunicación en esta red social permiten mantener a sus usuarios conectados casi de forma permanente: publicaciones, videos, comentarios, likes en 5 formas diferentes, chats, grupos, comunidades, perfiles, páginas, transmisiones en vivo, anuncios pagados, campañas, videojuegos, entre otros, son algunas de las actividades que permite realizar. Por consiguiente, es indicado conocer entonces las mediciones que se pueden realizar:
@@ -392,15 +400,11 @@
       h2 2.4 CRM (Customer Relationship Management)
     p.mb-5 Es un proceso de relacionamiento con los clientes de una empresa o marca, su enfoque está en el proceso de comercialización, mercadeo y comunicación de la empresa con sus clientes reales y potenciales. Este proceso depende en casi un 100 % del software que gestiona la información de los clientes, para luego con base en estos datos generar acciones específicas de promoción y comercialización. El CRM se nutre de los datos de los clientes a través de Sistemas de Información de Mercados (SIM); estos datos abundan en medios como las redes sociales y los consumidores los entregan de forma libre y voluntaria; además, son muy eficaces para el desarrollo de estrategias puntuales de marketing.
 
-    .row.justify-content-around.align-items-center.m-5
-      .col-auto.align-self-center
-        .mb-0.colc
-            figure
-            img(src='@/assets/tema2/img-15.svg', alt='Tipos de titulares')
+    .row.align-items-center.m-5
+      .col-auto.mb-5        
+        img(src='@/assets/tema2/img-15.svg', alt='Tipos de titulares', style="width:450px;")
 
-
-
-      .col-lg.mr-5.row
+      .col-lg
         p  El CRM evolucionó con la llegada de las redes sociales y hoy por hoy se conoce como “Social CRM”, mejorando el sistema de interacción entre la marca y el cliente, convirtiendo la comunicación de doble vía y no únicamente desde la marca hacia el consumidor. De esta forma la comunicación que se realiza a través del Social CRM es mucho más integral, pues el consumidor es alcanzado por un correo electrónico que se le ha dejado cuando hizo su suscripción en el sitio web de la empresa, generándole impactos que se postean en las redes sociales que ha seguido gracias a una campaña de activación, la cual se hace periódicamente para captar nuevos clientes. De la misma forma recibe un mensaje de texto en su celular y mensajes de WhatsApp, todo esto en un periodo de tres semanas en las que la marca ha estado interactuando con el consumidor, creando posicionamiento y recordación.   
 
     .h4 Enfoque del Social CRM
@@ -429,55 +433,95 @@
       h2 2.5 Plataformas de gestión de marketing digital
     p.mb-5 A continuación, se indican dichas plataformas:
 
-    .mx-3
-      AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta t-gris2")
-        .row(titulo="Blogger: ")
-           p Es una plataforma para la creación de blogs, pertenece a la empresa Google y tiene total interacción con todas sus herramientas. Es ideal para mostrar información periódica acerca de un tema específico integrado con redes sociales y otros medios.
-        div(titulo="LinkedIn:")
-          p Es una red social con enfoque profesional, permite la interacción entre empresas y profesionales para el desarrollo de trabajo colaborativo o la gestión laboral.
-        div(titulo="Zoho:")
-          p Es una suite de servicios empresariales que permite el desarrollo de diferentes tareas relacionadas con el marketing digital, CRM, gestión de correo electrónico, entre otras.
-        div(titulo="Traity:")
-          p Es una plataforma que permite la verificación del perfil personal de compradores y vendedores con el fin de generar una reputación online de personas y empresas para generar confianza en los intercambios comerciales.
-        div(titulo="Social Go:")
-          p Es una plataforma que permite crear redes sociales personalizadas en cuanto a diseño y funciones, además de integrarse con otras redes como Facebook y Twitter.
-        div(titulo="Alterian:")
-          p Es ideal para el desarrollo de campañas de marketing integrales; combina herramientas de gestión de contenidos, correo electrónico y monitorización de redes sociales.
-        div(titulo="CitizenNet:")
-          p Es una herramienta para el desarrollo de investigaciones de mercado y gestión de campañas publicitarias. Maneja datos de segmentación y optimización de tiempos.
-        div(titulo="Livestream:")
-          p Es una plataforma para ver y transmitir video en vivo, con el fin de llegar a un público masivo con contenido audiovisual.
-        div(titulo="Saleforce:")
-          p Es una suite que provee soluciones CRM por suscripción. En ella se puede crear aplicaciones, tener contacto con toda la organización, contactar clientes y realizar estrategias de venta, todo en línea.
-        div(titulo="Hootsuite:")
-          p Es una plataforma que permite realizar publicaciones simultáneas en varias redes sociales como Facebook, Instagram y Twitter.       
+    .row.align-items-center.mb-4
+      .col-auto        
+        img(src="@/assets/tema2/Logo_01.png", alt="alt", style="width:200px;")         
+      .col-lg              
+        p.mb-0 Es una plataforma para la creación de blogs, pertenece a la empresa Google y tiene total interacción con todas sus herramientas. Es ideal para mostrar información periódica acerca de un tema específico integrado con redes sociales y otros medios.
+    .sep2.mb-4
+    .row.align-items-center.mb-4
+      .col-auto        
+        img(src="@/assets/tema2/Logo_02.png", alt="alt", style="width:200px;")         
+      .col-lg         
+        p.mb-0 Es una red social con enfoque profesional, permite la interacción entre empresas y profesionales para el desarrollo de trabajo colaborativo o la gestión laboral.
+    .sep2.mb-4
+    .row.align-items-center.mb-4
+      .col-auto        
+        img(src="@/assets/tema2/Logo_03.png", alt="alt", style="width:200px;")         
+      .col-lg         
+        p.mb-0 Es una suite de servicios empresariales que permite el desarrollo de diferentes tareas relacionadas con el marketing digital, CRM, gestión de correo electrónico, entre otras.
+    .sep2.mb-4
+    .row.align-items-center.mb-4
+      .col-auto        
+        img(src="@/assets/tema2/Logo_04.png", alt="alt", style="width:200px;")         
+      .col-lg        
+        p.mb-0 Es una plataforma que permite la verificación del perfil personal de compradores y vendedores con el fin de generar una reputación online de personas y empresas para generar confianza en los intercambios comerciales.
+    .sep2.mb-4
+    .row.align-items-center.mb-4
+      .col-auto        
+        img(src="@/assets/tema2/Logo_05.png", alt="alt", style="width:200px;")         
+      .col-lg         
+        p.mb-0 Es una plataforma que permite crear redes sociales personalizadas en cuanto a diseño y funciones, además de integrarse con otras redes como Facebook y Twitter.
+    .sep2.mb-4
+    .row.align-items-center.mb-4
+      .col-auto        
+        img(src="@/assets/tema2/Logo_06.png", alt="alt", style="width:200px;")         
+      .col-lg         
+        p.mb-0 Es ideal para el desarrollo de campañas de marketing integrales; combina herramientas de gestión de contenidos, correo electrónico y monitorización de redes sociales.
+    .sep2.mb-4
+    .row.align-items-center.mb-4
+      .col-auto        
+        img(src="@/assets/tema2/Logo_07.png", alt="alt", style="width:200px;")         
+      .col-lg         
+        p.mb-0 Es una herramienta para el desarrollo de investigaciones de mercado y gestión de campañas publicitarias. Maneja datos de segmentación y optimización de tiempos.
+    .sep2.mb-4
+    .row.align-items-center.mb-4
+      .col-auto        
+        img(src="@/assets/tema2/Logo_08.png", alt="alt", style="width:200px;")         
+      .col-lg          
+        p.mb-0 Es una plataforma para ver y transmitir video en vivo, con el fin de llegar a un público masivo con contenido audiovisual.
+    .sep2.mb-4
+    .row.align-items-center.mb-4
+      .col-auto        
+        img(src="@/assets/tema2/Logo_09.png", alt="alt", style="width:200px;")         
+      .col-lg           
+        p.mb-0 Es una suite que provee soluciones CRM por suscripción. En ella se puede crear aplicaciones, tener contacto con toda la organización, contactar clientes y realizar estrategias de venta, todo en línea.
+    .sep2.mb-4
+    .row.align-items-center.mb-4
+      .col-auto        
+        img(src="@/assets/tema2/Logo_10.png", alt="alt", style="width:200px;")         
+      .col-lg        
+        p.mb-0 Es una plataforma que permite realizar publicaciones simultáneas en varias redes sociales como Facebook, Instagram y Twitter. 
+    .sep2.mb-4
+
     br
     #t_2_6.titulo-segundo
       h2 2.6 SEO en el marketing digital
 
-    .row
-      .col-lg.justify-content-md-center.align-self-center
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg.mb-5.mb-lg-0
         p Inicialmente el SEO (del inglés Search Engine Optimization) se enmarca en las estrategias del marketing relacional y el colaborativo, que tienden a primar el buscador como canal de publicidad para públicos muy segmentados (aquellos que utilicen cierta búsqueda concreta) y, finalmente, el ideal de una estrategia de SEO implica crear una red propia de usuarios fidelizados que hablen bien y proactivamente de la marca. Por eso es importante primero pensar qué tipo de estrategia global se va a llevar a cabo, y en función de esta, pensar en él y no antes. Así, en la relación entre marketing y SEO se debe tener en cuenta: marketing no es SEO y SEO no es marketing; el marketing es un concepto más amplio que el SEO. Primero se debe estudiar la estrategia de marketing y su continuación. La unión de marketing + SEO debe llevar a visitas que lleven a acciones y posiblemente esas acciones lleven a ventas o conversiones. Serrano (2015)
 
       .col-12.col-lg-auto.justify-content-md-center.mb-4
          img.img_ava(src='@/assets/tema2/img-16.svg' alt='AvatarTop')
     
-    .h3 SEM
-    p El SEM (del inglés Search Engine Marketing) a diferencia de SEO, utiliza herramientas que los buscadores ofrecen para el desarrollo de estrategias de posicionamiento a través de anuncios publicitarios pagos, como es el caso de Google Adwords; esto requiere la selección de palabras claves, creación de anuncios y gestión de pauta. Se pueden realizar a través de PPC (Pago Por Clic) y PCP (Costo Por Clic). El SEM tiene varias ventajas que se verán a continuación:
-    .ul.lista-ul--color.ml-5
-          li 
-            i.fas.fa-caret-right
-            p Permite que un producto o servicio sea reconocido rápidamente.
-          li 
-            i.fas.fa-caret-right
-            p Permite competir con empresas grandes y con alto posicionamiento en el mercado.
-          li 
-            i.fas.fa-caret-right
-            p El ROI es más rápido.
-          li 
-            i.fas.fa-caret-right
-            p Permite llegar a mercados muy específicos porque permite un alto nivel de segmentación.
-    p Sin embargo, este tipo de comunicación también tiene algunas desventajas:
+    h3 SEM
+    p.mb-4 El SEM (del inglés Search Engine Marketing) a diferencia de SEO, utiliza herramientas que los buscadores ofrecen para el desarrollo de estrategias de posicionamiento a través de anuncios publicitarios pagos, como es el caso de Google Adwords; esto requiere la selección de palabras claves, creación de anuncios y gestión de pauta. Se pueden realizar a través de PPC (Pago Por Clic) y PCP (Costo Por Clic). El SEM tiene varias ventajas que se verán a continuación:
+    .ul.lista-ul--color.ml-5.mb-4
+      li 
+        i.fas.fa-caret-right
+        p Permite que un producto o servicio sea reconocido rápidamente.
+      li 
+        i.fas.fa-caret-right
+        p Permite competir con empresas grandes y con alto posicionamiento en el mercado.
+      li 
+        i.fas.fa-caret-right
+        p El ROI es más rápido.
+      li 
+        i.fas.fa-caret-right
+        p Permite llegar a mercados muy específicos porque permite un alto nivel de segmentación.
+
+    p.mb-4 Sin embargo, este tipo de comunicación también tiene algunas desventajas:
     .ul.lista-ul--color.ml-5
           li 
             i.fas.fa-caret-right
@@ -494,23 +538,22 @@
       h2 2.7 Promoción en la web
     p.mb-5 En la web hay múltiples opciones de hacer promoción para las empresas y marcas, desde alternativas gratuitas que implican un proceso más orgánico y lento para el logro de posicionamiento de marca, incremento en ventas y reconocimiento por parte del mercado meta; hasta el pago de pauta en sitios web incluidos en la red Display de Google a través de su plataforma de pago Adwords, la cual incluye anuncios en YouTube. También en Facebook, la red social más grande del mundo con más de 2400 millones de cuentas inscritas y que permite una serie de modelos de publicidad pagada, que va desde publicaciones que llegan a segmentos específicos hasta campañas muy bien estructuradas que incluyen una completa planificación por temporadas establecidas.
 
-    .row
-      .col-lg.justify-content-md-center.align-self-center
+    .row.mb-5
+      .col-lg-6
         .h4 Google Adwords
         p En el nombre de esta plataforma se pueden encontrar los dos elementos básicos que lo conforman: en primer lugar, Google, este es el motor de búsqueda más utilizado a nivel mundial y donde migra el 80 % de la información que se consulta; siendo un motor de búsqueda su función es ingresar a cada una de las páginas que hacen parte de su red Display conformada por millones de sitios que Google ha seleccionado por la calidad y flujo de la información. Las búsquedas realizadas por las personas allí incluyen el segundo elemento, las palabras claves: estas palabras son las que van a determinar el proceso de promoción dentro de la red Display, por lo tanto, lo que una empresa compra a Google son palabras claves que están ligadas a la actividad económica de la empresa o de la industria a la que pertenece para llegar al público específico, que a través de este buscador está averiguando un tema en particular. Por ejemplo, una empresa dedicada a la venta de computadores ubicada en Bogotá quiere promocionarse en Google, en este caso la empresa podría adquirir palabras como: computadores, equipos de cómputo, computadoras personales, laptops, all in one entre otras. Con estas palabras puede realizar varios tipos de estrategias promocionales.
 
-      .col-12.col-lg-auto.justify-content-md-center.mb-4
-         img.img_ava(src='@/assets/tema2/img-17.svg' alt='AvatarTop')
+      .col-lg-6
+        img(src='@/assets/tema2/img-17.svg' alt='AvatarTop', style="width:400px;").m-auto
 
     .row.mb-3
       .col-md-6.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/tema2/img-18.svg' alt='AvatarTop')
-
           .tarjeta.color-acento-botones
             .p-4.m-3
-              .h2.text-center Anuncios de texto:
-              p En el buscador por lo general están diferenciados en color y están ubicados dentro de la página principal de Google al hacer una búsqueda.
+              .h4.text-center Anuncios de texto
+              p.text-center En el buscador por lo general están diferenciados en color y están ubicados dentro de la página principal de Google al hacer una búsqueda.
 
       .col-md-6.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar
@@ -518,8 +561,8 @@
 
           .tarjeta.color-acento-botones
             .p-4.m-3
-              .h2.text-center Anuncios en la red Display:
-              p Banners, imágenes y videos en sitios web de alto tráfico y de acuerdo con las búsquedas realizadas por los usuarios.
+              .h4.text-center Anuncios en la red Display
+              p.text-center Banners, imágenes y videos en sitios web de alto tráfico y de acuerdo con las búsquedas realizadas por los usuarios.
 
       .col-md-6.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar
@@ -527,8 +570,8 @@
         
           .tarjeta.color-acento-botones
             .p-4.m-3
-              .h2.text-center Remarketing:
-              p A través de la red Display, utilizando búsquedas realizadas por usuarios y ubicándolas en sitios web que se vieron posteriormente y hagan parte de la red Display.
+              .h4.text-center Remarketing
+              p.text-center A través de la red Display, utilizando búsquedas realizadas por usuarios y ubicándolas en sitios web que se vieron posteriormente y hagan parte de la red Display.
     br         
     .row.mb-5
       .col-md-6.col-lg.mb-5.mb-lg-0
@@ -537,8 +580,8 @@
 
           .tarjeta.color-acento-botones
             .p-4.m-3
-              .h2.text-center En YouTube:
-              p Con banners y videos al inicio o en el intermedio de publicaciones con altos niveles de reproducción.
+              .h4.text-center En YouTube
+              p.text-center Con banners y videos al inicio o en el intermedio de publicaciones con altos niveles de reproducción.
 
       .col-md-6.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar
@@ -546,8 +589,8 @@
 
           .tarjeta.color-acento-botones
             .p-4.m-3
-              .h2.text-center Shopping:
-              p Se basa en mostrar anuncios más completos sobre productos concretos con precio y características detalladas de los mismos.
+              .h4.text-center Shopping
+              p.text-center Se basa en mostrar anuncios más completos sobre productos concretos con precio y características detalladas de los mismos.
 
       .col-md-6.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar
@@ -555,70 +598,67 @@
         
           .tarjeta.color-acento-botones
             .p-4.m-3
-              .h2.text-center Gmail:
-              p banners en la bandeja de entrada de Gmail con el mismo diseño y formato de los correos recibidos.
+              .h4.text-center Gmail
+              p.text-center banners en la bandeja de entrada de Gmail con el mismo diseño y formato de los correos recibidos.
     br    
     .h4 Facebook Ads
     p Es la plataforma de promoción con la que cuenta Facebook para el desarrollo de estrategias de marketing en esta red social, haciendo uso de todo su sistema de audiencia, tal vez el más grande a nivel mundial. En Facebook se pueden realizar estrategias de promoción de forma rápida, económica y efectiva, gracias a las múltiples posibilidades que presenta para quienes buscan realizar promoción de productos o servicios.
-    p Ventajas de realizar promoción en Facebook Ads:
+    p.mb-5 Ventajas de realizar promoción en Facebook Ads:
 
     TabsB.color-primario.mb-5
       .py-4.py-md-5(titulo="Segmentación del mercado" :icono="require('@/assets/tema2/img-24.svg')")
-        .row
-          .col-md-6.mb-4.mb-md-0
+        .row.justify-content-center
+          .col-lg-5.mb-4.mb-md-0
             .h4 Segmentación del mercado
-            p La segmentación en esta red social es tal vez una de las más específicas que se puedan realizar en una estrategia de marketing, gracias a la caracterización que los mismos usuarios realizan en sus perfiles y toda la información que en ellos generan, de esta forma no solo se puede hacer una segmentación con datos demográficos, sino también con características personales muy concretas, gustos a todo nivel, intereses, temas de consulta, palabras claves, grupos de influencia, entre muchos otros datos.
-        
-          .col-md-6
-            figure
-              img(src='@/assets/tema2/img-29.svg', alt='Segmentación del mercado')
+            p La segmentación en esta red social es tal vez una de las más específicas que se puedan realizar en una estrategia de marketing, gracias a la caracterización que los mismos usuarios realizan en sus perfiles y toda la información que en ellos generan, de esta forma no solo se puede hacer una segmentación con datos demográficos, sino también con características personales muy concretas, gustos a todo nivel, intereses, temas de consulta, palabras claves, grupos de influencia, entre muchos otros datos.        
+          .col-lg-5            
+            img(src='@/assets/tema2/img-29.svg', alt='Segmentación del mercado', style="width:350px;").m-auto
             
       .py-4.py-md-5(titulo="Viralización" :icono="require('@/assets/tema2/img-25.svg')")
-        .row
-          .col-md-6.mb-4.mb-md-0
+        .row.justify-content-center
+          .col-lg-5.mb-4.mb-md-0
             .h4 Viralización
-            p El pago de anuncios en Facebook además de garantizar el alcance de miles o quizás millones de personas es solo el primer paso para hacer un anuncio viral, quienes son alcanzados por un anuncio tienen la opción de compartirlo con sus contactos, esto significa que si aquello que se publica es de interés del mercado objetivo, puede viralizarse por iniciativa de los mismos usuarios, de ahí la importancia del desarrollo de contenidos atractivos, creativos y de calidad.
-        
-          .col-md-6
+            p El pago de anuncios en Facebook además de garantizar el alcance de miles o quizás millones de personas es solo el primer paso para hacer un anuncio viral, quienes son alcanzados por un anuncio tienen la opción de compartirlo con sus contactos, esto significa que si aquello que se publica es de interés del mercado objetivo, puede viralizarse por iniciativa de los mismos usuarios, de ahí la importancia del desarrollo de contenidos atractivos, creativos y de calidad.        
+          .col-lg-5
             figure
-              img(src='@/assets/tema2/img-30.svg', alt='Viralización')
+              img(src='@/assets/tema2/img-30.svg', alt='Viralización', style="width:350px;").m-auto
              
         
       .py-4.py-md-5(titulo="Interactividad" :icono="require('@/assets/tema2/img-26.svg')")
-        .row
-          .col-md-6.mb-4.mb-md-0
+        .row.justify-content-center
+          .col-lg-5.mb-4.mb-md-0
             .h4 Interactividad
             p Las redes sociales y en particular Facebook, ofrecen una amplia gama de posibilidades de interacción que permite que la marca y el mercado objetivo tengan una comunicación de doble vía y este último otorgue a la empresa datos que sean muy relevantes para el desarrollo de futuras estrategias de comunicación y marketing.
         
-          .col-md-6
+          .col-lg-5
             figure
-              img(src='@/assets/tema2/img-31.svg', alt='Interactividad')
+              img(src='@/assets/tema2/img-31.svg', alt='Interactividad', style="width:350px;").m-auto
            
 
       .py-4.py-md-5(titulo="Costo" :icono="require('@/assets/tema2/img-27.svg')")
-        .row
-          .col-md-6.mb-4.mb-md-0
+        .row.justify-content-center
+          .col-lg-5.mb-4.mb-md-0
             .h4 Costo
             p las estrategias que se realicen en Facebook suelen ser económicas debido al sistema de pago por clic, en el que solo se paga por los clics que se hagan en los anuncios y generen respuestas efectivas.
         
-          .col-md-6
+          .col-lg-5
             figure
-              img(src='@/assets/tema2/img-32.svg', alt='Costo')
+              img(src='@/assets/tema2/img-32.svg', alt='Costo' ,style="width:350px;").m-auto
   
         
       
       .py-4.py-md-5(titulo="Medición" :icono="require('@/assets/tema2/img-28.svg')")
-        .row
-          .col-md-6.mb-4.mb-md-0
+        .row.justify-content-center
+          .col-lg-5.mb-4.mb-md-0
             .h4 Medición
             p Uno de los aspectos más relevantes para cualquier estrategia de comunicación, es el acceso a datos estadísticos reales que permitan conocer el nivel de efectividad que un anuncio o campaña tiene, esto permite determinar el ROI de la estrategia y realizar correcciones para lograr los objetivos y el desarrollo de campañas futuras.
         
-          .col-md-6
+          .col-lg-5
             figure
-              img(src='@/assets/tema2/img-33.svg', alt='Medición')
+              img(src='@/assets/tema2/img-33.svg', alt='Medición', style="width:350px;").m-auto
       
     br 
-    .h4 Tipos de campañas que se pueden realizar a través de Facebook Ads:
+    .h4.mb-5 Tipos de campañas que se pueden realizar a través de Facebook Ads:
     .tabla-b.mb-5
       .t-f.p-4
         .h3.mb-0.wh-le De la misma forma como en cualquier otro medio, sea convencional o alternativo, Facebook ha desarrollado una serie de posibilidades de campañas y estrategias de comunicación, de acuerdo con las necesidades y posibilidades de los anunciantes:
@@ -682,6 +722,7 @@
     br
     #t_2_8.titulo-segundo
       h2 2.8 Conceptos básicos del marketing digital
+
     p.mb-5 Es tal vez la metodología que presenta mayor eficacia en el desarrollo de una estrategia de marketing, la cual tenga como finalidad la atracción del mercado potencial para hacerlo adepto a una marca por su propia convicción e iniciativa. El inbound marketing crea experiencias significativas que generan valor para el mercado objetivo de la empresa, esto se realiza con el desarrollo de contenido útil y relevante para los usuarios de un sitio web, al mismo tiempo que se interactúa con ellos a través de medios más personales y con la posibilidad de generar un nivel de conversación más personal, como el correo electrónico, los mensajes de texto y los chats. No tiene un enfoque promocional o publicitario, por el contrario, el contenido generado representa mayor utilidad y relevancia, lo que hace que el mercado potencial se acerque a la marca de forma orgánica. Un ejemplo de ello es el modelo aplicado en escuelas de inglés o institutos donde se dictan estos tipos de cursos, enfatizándose siempre en una conversación más cercana.
 
     br
@@ -690,13 +731,13 @@
         img(src='@/assets/tema2/img-34.svg', alt='Conceptos básicos del marketing digital')
 
     .row.mb-5
-      .col-md-6.row
-        .h4 Atraer: 
+      .col-md-6
+        h4 Atraer: 
         p En este punto se atraen a todos aquellos clientes potenciales; es decir, aquellos que tienen la opción de convertirse en compradores efectivos del producto o servicio. para ello, es indispensable desarrollar contenido relevante y muy atractivo, adicional de llegar a ellos con anuncios en redes sociales y medios más directos. Atraer significa demostrar a los prospectos que pueden confiar en la marca para resolver un problema en particular o para satisfacer una necesidad. Las personas buscan respuestas a preguntas que tienen en sus consiente e inconsciente y si están relacionados con un producto o servicio en particular es viable utilizar conocimiento e información que resulte útil para resolver dichas preguntas y atraer al mercado específico. Para este punto se puede hacer uso de algunas herramientas muy puntuales:
         
       .col-md-6.menta.p-5
         p Para este punto se puede hacer uso de algunas herramientas muy puntuales:
-        .ul.lista-ul--color
+        .ul.lista-ul--color.mb-0
           li 
             i.fas.fa-check
             p Anuncios
@@ -709,13 +750,13 @@
           li 
             i.fas.fa-check
             p Redes sociales
-          li 
+          li.mb-0
             i.fas.fa-check
-            p Diseño de contenidos
+            p.mb-0 Diseño de contenidos
 
 
     .row.mb-5
-      .col-md-6.row
+      .col-md-6
         .h4 Conversar: 
         p En este momento ya se ha identificado un grupo de prospectos que permite ir un paso adelante en el proceso de venta, también se han diferenciado los medios por los que dichos prospectos prefieren entablar una determinada conversación: correo electrónico, chat, sitio web o redes sociales; con estos datos ya se puede acceder a información más personal de estos usuarios a través de un método de conversión como un formulario de suscripción. Posteriormente, esta información se utiliza para realizar estrategias de marketing relacional con herramientas CRM que generen experiencias personalizadas, a la medida de cada miembro del mercado objetivo. En este punto es necesario hacer una diferenciación de los usuarios e identificar cuáles de ellos son los más adeptos y cercanos a la marca para comenzar todo un programa que permita cautivarlos y llevarlos al siguiente nivel, donde por medio de estrategias de interacción se hacen ofertas concretas de los productos o servicios que la empresa ofrece. 
         
@@ -737,11 +778,12 @@
           li 
             i.fas.fa-check
             p Videos
-          li 
+          li.mb-0
             i.fas.fa-check
-            p Catálogos y portafolios
+            p.mb-0 Catálogos y portafolios
+            
     .row.mb-5
-      .col-md-6.row
+      .col-md-6
         .h4 Seducir: 
         p Es el momento de realizar un mayor número de conversaciones e interacciones, pero en este punto con clientes reales identificados plenamente. La conversación incluye también a la fuerza de ventas y todo aquel que esté involucrado con la prestación de servicio. La creación de contenidos interesantes y relevantes debe continuar, esta vez con información más puntual y útil para el mercado específico. El proceso de venta en esta fase del proceso inbound ya es un hecho, para ello debe haber un protocolo de cotización y atención al cliente muy bien estructurado. Por último, es necesario pedir retroalimentación permanente al cliente con el fin de conocer el nivel de satisfacción que este tiene frente al producto, servicio y la atención recibida. 
         
@@ -760,68 +802,88 @@
           li 
             i.fas.fa-check
             p Catálogos y portafolios
-          li 
+          li.mb-0
             i.fas.fa-check
-            p Encuestas de satisfacción
+            p.mb-0 Encuestas de satisfacción
     br
-    .row.t-gris3.p-4
-      #t_2_9.titulo-segundo
+
+    .crd-gris
+      #t_2_9.titulo-segundo.mt-5
         h2 2.9 Plan de marketing digital
+
       p.mb-5 Ya se cuentan con todos los elementos y herramientas necesarios para el desarrollo de un plan de marketing digital eficiente y coherente con las necesidades de la empresa y las características del mercado y como se ha dicho anteriormente, la diferencia entre el marketing convencional y el marketing digital, radica en los canales de interacción entre la marca y el cliente o consumidor para el desarrollo de las estrategias de comercialización, entrega de productos y comunicación, variables que se han analizado en el presente componente formativo. Por lo tanto, el desarrollo del plan de marketing digital presenta la estructura ya estudiada: 
 
-      .ul.lista-ul--color
-          li 
-            i.fas.fa-caret-right
-            p Brief táctico
-          .sep2    
-          li 
-            i.fas.fa-caret-right
-            p Objetivo de mercadeo
-          .sep2   
-          li 
-            i.fas.fa-caret-right
-            p Mercado objetivo
-          .sep2   
-          li 
-            i.fas.fa-caret-right
-            p Plan de medios digital <code><</code>seleccionar por lo menos 1 medio offline como apoyo a las estrategias online<code>></code>.
-          .sep2   
-          li 
-            i.fas.fa-caret-right
-            p Estrategias de comercialización y promoción online:
-          .col-12.row
-            .col-6
-              li 
-                i.fas.fa-check
-                p Logística de entrega
-              li 
-                i.fas.fa-check
-                p Sistema de pago
-              li 
-                i.fas.fa-check
-                p Horarios de posteo de anuncios
-              li 
-                i.fas.fa-check
-                p Estrategias de promoción de ventas
-            .col-6
-                  li 
-                    i.fas.fa-check
-                    p Estrategias de atracción y conversión de clientes.
-                  li 
-                    i.fas.fa-check
-                    p Seguimiento a clientes <code><</code>estrategias postventa<code>></code>.
-                  li 
-                    i.fas.fa-check
-                    p Sistema de información de mercados <code><</code>data<code>></code>.
-                  li 
-                    i.fas.fa-check
-                    p Estructuración de redes sociales para comunicación con los clientes.                                                                          
+      .row
+        .col-auto
+          p #[span.roundNumber A] 
+        .col
+          p Brief táctico
+      .sep2.mb-3
 
-          .sep2                                                
-          li 
-            i.fas.fa-caret-right
-            p Cronograma y presupuesto del plan de mercadeo digital:
-              row
+      .row
+        .col-auto
+          p #[span.roundNumber B] 
+        .col
+          p Objetivo de mercadeo     
+      .sep2.mb-3
+
+      .row
+        .col-auto
+          p #[span.roundNumber C] 
+        .col
+          p Mercado objetivo   
+      .sep2.mb-3
+
+      .row
+        .col-auto
+          p #[span.roundNumber D] 
+        .col
+          p Plan de medios digital <code><</code>seleccionar por lo menos 1 medio offline como apoyo a las estrategias online<code>></code>.  
+      .sep2.mb-3
+
+      .row
+        .col-auto
+          p #[span.roundNumber E] 
+        .col
+          p Estrategias de comercialización y promoción online:
+          .row.ms-3
+            .col-lg-auto.me-0.me-lg-4
+              ul.lista-ul--color
+                li 
+                  i.fas.fa-check
+                  p Logística de entrega
+                li 
+                  i.fas.fa-check
+                  p Sistema de pago
+                li 
+                  i.fas.fa-check
+                  p Horarios de posteo de anuncios
+                li 
+                  i.fas.fa-check
+                  p Estrategias de promoción de ventas
+            .col-lg-auto
+              ul.lista-ul--color
+                li 
+                  i.fas.fa-check
+                  p Estrategias de atracción y conversión de clientes.
+                li 
+                  i.fas.fa-check
+                  p Seguimiento a clientes <code><</code>estrategias postventa<code>></code>.
+                li 
+                  i.fas.fa-check
+                  p Sistema de información de mercados <code><</code>data<code>></code>.
+                li 
+                  i.fas.fa-check
+                  p Estructuración de redes sociales para comunicación con los clientes. 
+      .sep2.mb-3
+      .row
+        .col-auto
+          p #[span.roundNumber F] 
+        .col
+          p Cronograma y presupuesto del plan de mercadeo digital:         
+          .row.ms-3
+            .col-lg-6
+              ul.lista-ul--color
                 li 
                   i.fas.fa-check
                   p Objetivos de frecuencia e intensidad
@@ -836,9 +898,7 @@
                   p Costo del impacto   
                 li 
                   i.fas.fa-check
-                  p Cálculo de CPM                  
-
-          .sep2             
+                  p Cálculo de CPM                
 
 </template>
 
