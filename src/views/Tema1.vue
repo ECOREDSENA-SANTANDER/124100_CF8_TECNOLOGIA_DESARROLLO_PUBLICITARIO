@@ -24,8 +24,8 @@
     .row.justify-content-center
       .col-lg-10
         .crd_02.mb-5
-          .crd_02__icon
-            img(src="@/assets/tema1/img-2.svg", alt="alt").class          
+          .crd_02__icon.dan
+            img(src="@/assets/tema1/img-2.svg", alt="alt")          
           .crd_02__txt
             p Para la AMA (American Marketing Asociation) el marketing es una forma de organizar un conjunto de acciones y procesos a la hora de crear un producto “para crear, comunicar y entregar valor a los clientes y para manejar las relaciones” y su finalidad es beneficiar a la organización satisfaciendo a los clientes.
       .col-lg-10

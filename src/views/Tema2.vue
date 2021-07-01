@@ -217,7 +217,7 @@
       .col-xl-6
         .sep2
         .crd_01
-          .crd_02__icon.m-3
+          .crd_02__icon.m-3.customSize
             img(src='@/assets/tema2/img-12.svg' alt='AvatarTop')
           .crd_02__txt.m-4
             .h4 Google Trends
@@ -225,7 +225,7 @@
       .col-xl-6
         .sep2
         .crd_01
-          .crd_02__icon.m-3
+          .crd_02__icon.m-3.customSize
             img(src='@/assets/tema2/img-12.svg' alt='AvatarTop' ).class 
           .crd_02__txt.m-4
             .h4 Board reader
@@ -234,7 +234,7 @@
       .col-xl-6
         .sep2
         .crd_01
-          .crd_02__icon.m-3
+          .crd_02__icon.m-3.customSize
             img(src='@/assets/tema2/img-12.svg' alt='AvatarTop' ).class 
           .crd_02__txt.m-4
             .h4 How sociable
@@ -242,7 +242,7 @@
       .col-xl-6
         .sep2
         .crd_01
-          .crd_02__icon.m-3
+          .crd_02__icon.m-3.customSize
             img(src='@/assets/tema2/img-12.svg' alt='AvatarTop' ).class 
           .crd_02__txt.m-4
             .h4 Icerocket
@@ -252,7 +252,7 @@
       .col-xl-6
         .sep2
         .crd_01
-          .crd_02__icon.m-3
+          .crd_02__icon.m-3.customSize
             img(src='@/assets/tema2/img-12.svg' alt='AvatarTop' ).class 
           .crd_02__txt.m-4
             .h4 Klout
@@ -261,7 +261,7 @@
       .col-xl-6
         .sep2
         .crd_01
-          .crd_02__icon.m-3
+          .crd_02__icon.m-3.customSize
             img(src='@/assets/tema2/img-12.svg' alt='AvatarTop' ).class 
           .crd_02__txt.m-4
             .h4 Estadísticas de las redes sociales
@@ -271,7 +271,7 @@
       .col-xl-6
         .sep2
         .crd_01
-          .crd_02__icon.m-3
+          .crd_02__icon.m-3.customSize
             img(src='@/assets/tema2/img-12.svg' alt='AvatarTop' ).class 
           .crd_02__txt.m-4
             .h4 Linkfluence
@@ -279,7 +279,7 @@
       .col-xl-6
         .sep2
         .crd_01
-          .crd_02__icon.m-3
+          .crd_02__icon.m-3.customSize
             img(src='@/assets/tema2/img-12.svg' alt='AvatarTop' ).class 
           .crd_02__txt.m-4
             .h4 Social Mention
@@ -290,7 +290,7 @@
       .col-xl-6
         .sep2
         .crd_01
-          .crd_02__icon.m-3
+          .crd_02__icon.m-3.customSize
             img(src='@/assets/tema2/img-12.svg' alt='AvatarTop' ).class 
           .crd_02__txt.m-4
             .h4 Crimson Hexagon
