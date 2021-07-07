@@ -41,7 +41,7 @@
           .crd_02__txt
             p Mientras que la RAE define el marketing como un conjunto de operaciones por las que ha de pasar una mercancía desde el productor al consumidor. 
 
-    p.mb-5 Todas ellas tienen en común el enfoque en la producción y comercialización de bienes y servicios; sin embargo, el marketing va más allá de eso. En la definición de Kotler se puede observar como hace énfasis en lo social, aludiendo claramente que el mercadeo tiene un enfoque en el ser; es decir, en el consumidor. La AMA por su parte enfatiza en la propuesta de valor, elemento fundamental en el proceso de mercadeo, aunque el aspecto más importante a resaltar es la “satisfacción de necesidades”. Se podría decir entonces que el marketing, mercadeo o mercadotecnia es un conjunto de actividades que se encargan del estudio de un mercado, con el fin de identificar necesidades, gustos o deseos para satisfacerlos a través de bienes o servicios que den al cliente beneficios que obtienen utilidades para la empresa.
+    p.mb-5 Todas ellas tienen en común el enfoque en la producción y comercialización de bienes y servicios; sin embargo, el marketing va más allá de eso. En la definición de Kotler se puede observar cómo hace énfasis en lo social, aludiendo claramente que el mercadeo tiene un enfoque en el ser; es decir, en el consumidor. La AMA por su parte enfatiza en la propuesta de valor, elemento fundamental en el proceso de mercadeo, aunque el aspecto más importante a resaltar es la “satisfacción de necesidades”. Se podría decir entonces que el marketing, mercadeo o mercadotecnia es un conjunto de actividades que se encargan del estudio de un mercado, con el fin de identificar necesidades, gustos o deseos para satisfacerlos a través de bienes o servicios que den al cliente beneficios que obtienen utilidades para la empresa.
 
     .row.img-200.justify-content-around.align-items-center
       figure.mb-5
@@ -99,7 +99,7 @@
           .sep2
           li 
             i.fas.fa-caret-right
-            p Los intermediariosaaaaaa      
+            p Los intermediarios     
 
     h5.mb-4 Variables internas
     p.mb-5 También llamadas variables controlables; estas se encuentran bajo el dominio y manejo de la empresa y permiten desarrollar estrategias enfocadas en la satisfacción total de los clientes y consumidores, generando atracción hacia el producto, servicio o marca. Las variables controlables también permiten contrarrestar los efectos de las no controlables o externas; por ejemplo, con la pandemia del año 2020 con la llegada de la COVID-19, varias empresas debieron realizar estrategias de mercadeo para contrarrestar los efectos que el confinamiento y la cuarentena les produjo desde el punto de vista económico, fue así como muchas empresas debieron implementar estrategias de distribución de sus productos basadas en las entregas a domicilio, otras debieron crear nuevos portafolios de productos o servicios que se adaptaran más a un nuevo sistema de comercialización o satisficiera otras necesidades de sus clientes. Por su puesto, las empresas deberían tener planes de contingencia para este tipo de eventos, no obstante, la pandemia del COVID-19 tomó por sorpresa, incluso a las más grandes y organizadas. 
@@ -208,7 +208,7 @@
           .mb-0.colc
               figure.
               img.mb-4(src='@/assets/tema1/img-10.svg', alt='Tipos de titulares', style="width:450px;").m-auto
-              p #[strong La promoción] implica actividades que comunican las ventajas del producto y persuaden a los clientes metas de que lo compren. Subvariables:
+              p #[strong La promoción] implica actividades que comunican las ventajas del producto y persuaden a los clientes meta de que lo compren. Subvariables:
           .row
             .col-md-6
               .ul.lista-ul--color
@@ -250,7 +250,7 @@
         .crd_01__txt         
           p.lii #[strong Identificación]
           
-          p.lii cuando un producto llega al mercado y consigue posicionarse y mantenerse en él, es debido a varias alternativas:
+          p.lii Cuando un producto llega al mercado y consigue posicionarse y mantenerse en él, es debido a varias alternativas:
 
       .col-lg-6       
         img.mb-4(src='@/assets/tema1/img-11.svg', alt='Tipos de titulares', style="width:450px;").m-auto
@@ -264,7 +264,7 @@
           p La identificación de necesidades en un mercado implica el desarrollo de investigación y análisis exhaustivos que permitan ahondar en los gustos y deseos de los consumidores, las necesidades no son solo aquellas carencias básicas del ser humano, también se pueden definir como los deseos, intereses y demandas que una persona o grupo presentan en determinado momento o para un fin específico.
 
       p #[strong Producto innovador] 
-      p Es un paso que se da en muy pocas ocasiones, en la actualidad con mucho menos frecuencia; sin embargo, aún se dan casos de productos que suelen ser muy innovadores y no se han generado para la satisfacción de una necesidad en particular; aunque, es necesario hacer la salvedad que todo producto o servicio satisface una necesidad del mercado. Es el caso de Facebook, donde esta red social fue creada con fines muy diferentes a los que tiene en la actualidad, pero por su carácter de innovador le representó convertirse en un servicio mundialmente conocido y utilizado por miles de millones de personas de los cinco continentes.
+      p Es un paso que se da en muy pocas ocasiones, en la actualidad con mucha menos frecuencia; sin embargo, aún se dan casos de productos que suelen ser muy innovadores y no se han generado para la satisfacción de una necesidad en particular; aunque, es necesario hacer la salvedad que todo producto o servicio satisface una necesidad del mercado. Es el caso de Facebook, donde esta red social fue creada con fines muy diferentes a los que tiene en la actualidad, pero por su carácter de innovador le representó convertirse en un servicio mundialmente conocido y utilizado por miles de millones de personas de los cinco continentes.
 
 
     .row.fond3.p-4.mb-5
@@ -275,7 +275,7 @@
             h1.cc3 B
         .crd_01__txt         
           p.lii #[strong Investigación]          
-          p.lii si bien el paso anterior implica realizar un proceso de investigación, es después de la identificación de la necesidad o la oportunidad del mercado, que se comienza el verdadero proceso investigativo e implica analizar el mercado desde varios frentes:
+          p.lii Si bien el paso anterior implica realizar un proceso de investigación, es después de la identificación de la necesidad o la oportunidad del mercado, que se comienza el verdadero proceso investigativo e implica analizar el mercado desde varios frentes:
 
       .col-lg-6.mb-5              
         img.mb-4(src='@/assets/tema1/img-12.svg', alt='Tipos de titulares', style="width:450px;").m-auto
@@ -291,7 +291,7 @@
       .col-lg-6.mb-5
         .mb-0.colc
               p #[strong Benchmarking] 
-              p La competencia siempre existe, ya sea de forma directa o indirecta, es por eso un paso muy importante el análisis de los productos o servicios que existen en el mercado y que son iguales a los de la empresa o satisfacen la misma necesidad, esta información puede generar datos muy importantes en cuanto diseño de productos, desarrollo de estrategias de precio, distribución y promoción. Se puede decir que es posible hacer un análisis del recorrido que han realizado los competidores para hacer posibles correcciones o realizar estrategias similares.
+              p La competencia siempre existe, ya sea de forma directa o indirecta, es por eso un paso muy importante el análisis de los productos o servicios que existen en el mercado y que son iguales a los de la empresa o satisfacen la misma necesidad, esta información puede generar datos muy importantes en cuanto a diseño de productos, desarrollo de estrategias de precio, distribución y promoción. Se puede decir que es posible hacer un análisis del recorrido que han realizado los competidores para hacer posibles correcciones o realizar estrategias similares.
               br
               p #[strong Entorno] 
               p El mercado es muy amplio desde el punto de vista de las variables, es por ello que uno de los procesos a investigar es el entorno que rodea la empresa; allí se pueden conocer datos muy relevantes de la industria, la normatividad que aplica para el producto o servicio que se está desarrollando, los posibles obstáculos o ventajas que este puede tener.
@@ -308,8 +308,8 @@
             h1.cc3 C
 
         .crd_01__txt         
-          p.lii #[strong Investigación]          
-          p.lii si bien el paso anterior implica realizar un proceso de investigación, es después de la identificación de la necesidad o la oportunidad del mercado, que se comienza el verdadero proceso investigativo e implica analizar el mercado desde varios frentes:
+          p.lii #[strong Plan de marketing]          
+          p.lii Una vez se ha realizado la investigación, la empresa ya está lista para el desarrollo del plan de marketing, en este punto es necesario aplicar el marketing mix; es decir, hacer la combinación de variables controlables con el fin de llevar el producto o servicio de la forma más adecuada y oportuna al mercado objetivo. El plan de marketing se profundizará más adelante.
     
       .row.justify-content-around.align-items-center.img-200
         figure.mb-5
@@ -326,7 +326,7 @@
          
           p.lii #[strong Monitoreo]
           
-          p.mb-5 El monitoreo o monitorización es una parte fundamental del proceso de mercado, este determina que tan efectivo ha sido el plan y si se están cumpliendo los objetivos planteados. El monitoreo debe hacerlo una persona externa a través del análisis de los indicadores de gestión que se hayan planteado, esto garantiza que se realicen los ajustes que se requieran o continuar aplicando las estrategias en el caso que estén mostrando resultados por encima de la meta propuesta.
+          p.mb-5 El monitoreo o monitorización es una parte fundamental del proceso de mercado, este determina qué tan efectivo ha sido el plan y si se están cumpliendo los objetivos planteados. El monitoreo debe hacerlo una persona externa a través del análisis de los indicadores de gestión que se hayan planteado, esto garantiza que se realicen los ajustes que se requieran o continuar aplicando las estrategias en el caso que estén mostrando resultados por encima de la meta propuesta.
                      
           img(src='@/assets/tema1/img-15.svg', alt='Marketing',style="width:750px").m-auto  
 
@@ -334,13 +334,12 @@
     #t_1_4.titulo-segundo
       h2 1.4  Creación de valor para el cliente
 
-    p.mb-5 Cómo ya se mencionó anteriormente, la razón principal por la que un cliente compra o prefiere un producto por encima de otro de la competencia, es la propuesta de valor; es decir el beneficio que ese producto o servicio le proporcione al cliente o consumidor. Vale recordar en este momento que el precio del producto debe ser menor al beneficio percibido por el cliente. 
+    p.mb-5 Como ya se mencionó anteriormente, la razón principal por la que un cliente compra o prefiere un producto por encima de otro de la competencia, es la propuesta de valor; es decir el beneficio que ese producto o servicio le proporcione al cliente o consumidor. Vale recordar en este momento que el precio del producto debe ser menor al beneficio percibido por el cliente. 
       
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.mb-5.mb-lg-0
         figure
-          img(src='@/assets/tema1/img-16.svg', alt='Texto que describa la imagen', style="width:350px;").m-auto
-          //- figcaption Tomada de https://upload.wikimedia.org/wikipedia/commons/8/87/CocaColaBottle_background_free.jpg        
+          img(src='@/assets/tema1/img-16.svg', alt='Texto que describa la imagen', style="width:350px;").m-auto                 
     
       .col-lg-8 
         .row.fond4.p-4
@@ -368,7 +367,7 @@
             
         .col-lg.justify-content-md-center
           .bloque-texto-a__texto.p-4
-            p Hablar del mercado es hacerlo del total de variables que en él existen, tanto las controlables como las no controlables. En el marketing es indispensable tener una visión holística del mercado en función del producto o servicio, cada aspecto de él es importante tenerlo claro para la toma de decisiones; la información de la industria permite determinar proyecciones de ventas y participación, el análisis de la competencia definir posibles tácticas comerciales o de promoción, el estudio de las tendencias identificar las posibles acciones futuras que la empresa debe realizar en cuanto diseño de productos o estrategias de promoción; en fin, todos los datos que del entorno se puedan obtener son una decisión acertada que la empresa puede implementar.
+            p Hablar del mercado es hacerlo del total de variables que en él existen, tanto las controlables como las no controlables. En el marketing es indispensable tener una visión holística del mercado en función del producto o servicio, cada aspecto de él es importante tenerlo claro para la toma de decisiones; la información de la industria permite determinar proyecciones de ventas y participación, el análisis de la competencia, definir posibles tácticas comerciales o de promoción, el estudio de las tendencias, identificar las posibles acciones futuras que la empresa debe realizar en cuanto a diseño de productos o estrategias de promoción; en fin, todos los datos que del entorno se puedan obtener son una decisión acertada que la empresa puede implementar.
 
     .h4 Tipos de mercado
     p.mb-5 Cada producto o servicio es un mundo aparte y muy particular, para cada uno existen consumidores reales y potenciales con características bien definidas. Es por ello, que existe también una variedad importante de mercados:
@@ -376,7 +375,7 @@
       AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta t-gris")
         .row(titulo="Mercado de consumo")
           .col-lg.justify-content-md-center
-            p es el mercado masivo, aquel que tiene necesidades permanentes y debe satisfacerlas para su supervivencia y bienestar o satisfacción personal. Dentro de él existen dos variaciones de acuerdo con el tipo de producto o servicio:
+            p Es el mercado masivo, aquel que tiene necesidades permanentes y debe satisfacerlas para su supervivencia y bienestar o satisfacción personal. Dentro de él existen dos variaciones de acuerdo con el tipo de producto o servicio:
             .ul.lista-ul--color.mb-5
               li 
                 i.fas.fa-caret-right
@@ -436,27 +435,31 @@
 
     hr.mb-5
     h4  Niveles de necesidad del mercado 
-    p Cómo ya se ha dicho en repetidas ocasiones, el mercado tiene varios niveles de necesidades, tal como se verá a continuación, en la pirámide de Abraham Maslow, psicólogo estadounidense: 
-    .row.img-200.justify-content-around.align-items-center
+    p.mb-5 Como ya se ha dicho en repetidas ocasiones, el mercado tiene varios niveles de necesidades, tal como se verá a continuación, en la pirámide de Abraham Maslow, psicólogo estadounidense: 
+
+    h5.text-center Pirámide de Abraham Maslow
+    .row.justify-content-around.align-items-center
       figure.mb-5
-        img(src='@/assets/tema1/img-24.svg', alt='Marketing')
+        img(src='@/assets/tema1/img-24.svg', alt='Marketing', style="width:650px").m-auto
+
     p.mb-5 Sin embargo, en todos ellos los niveles de satisfacción están supeditados a la capacidad económica, los gustos, los deseos o los intereses del mercado. Por ejemplo, un producto de primera necesidad es el agua y en el mercado existen diferentes niveles de un producto tan básico como este; está el agua potable que se obtiene del acueducto local y existen marcas que extraen el producto de nacimientos en montañas rocosas en las que se filtra el recurso de forma natural y tiene un alto nivel de aditivos beneficiosos para la salud. Tal vez para la mayoría de personas es suficiente con el agua del grifo, pero para un mercado muy exclusivo con características especiales, es necesario el consumo de agua filtrada naturalmente y para un grupo menos exigente pero que considera el recurso del grifo como de dudosa calidad, el consumo de una marca regular sea suficiente; es allí donde se pueden diferenciar los tres niveles de la satisfacción de necesidades:
 
-    .row.justify-content-around.align-items-center
+    .row.justify-content-around.align-items-center.mb-5
       .col-lg-11
         .ul.lista-ul--color
           li 
             i.fas.fa-caret-right
             p #[strong Necesidad:] en el sentido más básico es la carencia de algo. Una necesidad se puede satisfacer de la forma más básica; por ejemplo, el hambre se puede saciar con un trozo de pan.
-          .sep2
+          .sep2.mb-4
           li 
             i.fas.fa-caret-right
             p #[strong Deseo:] implica un nivel más alto de satisfacción que la necesidad, este se determina por la cultura y la personalidad; por ejemplo, el hambre se puede saciar también con la satisfacción de un deseo: una hamburguesa con gaseosa.
-          .sep2
+          .sep2.mb-4
           li 
             i.fas.fa-caret-right
-            p #[strong Demanda:] son deseos y peticiones superiores y está totalmente ligado a la capacidad de compra; por ejemplo, satisfacer el hambre y el deseo de consumir algo rico pero demandar aquello que solo unos cuantos pueden pagar, la pizza Luis XIII que tiene un costo superior a los 9000 dólares.
-    
+            p #[strong Demanda:] son deseos y peticiones superiores y está totalmente ligado a la capacidad de compra; por ejemplo, satisfacer el hambre y el deseo de consumir algo rico, pero demandar aquello que solo unos cuantos pueden pagar, la pizza Luis XIII que tiene un costo superior a los 9000 dólares.
+
+    h5.text-center.mb-0 Niveles de satisfacción de las necesidades    
     .row.justify-content-around.align-items-center
       .col-lg-4.mr-5
         figure.mb-5
@@ -478,7 +481,7 @@
           .col-md-6.mb-4.mb-md-0            
             img(src='@/assets/tema1/img-28.svg', alt='Penetración de mercados', style="width:350px;").m-auto
           .col-md-6.align-self-center
-            .h2 Penetración de mercados
+            .h4 Penetración de mercados
             p Consiste en incrementar la participación del producto en los mercados que cubre en la actualidad con los productos de su portafolio. Esta estrategia se puede llevar a cabo provocando que los clientes actuales incrementen su consumo o atrayendo a los clientes potenciales del mismo segmento que se encuentren en diferentes áreas geográficas o que no hayan sido captados por la comunicación de la empresa.
       .py-3.py-md-4(titulo="Desarrollo de mercados")
         .row
@@ -486,7 +489,7 @@
             figure
               img(src='@/assets/tema1/img-29.svg', alt='Desarrollo de mercados')
           .col-md-6
-            .h2 Desarrollo de mercados
+            .h5 Desarrollo de mercados
             p This is another paragraph. I think it needs to be added that the set of elements tested is not exhaustive in any sense. I have selected those elements for which it can make sense to write user style sheet rules, in my opionion.
         
       .py-3.py-md-4(titulo="Desarrollo de productos")
@@ -495,27 +498,26 @@
             figure
               img(src='@/assets/tema1/img-30.svg', alt='Desarrollo de productos')
           .col-md-6.mb-4.mb-md-0.align-self-center
-            .h2 Desarrollo de productos
-            p para desarrollar nuevos productos se requiere de ingenio y de innovación. Las ideas surgen regularmente de las investigaciones que realiza el departamento de trade marketing de la empresa preguntando directamente a los clientes y consumidores. También se generan en los departamentos de investigación y desarrollo de las compañías donde están realizando constantemente pruebas y nuevas recetas. En otras ocasiones surgen de oportunidades del mercado o de ideas espontáneas de empleados o colaboradores de la empresa.
+            .h4 Desarrollo de productos
+            p Para desarrollar nuevos productos se requiere de ingenio y de innovación. Las ideas surgen regularmente de las investigaciones que realiza el departamento de trade marketing de la empresa preguntando directamente a los clientes y consumidores. También se generan en los departamentos de investigación y desarrollo de las compañías donde están realizando constantemente pruebas y nuevas recetas. En otras ocasiones surgen de oportunidades del mercado o de ideas espontáneas de empleados o colaboradores de la empresa.
 
       .py-3.py-md-4(titulo="Estrategias de precios")
         .row
           .col-md-6.mb-4.mb-md-0.align-self-center
-            .h2 Estrategias de precios
+            .h4 Estrategias de precios
             p El precio es una de las variables más relevantes para la toma de decisión de compra por parte del cliente e incide en la adquisición de la mayoría de los productos de consumo masivo. Por ello es muy importante desarrollar estrategias adecuadas y oportunas en relación con esta variable, teniendo en cuenta además que, si bien el precio es una variable controlable, tiene algunos límites que se los pone el comprador, la competencia y algunas normas legales. Estas son las estrategias de precios que se pueden realizar: 
           .col-md-6
             .ul.lista-ul--color
-              li 
+              li.list-color
                 i.fas.fa-caret-right
                 p #[strong Fijación de precios mediante márgenes:] consiste en añadir un margen estándar al costo del producto. Hay empresas que estiman el precio mediante la “adición” de un margen al costo total del proyecto que proporcionará el beneficio.            
-              li 
+              li.list-color
                 i.fas.fa-caret-right
-                p #[strong Fijación de precios para alcanzar una tasa de rentabilidad:] consiste en considerar una determinada “tasa de rentabilidad” estándar para el producto generando variación constante.
-              
-              li 
+                p #[strong Fijación de precios para alcanzar una tasa de rentabilidad:] consiste en considerar una determinada “tasa de rentabilidad” estándar para el producto generando variación constante.              
+              li.list-color 
                 i.fas.fa-caret-right
                 p #[strong Precios de penetración o precios bajos.]             
-              li 
+              li.list-color 
                 i.fas.fa-caret-right
                 p #[strong Precios altos de desnatado o descreme:] esta estrategia es muy seguida por el sector tecnológico, dados los altos costos de innovación, los cuales son cubiertos por el mercado que es poco susceptible al precio. 
         
@@ -523,24 +525,24 @@
       .py-3.py-md-4(titulo="Estrategias de distribución")
         .row
           .col-md-auto.mb-4.mb-md-0.align-self-center
-            .h2 Estrategias de distribución
-            p la variable de distribución o la “P” plaza en el marketing mix, es muy importante en el proceso de marketing, ya que el lugar donde el cliente puede adquirir el producto es uno de los factores de más incidencia en la adquisición de este y puede ser determinante para la fidelización de él con la marca en cuestión. Por tal motivo, es primordial que las estrategias desarrolladas en cuanto a la distribución sean de total beneficio del consumidor.
+            .h4 Estrategias de distribución
+            p La variable de distribución o la “P” de plaza en el marketing mix, es muy importante en el proceso de marketing, ya que el lugar donde el cliente puede adquirir el producto es uno de los factores de más incidencia en la adquisición de este y puede ser determinante para la fidelización de él con la marca en cuestión. Por tal motivo, es primordial que las estrategias desarrolladas en cuanto a la distribución sean de total beneficio del consumidor.
             .ul.lista-ul--color
-              li 
+              li.list-color 
                 i.fas.fa-caret-right
-                p #[strong Distribución intensiva:] la empresa busca el mayor número de puntos de venta posible, múltiples centros de almacenamientos para asegurar la máxima cobertura del territorio de ventas y una cifra de ventas elevadas.              
-              li 
+                p #[strong Distribución intensiva:] la empresa busca el mayor número de puntos de venta posible, múltiples centros de almacenamiento para asegurar la máxima cobertura del territorio de ventas y una cifra de ventas elevadas.              
+              li.list-color 
                 i.fas.fa-caret-right
-                p #[strong Distribución selectiva:] se recurre a un número inferior de intermediarios disponibles; es decir solo algunos pueden vender tu producto. Un solo distribuidor recibe el derecho de vender la marca y se compromete a no vender marcas competitivas en la misma categoría.              
-              li 
+                p #[strong Distribución selectiva:] se recurre a un número inferior de intermediarios disponibles; es decir, solo algunos pueden vender tu producto. Un solo distribuidor recibe el derecho de vender la marca y se compromete a no vender marcas competitivas en la misma categoría.              
+              li.list-color
                 i.fas.fa-caret-right
                 p #[strong Estrategia de Push “presión o empuje”:] consiste en orientar los esfuerzos de comunicación (promoción) a los intermediarios con la finalidad de que promocionen más la marca.              
-              li 
+              li.list-color
                 i.fas.fa-caret-right
                 p #[strong Distribución exclusiva.]              
-              li 
+              li.list-color
                 i.fas.fa-caret-right
-                p #[strong Estrategias de Pull “jalón o aspiración”:] esta estrategia concentra los esfuerzos de promoción sobre el consumidor final, evitando a los intermediarios. (Cruz, 2009)               
+                p #[strong Estrategias de Pull “jalón o aspiración”:] esta estrategia concentra los esfuerzos de promoción sobre el consumidor final, evitando a los intermediarios. (Cruz, 2009).              
       
       .py-3.py-md-4(titulo="Estrategias de comunicación")
         .row
@@ -548,8 +550,8 @@
             img(src='@/assets/tema1/img-31.svg', alt='Estrategias de comunicación', style="width:450px;").m-auto
              
           .col-md-6.align-self-center
-            .h2 Estrategias de comunicación
-            p la comunicación o promoción es una variable muy importante dentro del proceso de mercadeo, de ahí que las empresas subcontraten este servicio a través de agencias de publicidad y en muy pocas ocasiones, sobre todo en grandes industrias creen in house o equipos de publicidad interna. Las estrategias de comunicación requieren altos despliegues de creatividad y planificación, en la actualidad las empresas están desarrollando sus propias estrategias de promoción gracias al acceso a medios masivos sin la necesidad de intermediarios, como es el caso de las redes sociales.
+            .h4 Estrategias de comunicación
+            p La comunicación o promoción es una variable muy importante dentro del proceso de mercadeo, de ahí que las empresas subcontraten este servicio a través de agencias de publicidad y en muy pocas ocasiones, sobre todo en grandes industrias creen in house o equipos de publicidad interna. Las estrategias de comunicación requieren altos despliegues de creatividad y planificación, en la actualidad las empresas están desarrollando sus propias estrategias de promoción gracias al acceso a medios masivos sin la necesidad de intermediarios, como es el caso de las redes sociales.
             p De acuerdo con los Manuales Prácticos de la Mipyme de la Xunta de Galicia (s.f.), se describen las siguientes estrategias de comunicación:
         
 
@@ -559,58 +561,60 @@
               li 
                 i.fas.fa-caret-right
                 p #[strong  Estrategia global de diferenciación:] las empresas pueden seguir estrategias de diferenciación por atributos tangibles, intangibles, etc. Cada empresa se posiciona en diferentes valores.
-              
+              .sep2.mb-4              
               li 
                 i.fas.fa-caret-right
                 p #[strong Estrategia de asociación:] en contraposición, la estrategia de asociación se refiere a aquella que siguen las empresas que utilizan para identificarse los mismos valores o similares.
-              
+              .sep2.mb-4  
               li 
                 i.fas.fa-caret-right
                 p #[strong Estrategia de marca única o monolítica:] supone poner el mismo nombre a todos los productos que la empresa comercializa y este nombre, puede coincidir o no con el de la empresa. Esta estrategia también recibe el nombre de “marca paraguas”. 
-              
+              .sep2.mb-4  
               li 
                 i.fas.fa-caret-right
                 p #[strong Estrategia de marcas múltiples o marquista:] la empresa no existe para el usuario y es el producto el que manda.          
-              
+              .sep2.mb-4  
               li 
                 i.fas.fa-caret-right
                 p #[strong Estrategia de marcas individuales:] consiste en poner un nombre distinto a cada uno de los productos comercializados por la empresa.         
-              
+              .sep2.mb-4  
               li 
                 i.fas.fa-caret-right
                 p #[strong Estrategia de marcas para líneas de productos:] consiste en utilizar el mismo nombre de marca para varios productos relacionados entre sí́.
-              
+              .sep2.mb-4  
               li 
                 i.fas.fa-caret-right
                 p #[strong Estrategia de segundas marcas:] son marcas que pertenecen a fabricantes que tienen en el mercado otras marcas de más prestigio.
-                
+              .sep2.mb-4  
               li 
                 i.fas.fa-caret-right
                 p #[strong Estrategia de marcas apropiadas o de endoso:] la marca es individual, pero recibe el respaldo de una marca establecida. Esto produce que la marca esté apoyada por el prestigio de la marca establecida.
-              
+              .sep2.mb-4  
               li 
                 i.fas.fa-caret-right
                 p #[strong Estrategia Above The Line (ATL):] estrategia que implica el empleo de medios tradicionales o convencionales para publicitar la oferta y los mensajes de la empresa. Se trata de una estrategia que utiliza medios masivos para llegar al mayor número de público objetivo. Entre los medios masivos se encuentran: la televisión, radio, prensa y la publicidad exterior.
-              
+              .sep2.mb-4  
               li 
                 i.fas.fa-caret-right
                 p #[strong Estrategia Below The Line (BTL):] el empleo de esta estrategia se centra en utilizar medios no convencionales, que se caracterizan por ser menos masivos y más directos. Algunos de ellos son: las relaciones públicas, internet, marketing directo, promociones, etc. 
-              
+              .sep2.mb-4  
               li 
                 i.fas.fa-caret-right
-                p #[strong Estrategias 360º:] se basan en la utilización de una combinación de medios publicitarios masivos y no masivos. (p. 68-72)
+                p #[strong Estrategias 360º:] se basan en la utilización de una combinación de medios publicitarios masivos y no masivos. (p. 68-72).
 
              
     
     #t_1_6.titulo-segundo
       h2 1.6 Plan de marketing 
+
+    p.mb-5 Una vez estudiados los elementos relacionados con el marketing, es necesario compilar toda la información y las estrategias en un plan. La organización de la información permite el direccionamiento de las acciones con fines particulares. Por ello, un plan de mercadeo incluye varios pasos:
     .row.mx-5    
       .crd_03.p-0.my-4
         .crd_02__icon.m-3
           img(src='@/assets/tema1/img-32.svg' alt='AvatarTop' ).class 
         .crd_02__txt.m-4
           .h4 Resumen ejecutivo 
-          p Este resumen si bien encabeza el plan de marketing, por lo general se realiza al final del plan; sirve de introducción al documento para que quienes interactúen con él y comprendan en términos generales la finalidad del mismo.
+          p Este resumen si bien encabeza el plan de marketing, por lo general se realiza al final del plan; sirve de introducción al documento para quienes interactúen con él y comprendan en términos generales la finalidad del mismo.
 
       .crd_03.p-0.my-4
         .crd_01__icon.m-3
@@ -635,7 +639,7 @@
           img(src='@/assets/tema1/img-36.svg' alt='AvatarTop' ).class 
         .crd_01__txt.m-4
           .h4 Análisis de la empresa, de los productos y/o servicios
-          p Si bien el plan de mercadeo es de dominio de la empresa, es importante incluir una descripción de ella y el producto(s) o servicio(s) para los que se va a realizar el plan de marketing; esto permite a participantes externos y colaboradores, así como a la agencia de publicidad, que participe en el proceso de conocerlos al detalle.
+          p Si bien el plan de mercadeo es de dominio de la empresa, es importante incluir una descripción de ella y el producto(s) o servicio(s) para los que se va a realizar el plan de marketing; esto permite a participantes externos y colaboradores, así como a la agencia de publicidad, que participen en el proceso de conocerlos al detalle.
       .crd_03.p-0.my-4
         .crd_01__icon.m-3
           img(src='@/assets/tema1/img-37.svg' alt='AvatarTop' ).class 

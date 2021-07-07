@@ -10,7 +10,8 @@
     .row.m-5
       figure.mb-5
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/u1daSvYmyoM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/Vukk_lp4dO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+         
 
     #t_2_1.titulo-segundo
       h2 2.1 Conceptos básicos del marketing digital
@@ -87,7 +88,6 @@
         .crd_02__txt.m-4
           .h4 Cookies de publicidad comportamental
           p Son las cookies que permiten hacer publicidad a los usuarios, pero de una forma más personalizada. ¿Cómo? Recabando información de su comportamiento, para así mostrarles publicidad basada en dicho comportamiento.
-
                                                 
 
     .row.justify-content-around.align-items-center.mb-5
@@ -127,12 +127,12 @@
         .crd_02__icon.m-3
           img(src='@/assets/tema2/img-6.svg' alt='AvatarTop' ).class 
         .crd_02__txt.m-4
-          p #[strong Cambio de campaña:] si ingresas a una misma web por links de dos fuentes diferentes; por ejemplo, un sitio de noticias y una red social, cada una se considera una sesión independiente
+          p #[strong Cambio de campaña:] si ingresas a una misma web por links de dos fuentes diferentes; por ejemplo, un sitio de noticias y una red social, cada una se considera una sesión independiente.
       .crd_03.p-0.my-4
         .crd_02__icon.m-3
           img(src='@/assets/tema2/img-7.svg' alt='AvatarTop' ).class 
         .crd_02__txt.m-4
-          p #[strong Cambio de campaña:] si ingresas a una misma web por links de dos fuentes diferentes; por ejemplo, un sitio de noticias y una red social, cada una se considera una sesión independiente
+          p #[strong Cambio de día:] si se está navegando a la media noche, una vez cambie el día se considera otra sesión.
     .row.my-5
       .ul.lista-ul--color
         li 
@@ -170,12 +170,13 @@
           p #[strong Panel de control (dashboard):] en los paneles de control se recogen diversos KPI, tablas de segmentación y diferentes gráficos con el objetivo de analizar cada estrategia/acción que se ha realizado para conseguir los objetivos del negocio.
         li 
           i.fa
-          p Imaginemos que uno de los objetivos es mejorar el Engagement Rate (ER) de Twitter, el cual lo vamos a calcular dividiendo el total de interacciones entre el número de seguidores y multiplicando el resultado por cien. En este caso, en el cuadro de mando tendremos este KPI para saber si estamos cumpliendo o no los objetivos. (Capítulo 2. Terminología básica)
+          p Imaginemos que uno de los objetivos es mejorar el Engagement Rate (ER) de Twitter, el cual lo vamos a calcular dividiendo el total de interacciones entre el número de seguidores y multiplicando el resultado por cien. En este caso, en el cuadro de mando tendremos este KPI para saber si estamos cumpliendo o no los objetivos. (Capítulo 2. Terminología básica).
 
     #t_2_2.titulo-segundo
       h2 2.2 Analítica digital
     p.mb-5 La analítica en términos del marketing digital, se refiere al análisis de todos los datos que se generan en la interacción de los usuarios con los diferentes medios digitales de la empresa, esto con el fin de tomar decisiones oportunas y acertadas. Dichos datos son tanto cuantitativos como cualitativos.
     
+    h3 Partes de la analítica digital:
     .row.m-5
       .col-md-6.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar
@@ -183,7 +184,7 @@
 
           .tarjeta.color-acento-botones
             .p-4.m-3
-              .h2.text-center Medición:
+              .h2.text-center Medición
               p Consiste en la recopilación de datos asociados a la actividad de los usuarios en un sitio web, aplicación móvil o cualquier otro medio digital.
 
       .col-md-6.col-lg.mb-5.mb-lg-0
@@ -327,7 +328,7 @@
           li 
             i.fas.fa-check
             p Medición continua y eficaz de las acciones de marketing realizadas en toda la plataforma de la empresa.      
-    p Adicionalmente, la analítica web tiene una serie de tarea definidas dentro de la organización; actividades enfocadas en el CRM y otros procesos de interacción entre la marca y el consumidor. La analítica interviene además en la toma de decisiones relacionadas con la comercialización de los productos o servicios, así como el estudio permanente de los clientes, el mercado y las tendencias. De este modo es necesario que se tengan en cuenta una serie de indicadores relacionados con la analítica web: 
+    p Adicionalmente, la analítica web tiene una serie de tareas definidas dentro de la organización; actividades enfocadas en el CRM y otros procesos de interacción entre la marca y el consumidor. La analítica interviene además en la toma de decisiones relacionadas con la comercialización de los productos o servicios, así como el estudio permanente de los clientes, el mercado y las tendencias. De este modo es necesario que se tengan en cuenta una serie de indicadores relacionados con la analítica web: 
 
     .row.justify-content-around.align-items-center.my-5
       .col-lg-auto
@@ -361,71 +362,71 @@
 
         tr
           th Total de “me gusta”: 
-          td indica el número de personas que les gusta la página; relaciona también el porcentaje de aumento o disminución de la métrica semanal.
+          td Indica el número de personas que les gusta la página; relaciona también el porcentaje de aumento o disminución de la métrica semanal.
         tr
           th Amigos de los fans: 
-          td muestra el número de personas que eran amigos de los que hicieron clic en “me gusta” y relaciona el porcentaje de aumento o disminución semanal.
+          td Muestra el número de personas que eran amigos de los que hicieron clic en “me gusta” y relaciona el porcentaje de aumento o disminución semanal.
         tr
           th Personas que están hablando de esto: 
-          td indica el número de personas que realizaron algún tipo de actividad en la última semana relacionada con una página: hacer un post, compartir una publicación, responder a un evento o a una pregunta, etiquetar a alguien, mencionarla en otra publicación.
+          td Indica el número de personas que realizaron algún tipo de actividad en la última semana relacionada con una página: hacer un post, compartir una publicación, responder a un evento o a una pregunta, etiquetar a alguien, mencionarla en otra publicación.
         tr
           th Alcance de la semana: 
-          td indica el número de personas que vieron el contenido de la página o contenido asociado, también relaciona el porcentaje de aumento o disminución.
+          td Indica el número de personas que vieron el contenido de la página o contenido asociado, también relaciona el porcentaje de aumento o disminución.
         tr
           th Canal orgánico: 
-          td relaciona el número de personas que vieron el contenido de la página a través de la sección de noticias en un tiempo determinado.
+          td Relaciona el número de personas que vieron el contenido de la página a través de la sección de noticias en un tiempo determinado.
         tr
           th Canal viral: 
-          td indica el número de personas que vieron una publicación de la página hecha por un amigo.
+          td Indica el número de personas que vieron una publicación de la página hecha por un amigo.
         tr
           th Canal pagado: 
-          td indica el número de personas que vieron una publicación o anuncio patrocinado.
+          td Indica el número de personas que vieron una publicación o anuncio patrocinado.
         tr
           th Usuarios únicos por frecuencia: 
-          td muestra gráficamente el número de personas que vieron el contenido de la página en los últimos siete días.
+          td Muestra gráficamente el número de personas que vieron el contenido de la página en los últimos siete días.
         tr
           th Visitas a la página: 
-          td indica el número de veces que la página fue vista diariamente en un periodo determinado.
+          td Indica el número de veces que la página fue vista diariamente en un periodo determinado.
         tr
           th Visitantes únicos: 
-          td indica el número de personas que visitaron un fanpage por día en un periodo determinado.
+          td Indica el número de personas que visitaron un fanpage por día en un periodo determinado.
         tr
           th Publicaciones: 
-          td muestra de forma gráfica el número de personas que vieron una publicación en un tiempo determinado.
+          td Muestra de forma gráfica el número de personas que vieron una publicación en un tiempo determinado.
         tr
           th Audiencia potencial: 
-          td suma de los amigos de las personas que dieron “me gusta” o que compartieron una publicación.
+          td Suma de los amigos de las personas que dieron “me gusta” o que compartieron una publicación.
     br
     #t_2_4.titulo-segundo
       h2 2.4 CRM (Customer Relationship Management)
-    p.mb-5 Es un proceso de relacionamiento con los clientes de una empresa o marca, su enfoque está en el proceso de comercialización, mercadeo y comunicación de la empresa con sus clientes reales y potenciales. Este proceso depende en casi un 100 % del software que gestiona la información de los clientes, para luego con base en estos datos generar acciones específicas de promoción y comercialización. El CRM se nutre de los datos de los clientes a través de Sistemas de Información de Mercados (SIM); estos datos abundan en medios como las redes sociales y los consumidores los entregan de forma libre y voluntaria; además, son muy eficaces para el desarrollo de estrategias puntuales de marketing.
+    p.mb-5 Es un proceso de relacionamiento con los clientes de una empresa o marca, su enfoque está en el proceso de comercialización, mercadeo y comunicación de la empresa con sus clientes reales y potenciales. Este proceso depende en casi un 100% del software que gestiona la información de los clientes, para luego con base en estos datos generar acciones específicas de promoción y comercialización. El CRM se nutre de los datos de los clientes a través de Sistemas de Información de Mercados (SIM); estos datos abundan en medios como las redes sociales y los consumidores los entregan de forma libre y voluntaria; además, son muy eficaces para el desarrollo de estrategias puntuales de marketing.
 
     .row.align-items-center.m-5
       .col-auto.mb-5        
         img(src='@/assets/tema2/img-15.svg', alt='Tipos de titulares', style="width:450px;")
 
       .col-lg
-        p  El CRM evolucionó con la llegada de las redes sociales y hoy por hoy se conoce como “Social CRM”, mejorando el sistema de interacción entre la marca y el cliente, convirtiendo la comunicación de doble vía y no únicamente desde la marca hacia el consumidor. De esta forma la comunicación que se realiza a través del Social CRM es mucho más integral, pues el consumidor es alcanzado por un correo electrónico que se le ha dejado cuando hizo su suscripción en el sitio web de la empresa, generándole impactos que se postean en las redes sociales que ha seguido gracias a una campaña de activación, la cual se hace periódicamente para captar nuevos clientes. De la misma forma recibe un mensaje de texto en su celular y mensajes de WhatsApp, todo esto en un periodo de tres semanas en las que la marca ha estado interactuando con el consumidor, creando posicionamiento y recordación.   
+        p  El CRM evolucionó con la llegada de las redes sociales y hoy por hoy se conoce como “Social CRM”, mejorando el sistema de interacción entre la marca y el cliente, convirtiendo la comunicación en doble vía y no únicamente desde la marca hacia el consumidor. De esta forma la comunicación que se realiza a través del Social CRM es mucho más integral, pues el consumidor es alcanzado por un correo electrónico que se le ha dejado cuando hizo su suscripción en el sitio web de la empresa, generándole impactos que se postean en las redes sociales que ha seguido gracias a una campaña de activación, la cual se hace periódicamente para captar nuevos clientes. De la misma forma recibe un mensaje de texto en su celular y mensajes de WhatsApp, todo esto en un periodo de tres semanas en las que la marca ha estado interactuando con el consumidor, creando posicionamiento y recordación.   
 
     .h4 Enfoque del Social CRM
     p.mb-5 En el enfoque del Social CRM existen cuatro elementos básicos a tener en cuenta:
     TabsA.color-acento-contenido.mb-5
       
-      .tarjeta.color-acento-contenido--borde.p-4(titulo="Inteligencia de clientes:")
+      .tarjeta.color-acento-contenido--borde.p-4(titulo="Inteligencia de clientes")
         h4 Inteligencia de clientes:
         p Se necesita tener conocimiento sobre el cliente para poder desarrollar productos y servicios enfocados a sus expectativas. Para convertir los datos en conocimiento, se emplean bases de datos y reglas a partir de un proceso de segmentación de la información.
       
     
-      .tarjeta.color-acento-contenido--borde.p-4(titulo="Interactividad:")
+      .tarjeta.color-acento-contenido--borde.p-4(titulo="Interactividad")
         h4 Interactividad:
-        p El proceso de comunicación pasa de un monólogo: de la empresa al cliente, a un diálogo, entre ellos. Además, es el cliente el que dirige el diálogo y decide cuándo empieza y cuándo acaba.
+        p El proceso de comunicación pasa de un monólogo de la empresa al cliente, a un diálogo entre ellos. Además, es el cliente el que dirige el diálogo y decide cuándo empieza y cuándo acaba.
       
-      .tarjeta.color-acento-contenido--borde.p-4(titulo="Fidelización de clientes: ")
+      .tarjeta.color-acento-contenido--borde.p-4(titulo="Fidelización de clientes ")
         h4 Fidelización de clientes: 
         p En la práctica, es mucho mejor y más rentable fidelizar a los clientes que adquirir nuevos. La fidelización de los clientes pasa a ser muy importante y, por tanto, se convierte en el pilar de la gestión del marketing relacional en función del ciclo de vida del cliente. El community manager debe considerar la manera como se establece fidelización proponiendo y utilizando las herramientas de social media marketing.
 
 
-      .tarjeta.color-acento-contenido--borde.p-4(titulo="Personalización:")
+      .tarjeta.color-acento-contenido--borde.p-4(titulo="Personalización")
         h4 Personalización:
         p Cada cliente desea recibir promociones y ofertas personalizadas, por lo que se necesitan grandes esfuerzos en inteligencia de las bases de datos para desarrollar una eficiente segmentación de clientes. La customización del mensaje, en fondo y en forma, aumenta drásticamente la eficacia de las acciones de comunicación.
     br
@@ -485,14 +486,14 @@
       .col-auto        
         img(src="@/assets/tema2/Logo_09.png", alt="alt", style="width:200px;")         
       .col-lg           
-        p.mb-0 Es una suite que provee soluciones CRM por suscripción. En ella se puede crear aplicaciones, tener contacto con toda la organización, contactar clientes y realizar estrategias de venta, todo en línea.
+        p.mb-0 Es una suite que provee soluciones CRM por suscripción. En ella se pueden crear aplicaciones, tener contacto con toda la organización, contactar clientes y realizar estrategias de venta, todo en línea.
     .sep2.mb-4
-    .row.align-items-center.mb-4
+    .row.align-items-center.mb-5
       .col-auto        
         img(src="@/assets/tema2/Logo_10.png", alt="alt", style="width:200px;")         
       .col-lg        
         p.mb-0 Es una plataforma que permite realizar publicaciones simultáneas en varias redes sociales como Facebook, Instagram y Twitter. 
-    .sep2.mb-4
+    
 
     br
     #t_2_6.titulo-segundo
@@ -500,7 +501,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg.mb-5.mb-lg-0
-        p Inicialmente el SEO (del inglés Search Engine Optimization) se enmarca en las estrategias del marketing relacional y el colaborativo, que tienden a primar el buscador como canal de publicidad para públicos muy segmentados (aquellos que utilicen cierta búsqueda concreta) y, finalmente, el ideal de una estrategia de SEO implica crear una red propia de usuarios fidelizados que hablen bien y proactivamente de la marca. Por eso es importante primero pensar qué tipo de estrategia global se va a llevar a cabo, y en función de esta, pensar en él y no antes. Así, en la relación entre marketing y SEO se debe tener en cuenta: marketing no es SEO y SEO no es marketing; el marketing es un concepto más amplio que el SEO. Primero se debe estudiar la estrategia de marketing y su continuación. La unión de marketing + SEO debe llevar a visitas que lleven a acciones y posiblemente esas acciones lleven a ventas o conversiones. Serrano (2015)
+        p Inicialmente el SEO (del inglés Search Engine Optimization) se enmarca en las estrategias del marketing relacional y el colaborativo, que tienden a primar el buscador como canal de publicidad para públicos muy segmentados (aquellos que utilicen cierta búsqueda concreta) y, finalmente, el ideal de una estrategia de SEO implica crear una red propia de usuarios fidelizados que hablen bien y proactivamente de la marca. Por eso es importante primero pensar qué tipo de estrategia global se va a llevar a cabo, y en función de esta, pensar en él y no antes. Así, en la relación entre marketing y SEO se debe tener en cuenta: marketing no es SEO y SEO no es marketing; el marketing es un concepto más amplio que el SEO. Primero se debe estudiar la estrategia de marketing y su continuación. La unión de marketing + SEO debe llevar a visitas que lleven a acciones y posiblemente esas acciones lleven a ventas o conversiones. Serrano (2015).
 
       .col-12.col-lg-auto.justify-content-md-center.mb-4
          img.img_ava(src='@/assets/tema2/img-16.svg' alt='AvatarTop')
@@ -639,7 +640,7 @@
         .row.justify-content-center
           .col-lg-5.mb-4.mb-md-0
             .h4 Costo
-            p las estrategias que se realicen en Facebook suelen ser económicas debido al sistema de pago por clic, en el que solo se paga por los clics que se hagan en los anuncios y generen respuestas efectivas.
+            p Las estrategias que se realicen en Facebook suelen ser económicas debido al sistema de pago por clic, en el que solo se paga por los clics que se hagan en los anuncios y generen respuestas efectivas.
         
           .col-lg-5
             figure
@@ -666,74 +667,77 @@
 
         tr
           th Promoción de publicaciones: 
-          td permite promocionar una publicación que se haya realizado en un perfil, fanpage o cuenta de Instagram (que también es propiedad de Facebook).
+          td Permite promocionar una publicación que se haya realizado en un perfil, fanpage o cuenta de Instagram (que también es propiedad de Facebook).
 
         tr
           th Promocionar una página: 
-          td es una estrategia que permite hacer promoción de un sitio web.
+          td Es una estrategia que permite hacer promoción de un sitio web.
 
         tr
           th Llegar a personas que estén cerca: 
-          td a través de geolocalización se realiza una estrategia de marketing de proximidad que llega a persona que estén cerca del negocio en un rango y momento específicos.
+          td A través de geolocalización se realiza una estrategia de marketing de proximidad que llega a personas que estén cerca del negocio en un rango y momento específicos.
 
         tr
           th Reconocimiento de marca: 
-          td a través de un anuncio se llega a un público específico con la posibilidad de prestar más atención.
+          td A través de un anuncio se llega a un público específico con la posibilidad de prestar más atención.
 
         tr
           th Atraer público a un sitio web: 
-          td campaña enfocada en el aumento de tráfico en un sitio web.
+          td Campaña enfocada en el aumento de tráfico en un sitio web.
 
         tr
           th Aumento de descarga de App: 
-          td campaña enfocada en la descarga e instalación de una App en particular.
+          td Campaña enfocada en la descarga e instalación de una App en particular.
 
         tr
           th Aumento de asistentes a un evento: 
-          td campaña para promocionar un evento específico y aumentar el número de participantes al mismo.
+          td Campaña para promocionar un evento específico y aumentar el número de participantes al mismo.
 
         tr
           th Aumento de reproducción de un video:  
-          td campaña orientada a aumentar las visualizaciones de un video.
+          td Campaña orientada a aumentar las visualizaciones de un video.
 
         tr
           th Aumento de las conversiones de un sitio web:  
-          td es una campaña que busca generar conversiones (leads) de un negocio en particular, por lo general una tienda virtual.
+          td Es una campaña que busca generar conversiones (leads) de un negocio en particular, por lo general una tienda virtual.
 
         tr
           th Generación de clientes potenciales para un negocio:  
-          td promoción de un sitio web o tienda virtual de un negocio para atraer clientes potenciales.
+          td Promoción de un sitio web o tienda virtual de un negocio para atraer clientes potenciales.
 
         tr
           th Aumento de uso de App:  
-          td estrategia para aumentar la interacción del público con una app específica.
+          td Estrategia para aumentar la interacción del público con una App específica.
 
         tr
           th Solicitud de oferta:  
-          td campaña para dar a conocer una oferta en particular.
+          td Campaña para dar a conocer una oferta en particular.
 
         tr
           th Promoción de catálogos: 
-          td promoción de un catálogo a manera de escaparate en una campaña de Facebook.
+          td Promoción de un catálogo a manera de escaparate en una campaña de Facebook.
 
         tr
           th Obtener visitas a un negocio:  
-          td con marketing de proximidad, se realiza promoción de un punto de venta entre las personas que estén en un rango y momento específico.
+          td Con marketing de proximidad, se realiza promoción de un punto de venta entre las personas que estén en un rango y momento específico.
+
+    p.mb-5 Facebook ofrece una gama de posibilidades muy amplia para el desarrollo de campañas y estrategias de comunicación que permiten a los negocios llegar a públicos muy específicos, con información puntual y muy bien estructurada, esto garantiza efectividad con costos mínimos de inversión.
     br
     #t_2_8.titulo-segundo
-      h2 2.8 Conceptos básicos del marketing digital
+      h2 2.8 Inbound marketing
 
-    p.mb-5 Es tal vez la metodología que presenta mayor eficacia en el desarrollo de una estrategia de marketing, la cual tenga como finalidad la atracción del mercado potencial para hacerlo adepto a una marca por su propia convicción e iniciativa. El inbound marketing crea experiencias significativas que generan valor para el mercado objetivo de la empresa, esto se realiza con el desarrollo de contenido útil y relevante para los usuarios de un sitio web, al mismo tiempo que se interactúa con ellos a través de medios más personales y con la posibilidad de generar un nivel de conversación más personal, como el correo electrónico, los mensajes de texto y los chats. No tiene un enfoque promocional o publicitario, por el contrario, el contenido generado representa mayor utilidad y relevancia, lo que hace que el mercado potencial se acerque a la marca de forma orgánica. Un ejemplo de ello es el modelo aplicado en escuelas de inglés o institutos donde se dictan estos tipos de cursos, enfatizándose siempre en una conversación más cercana.
-
-    br
-    .row.img-200.justify-content-around.align-items-center
-      figure.mb-5
+    p.mb-4 Es tal vez la metodología que presenta mayor eficacia en el desarrollo de una estrategia de marketing, la cual tenga como finalidad la atracción del mercado potencial para hacerlo adepto a una marca por su propia convicción e iniciativa. El inbound marketing crea experiencias significativas que generan valor para el mercado objetivo de la empresa, esto se realiza con el desarrollo de contenido útil y relevante para los usuarios de un sitio web, al mismo tiempo que se interactúa con ellos a través de medios más personales y con la posibilidad de generar un nivel de conversación más personal, como el correo electrónico, los mensajes de texto y los chats. No tiene un enfoque promocional o publicitario, por el contrario, el contenido generado representa mayor utilidad y relevancia, lo que hace que el mercado potencial se acerque a la marca de forma orgánica. Un ejemplo de ello es el modelo aplicado en escuelas de inglés o institutos donde se dictan estos tipos de cursos, enfatizándose siempre en una conversación más cercana.
+    
+    .row.img-200.justify-content-around.align-items-center.mb-5
+      figure
         img(src='@/assets/tema2/img-34.svg', alt='Conceptos básicos del marketing digital')
+
+    h3.mb-5 El inbound marketing se enfoca en tres momentos específicos: #[strong atraer, conversar, seducir.]
 
     .row.mb-5
       .col-md-6
         h4 Atraer: 
-        p En este punto se atraen a todos aquellos clientes potenciales; es decir, aquellos que tienen la opción de convertirse en compradores efectivos del producto o servicio. para ello, es indispensable desarrollar contenido relevante y muy atractivo, adicional de llegar a ellos con anuncios en redes sociales y medios más directos. Atraer significa demostrar a los prospectos que pueden confiar en la marca para resolver un problema en particular o para satisfacer una necesidad. Las personas buscan respuestas a preguntas que tienen en sus consiente e inconsciente y si están relacionados con un producto o servicio en particular es viable utilizar conocimiento e información que resulte útil para resolver dichas preguntas y atraer al mercado específico. Para este punto se puede hacer uso de algunas herramientas muy puntuales:
+        p En este punto se atraen a todos aquellos clientes potenciales; es decir, aquellos que tienen la opción de convertirse en compradores efectivos del producto o servicio. Para ello, es indispensable desarrollar contenido relevante y muy atractivo, adicional de llegar a ellos con anuncios en redes sociales y medios más directos. Atraer significa demostrar a los prospectos que pueden confiar en la marca para resolver un problema en particular o para satisfacer una necesidad. Las personas buscan respuestas a preguntas que tienen en su consiente e inconsciente y si están relacionados con un producto o servicio en particular es viable utilizar conocimiento e información que resulte útil para resolver dichas preguntas y atraer al mercado específico.
         
       .col-md-6.menta.p-5
         p Para este punto se puede hacer uso de algunas herramientas muy puntuales:
@@ -865,16 +869,16 @@
               ul.lista-ul--color
                 li 
                   i.fas.fa-check
-                  p Estrategias de atracción y conversión de clientes.
+                  p Estrategias de atracción y conversión de clientes
                 li 
                   i.fas.fa-check
-                  p Seguimiento a clientes <code><</code>estrategias postventa<code>></code>.
+                  p Seguimiento a clientes <code><</code>estrategias postventa<code>></code>
                 li 
                   i.fas.fa-check
-                  p Sistema de información de mercados <code><</code>data<code>></code>.
+                  p Sistema de información de mercados <code><</code>data<code>></code>
                 li 
                   i.fas.fa-check
-                  p Estructuración de redes sociales para comunicación con los clientes. 
+                  p Estructuración de redes sociales para comunicación con los clientes
       .sep2.mb-3
       .row
         .col-auto
