@@ -490,7 +490,7 @@
               img(src='@/assets/tema1/img-29.svg', alt='Desarrollo de mercados')
           .col-md-6
             .h5 Desarrollo de mercados
-            p This is another paragraph. I think it needs to be added that the set of elements tested is not exhaustive in any sense. I have selected those elements for which it can make sense to write user style sheet rules, in my opionion.
+            p Consiste en llegar a nuevos mercados conservando el producto actual, en cuanto a diseño, empaque y presentaciones. Es el caso de la marca registrada Frisby, que con el mismo modelo de negocio llegó a todas las ciudades de Colombia.
         
       .py-3.py-md-4(titulo="Desarrollo de productos")
         .row

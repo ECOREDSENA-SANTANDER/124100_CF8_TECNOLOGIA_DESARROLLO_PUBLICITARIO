@@ -352,29 +352,28 @@ export default {
         nombre: 'Rafael Neftalí Lizcano Reyes',
         cargo: 'Asesor metodológico y pedagógico',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional  Santander',
       },
       {
         nombre: 'Manuel Augusto Arias López',
-        cargo: 'Instructor-Experto temático',
-        centro: 'Centro de Comercio y Servicios – Regional Quindío',
+        cargo: 'Instructor - Experto temático',
+        centro: 'Centro de Comercio y Servicios - Regional Quindío',
       },
       {
         nombre: 'Andrés Felipe Velandia Espitia',
         cargo: 'Diseñador instruccional',
-        centro: 'Centro de Diseño y Metrología – Regional Distrito Capital',
+        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
       },
       {
         nombre: 'Vilma Lucía Perilla Méndez',
         cargo: 'Evaluadora instruccional',
-        centro:
-          'Centro para la Industria y la Comunicación Gráfica – Regional Distrito Capital',
+        centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
       },
       {
         nombre: 'Julieth Paola Vital López',
         cargo: 'Correctora de estilo',
         centro:
-          'Centro para la Industria y la Comunicación Gráfica – Regional Distrito Capital',
+          'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
       },
       {
         nombre: 'Martha Isabel Martínez Vargas',
@@ -434,7 +433,7 @@ export default {
       {
         nombre: 'Zuleidy Maria Ruiz Torres',
         cargo: 'Producción audiovisual',
-        centro: 'Centro de Comercio y Servicios - Regional Santander',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
         nombre: 'Jenny Paola Montillo Gélvez',
@@ -447,7 +446,7 @@ export default {
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
     ],
   },
