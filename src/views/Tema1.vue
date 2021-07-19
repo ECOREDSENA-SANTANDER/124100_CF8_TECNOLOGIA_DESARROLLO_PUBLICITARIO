@@ -605,7 +605,7 @@
              
     
     #t_1_6.titulo-segundo
-      h2 1.6 Plan de marketing s
+      h2 1.6 Plan de marketing 
 
     p.mb-5 Una vez estudiados los elementos relacionados con el marketing, es necesario compilar toda la información y las estrategias en un plan. La organización de la información permite el direccionamiento de las acciones con fines particulares. Por ello, un plan de mercadeo incluye varios pasos:
     .row.mx-5    
