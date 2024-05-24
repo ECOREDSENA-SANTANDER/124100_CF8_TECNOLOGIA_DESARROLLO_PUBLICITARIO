@@ -376,7 +376,15 @@
         .cajon.color-secundario.p-4.mb-4
           p.mb-2 #[b Las empresas que desarrollan su estrategia de producto partiendo de una propuesta de valor efectiva y auténtica, tienen todas las posibilidades de lograr un posicionamiento en el mercado que les permita sostenibilidad a mediano o largo plazo.]
         p.mb-0 Por ejemplo, la marca registrada Coca Cola siendo un producto con más de 100 años en el mercado, con una historia llena de altibajos, competidores directos, indirectos y hasta imitadores, se ha mantenido vigente gracias a su propuesta de valor; Coca Cola por su naturaleza y características de producto debería ofrecer frescura, saciar la sed o acompañar las comidas, pero en contra de toda lógica ofrece felicidad y es en torno a ella que desde hace varios años ha persuadido a millones de consumidores en todo el mundo de seguir prefiriéndolos por encima de otras bebidas, pese a campañas difamatorias y mitos que se han generado en torno a la bebida más consumida del planeta.
-
+        p.mb-0 jaskajshakjñhsñkjs
+        p.mb-0 jaskajshakjñhsñkjs
+        p.mb-0 jaskajshakjñhsñkjs
+        p.mb-0 jaskajshakjñhsñkjs
+        p.mb-0 jaskajshakjñhsñkjs
+        p.mb-0 jaskajshakjñhsñkjs
+        p.mb-0 jaskajshakjñhsñkjs
+        p.mb-0 jaskajshakjñhsñkjs
+        p.mb-0 jaskajshakjñhsñkjs
     Separador
     #t_1_5.titulo-segundo.mb-5
       h2 1.5 El mercadeo
