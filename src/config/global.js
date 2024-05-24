@@ -1,10 +1,20 @@
 export default {
   global: {
-    componenteFormativo: 'Plan de Marketing digital',
+    componenteFormativo: 'Plan de <em>Marketing</em> digital',
     descripcionCurso:
-      'El marketing digital permite que la marca cree una comunidad propia a través de una red social, llegando de forma exclusiva al target específico, porque es ahora el usuario quien decide seguir la marca con su consentimiento, generando una interacción de conveniencia para ambos. Por ejemplo, en el marketing digital el padre que tal vez vio el anuncio publicitario en TV tiene la opción de obtener más y mejor información en la cuenta de Facebook o Instagram de la marca de cuchillas de su preferencia, comprar a través de su sitio web y aprender allí la técnica más adecuada para tener el afeitado perfecto.',
+      'El <em>marketing</em> digital permite que la marca cree una comunidad propia a través de una red social, llegando de forma exclusiva al <em>target</em> específico, porque es ahora el usuario quien decide seguir la marca con su consentimiento, generando una interacción de conveniencia para ambos. Por ejemplo, en el <em>marketing</em> digital el padre que tal vez vio el anuncio publicitario en TV tiene la opción de obtener más y mejor información en la cuenta de Facebook o Instagram de la marca de cuchillas de su preferencia, comprar a través de su sitio web y aprender allí la técnica más adecuada para tener el afeitado perfecto.',
     imagenBannerPrincipal: require('@/assets/curso/banner-principal.svg'),
-    fondoBannerPrincipal: require('@/assets/curso/fondo-banner-bg.png'),
+    fondoBannerPrincipal: require('@/assets/curso/fondo-banner-bg.jpg'),
+    imagenesDecorativasBanner: [
+      {
+        clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
+        imagen: require('@/assets/curso/banner-principal-decorativo-1.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-2'],
+        imagen: require('@/assets/curso/banner-principal-decorativo-2.svg'),
+      },
+    ],
   },
   menuPrincipal: {
     menu: [
@@ -13,7 +23,12 @@ export default {
         icono: 'fas fa-home',
         titulo: 'Volver al inicio',
       },
-
+      {
+        nombreRuta: 'introduccion',
+        icono: 'fas fa-info-circle',
+        titulo: 'Introducción',
+        desarrolloContenidos: true,
+      },
       {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
@@ -124,6 +139,18 @@ export default {
       },
     ],
     subMenu: [
+      {
+        icono: 'fas fa-sitemap',
+        titulo: 'Síntesis',
+        nombreRuta: 'sintesis',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'actividad',
+        icono: 'far fa-question-circle',
+        titulo: 'Actividad didáctica',
+        desarrolloContenidos: true,
+      },
       {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',

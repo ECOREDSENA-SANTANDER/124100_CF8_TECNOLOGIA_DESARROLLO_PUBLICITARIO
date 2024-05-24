@@ -1,8 +1,8 @@
-# **Plan de Marketing digital**
+# **ecoredsena-base v7.0.1**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/522306_CF8_TECNOLOGIA_DESARROLLO_PUBLICITARIO/](https://ecored-sena.github.io/522306_CF8_TECNOLOGIA_DESARROLLO_PUBLICITARIO/)
+[https://ecored-sena.github.io/ECORED-BASE-2021](https://ecored-sena.github.io/ECORED-BASE-2021)
 
 #
 
@@ -61,3 +61,6 @@ npm run lint
 ![instrucciones despues del primer push](src/assets/template/pasos.jpg 'Title')
 
 #
+
+## **Documentacion AOS**
+[https://github.com/michalsnik/aos](https://github.com/michalsnik/aos)

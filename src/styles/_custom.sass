@@ -1,252 +1,165 @@
-
-$crd-icon-size: 120px
-$crd-padding: 1.5rem
-$crd-width: calc(100% - ((#{$crd-icon-size} / 2))
-  
-.crd_01 
-  position: relative
-  display: flex
-  flex-direction: row
-  z-index: 1
-
-  &::before
-    content: ""
+.banner-principal-decorativo
+  &-1
+    animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 0
-    right: 0
-    width: $crd-width
-    height: 100%    
-
-    border-radius: 15px
-    z-index: -1
-  &__icon
-    order: 1
-    flex-basis: auto
-
-    img   
-      width: $crd-icon-size
-  &__txt
-    flex: 1 
-    order: 2
-    
-
-.crd_02 
-  position: relative
-  display: flex
-  flex-direction: row
-  justify-content: start
-  align-items: center 
-  padding: 1.5rem 1.5rem 1.5rem 0   
-  z-index: 1
-
-  &::before
-    content: ""
+    top: 40%
+    right: 50%
+  &-2
+    animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 0
-    right: 0
-    width: $crd-width
-    height: 100%    
-    background-color: #E7F8F8
-    border-radius: 15px
-    z-index: -1
-  &__icon
-    order: 1
-    flex-basis: auto
-    width: $crd-icon-size
-    margin-right: 15px
-    img   
-      width: $crd-icon-size
-  &__txt
-    flex: 1 
-    order: 2    
-
-.crd_03 
-  position: relative
-  display: flex
-  flex-direction: row
-  justify-content: start
-  align-items: center 
-  padding: 1.5rem 1.5rem 1.5rem 0   
-  z-index: 1
-
-  &::before
-    content: ""
-    position: absolute
-    top: 0
-    right: 0
-    width: $crd-width
-    height: 100%    
-    background-color: #f0f0f0
-    border-radius: 15px
-    z-index: -1
+    top: 51%
+    right: 30%
 
 
-.imgc
-  justify-content: center!important
+@keyframes float1
+  0%
+    transform: translateY(20px)
+
+  100%
+    transform: translateY(0px)
+
+.banner-principal .tarjeta 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat
+
+.titulo-principal.color-secundario .titulo-principal__numero span 
+    color: #0a0a0a;
+
+.titulo-segundo:after 
+    content: '';
+    display: block;
+    height: 4px;
+    width: 140px;
+    border-left: solid 50px;
+    border-left-color: #26AAB7;
+    background-color: #e8e8e8;
+
+.caja1
+  background-color: #26AAB7
+  border-radius: 15px
+
+.img-t
+  width: auto
+  height: auto
+.img-a
   display: block
-  margin: 0 auto
+  margin: auto
 
-.fond1
-  background-color: #DEF2F4 !important
+.caja3
+  background-color: #7D6EB2
 
-.fond2
-  background-color: #ECE9F4 !important
+.tarjeta--azul
+  background-color: #ffffff
 
-.fond3
-  background-color: #F9F9F9 !important
-  border-radius: 20px
+.slyder-a__btn--sigt, .slyder-a__btn--atrs 
+    width: 50px;
+    height: 50px;
+    background-color: #FFD947;
+    border-radius: 50%;
+    background-repeat: no-repeat;
+    background-size: 16px 24px;
+    background-position: center;
+    border: 1px solid #D8ECFF;
+    top: 50%;
+    z-index: 10000;
+    opacity: 0.7;
+    box-shadow: 0 0 0px 0px rgba(0, 0, 0, 0.3);
+    transition: opacity 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+    cursor: pointer;
 
-.fond4
-  background-color: #E7F8F8 !important
+.slyder-a__bullets__item--active 
+    background-color: #FFD947;
+    border-color: #FFD947;
+    opacity: 1;
 
-.t-gris
-  background-color: #EFEEF6
-.t-gris2
-  background-color: #FAFAFA
-
-.bloque-texto-a.color-secundario
-    background-color: #EBEBEE
-
-.bloque-texto-a.color-secundario::before
-    background-color: #CBC5E0
-
-.tarjeta.color-acento-botones
-    background-color: #F3F9FF
-.colc
-  float: none !important
-  margin-left: auto !important
-  margin-right: auto !important
-
-.hr1
-  border: 1px solid #AFAFAF
- 
-.hr2
-  border: 1px solid #AFAFAF
-  margin-left: 1.5rem
-  margin-right: 1.5rem
+.tarjeta--container > .tarjeta:first-child 
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    background-color: #EFFAF4
+.tarjeta--container > .tarjeta:last-child 
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    background-color: #FFF8DA
   
-.sep
-  border: 1px solid #AFAFAF
-  margin-bottom: 1.5rem
-  margin-left: 4rem
+.cajon.color-secundario 
+    background-color: #e7f8f8;
 
-.sep2
-  border: 1px solid #AFAFAF
-.lii
-  margin-bottom: 0 !important
+.bg-img-blue
+  padding: 14px
+  background-color: #AEE6E6
+  border-radius: 25px 50px 0px 25px
   
-.t-gris3
-  background-color: #FAFAFA
-  padding-left: 3em !important
-  padding-bottom: 3em !important
-  border-radius: 2em
+.clase2
+  max-width: 70px
+  left: 50px 
+  position: absolute 
 
-.bl-gr
-  background-color: #CAEAEE !important
+.neg 
+  font-weight: 900
+  color: #0E0103
 
-.img-200
-  img 
-    width: 500px !important
-    margin: auto
+.caja2
+  background-color: #FFF8DA
+  border-radius: 18px
+  height: 180px
 
+.ima
+  background-position: absolute;
 
-.img-300
-  img 
-    width: 300px !important
-    margin: auto
-  
-
-.error
-  background-color: #f3ef0b !important
-  
-.pasos-a__circle div 
-    color: #7D6EB2 !important
-
-.pasos-a.color-primario .pasos-a__circle
-    background-color: #ffffff !important
-    border: 3px solid #7D6EB2
-
-.cajon2.color-primario::before
-  background-color: #26AAB7 !important
-
-.cc1
-  background-color: #B1A8D1
-  border-radius: 60px
-  width: 60px
-  height: 60px
-  top: 25px
-  transform: translateX(-20%)
-
-.cc3
+.clase3
+  max-width: 70px
+  left: 153px 
   position: absolute
-  left: 50%
-  top: 50%
-  color: #ffffff
-  transform: translate(-50%,-50%)
 
-.t-b
-    background-color: #3C4973
-    color: #f1f1f1 !important
-    padding: 15px
-    text-align: center
-    position: sticky
-    left: 0
-.t-f
-    background-color: #7D6EB2
-    color: #f1f1f1 !important
-    padding: 15px
-    text-align: center
-    position: sticky
-    left: 0
-.menta
-  background-color: #E3F0F0
-  border-radius: 1.5em
-.wh-le
-  color: #f1f1f1 !important
+.bg26
+  background: url('../assets/curso/tema1/img23.png')
+  background-repeat: round;
+  border-radius: 15px
 
-.tabs-a__tab 
-    background-color: #E8E8E8
+.tabs-c.color-primario .tabs-c__tab--active 
+    border-bottom-color: #62529B !important;
 
-.hr-blank
-  width: 100%
-  margin: 2.5rem 0
+.tabs-c__tab--active 
+    border-bottom: 6px solid !important;
 
+
+.tabs-c.color-primario .tabs-c__tab--active:before 
+    border-top-color: #62529B ;
+
+.tabs-c__tab--active:before 
+    width: 0;
+    height: 0;
+    border-left: 14px solid transparent;
+    border-right: 14px solid transparent;
+    border-top: 13px solid;
+    left: 50%;
+    top: calc(100% + 6px);
+
+.tabs-c__header 
+    margin-bottom: 1px;
+
+
+.fa-check-circle:before, .fa-circle-check:before 
+    content: "\f058";
 
 .lista-ul--color li > i:first-of-type 
-  color: #7D6EB2 !important
-
-.crd-gris
-  //background-color: #FAFAFA
-
-.roundNumber
-  background-color: #26AAB7
-  padding: 0.25rem 0.55rem
-  border-radius: 999px 
-  color: white
-  
-.custom-cl
-  background-color: #F6F6F6 !important
-  &::before
-    background-color: #CBC5E0 !important
+    color: #D3D3D3;
 
 
+.tarjeta--gris
+  background: url('../assets/curso/tema1/img25.png')
+  background-repeat: round;
+  border-radius: 15px
 
-.customSize
-  width: 65px !important
-  img
-    width: 65px !important
+.lista-ul--color li > i.mas:first-of-type 
+    color: #673AB7;
 
-.tabs-c__tab--active
-  span
-    font-weight: 600
 
-.list-color
-  i
-    &::before
-      color: rgb(39,170,183) !important
+.acordion__accion__btn--b 
+    border: 1px solid #ffffff;
+    background-color: #FFD947
 
-.tabla-b th, .tabla-c th
-  border-right: 2px solid #CCCCCC !important
 
-.banner-interno__titulo__icono i
-  color: white !important;
+
+    
