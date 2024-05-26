@@ -18,7 +18,7 @@
             .col-lg-2
               img.img-a.img-t.d-none.d-lg-block(src="@/assets/curso/tema1/img1.svg")
             .col-lg-10.col-md-12.col-12
-              p.mb-0.text-white #[b Existen varios conceptos que pueden definir el mercado, cada uno de ellos con variables muy particulares en relación con el tema; sin embargo, con puntos en común.]
+              h4.mb-0.text-white #[b Existen varios conceptos que pueden definir el mercado, cada uno de ellos con variables muy particulares en relación con el tema; sin embargo, con puntos en común.]
     
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-12.col-md-12.col-12     
@@ -77,7 +77,7 @@
             .col-lg-2
               img.img-a.img-t.d-none.d-lg-block(src="@/assets/curso/tema1/img1.svg")
             .col-lg-10.col-md-12.col-12
-              p.mb-0.text-white #[b Las variables del #[em marketing] se han estudiado anteriormente; sin embargo, se listarán, para tener un panorama nítido de ellas y de los elementos que el mercadeo debe tener claro para el desarrollo de las estrategias:]
+              h4.mb-0.text-white #[b Las variables del #[em marketing] se han estudiado anteriormente; sin embargo, se listarán, para tener un panorama nítido de ellas y de los elementos que el mercadeo debe tener claro para el desarrollo de las estrategias:]
 
     .mb-5.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
@@ -140,7 +140,7 @@
             .col-lg-2
               img.img-a.img-t.d-none.d-lg-block(src="@/assets/curso/tema1/img1.svg")
             .col-lg-10.col-md-12.col-12
-              p.mb-0.text-white #[b Las variables internas tienen un enfoque más estratégico, ya que se agrupan en el #[em marketing mix] también conocido como 4P’s o mezcla de mercadeo.]
+              h4.mb-0.text-white #[b Las variables internas tienen un enfoque más estratégico, ya que se agrupan en el #[em marketing mix] también conocido como 4P’s o mezcla de mercadeo.]
               
               
     .row.align-items-center.justify-content-center.mb-0
@@ -401,7 +401,7 @@
             .col-lg-2
               img.img-a.img-t.d-none.d-lg-block(src="@/assets/curso/tema1/img1.svg")
             .col-lg-10.col-md-12.col-12
-              p.mb-0.text-white #[b Sin embargo, una excelente propuesta de valor no es suficiente para el desarrollo del proceso y debe considerarse la comunicación interactiva entre la marca y el cliente, con el fin de informar de manera efectiva y atractiva dicha propuesta a los consumidores reales y potenciales; todo esto debe redundar en la captación de valor por parte del cliente y la generación de utilidades para la empresa.]
+              h4.mb-0.text-white #[b Sin embargo, una excelente propuesta de valor no es suficiente para el desarrollo del proceso y debe considerarse la comunicación interactiva entre la marca y el cliente, con el fin de informar de manera efectiva y atractiva dicha propuesta a los consumidores reales y potenciales; todo esto debe redundar en la captación de valor por parte del cliente y la generación de utilidades para la empresa.]
 
     Separador
     #t_1_5.titulo-segundo.mb-5
@@ -835,24 +835,6 @@
               i.fas.fa-plus.mas
               p Presupuesto.
           p.mb-0 El plan de marketing finalmente debe ser socializado para su aprobación por parte de los directivos de la empresa, quienes avalan el presupuesto planteado para el mismo.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </template>
 
