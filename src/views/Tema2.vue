@@ -321,7 +321,7 @@
         h4.col.px-4.mb-0.mx-5.neg Analítica web
         img.clase4.d-none.d-lg-block(src='@/assets/curso/tema2/img13.svg')
     
-    .row.align-items-center.justify-content-center.mb-4
+    .row.align-items-center.justify-content-center.mb-5
       .col-lg-10.col-md-12.col-12
         .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5
           .bloque-texto-g__img(
@@ -329,7 +329,23 @@
           )
           .bloque-texto-g__texto.p-5
             p.mb-0 Consiste en la recolección, almacenamiento y análisis de datos estadísticos que surgen del funcionamiento de un sitio web. Esta información se estudia con el fin de generar conocimiento relevante para el desarrollo de las actividades de #[em marketing] digital. La analítica #[em web] permite realizar diferentes tipos de actividades:
-
+    
+    .row.justify-content.mb-0
+      .col-lg-12.col-md-12.col-12
+        .row.justify-content.mb-5
+          .col-lg-6.col-md-12.col-12
+            img.img-a.img-t.d-none.d-lg-block.mb-4.mov(src='@/assets/curso/tema2/img66.svg' alt='AvatarTop')
+            p.mb-5 #[b 1. Diseño de estrategias de marketing en redes sociales.]
+            img.img-a.img-t.d-none.d-lg-block.mb-4.mov(src='@/assets/curso/tema2/img66.svg' alt='AvatarTop')
+            p.mb-5 #[b 2. El tipo de comunicación que la empresa debe realizar utilizando múltiples medios.]
+            img.img-a.img-t.d-none.d-lg-block.mb-4.mov(src='@/assets/curso/tema2/img66.svg' alt='AvatarTop')
+            p.mb-5 #[b 3. Integración entre los objetivos de mercado y comunicación.]
+          .col-lg-6.col-md-12.col-12
+            img.img-a.img-t.d-none.d-lg-block.mb-4.mov(src='@/assets/curso/tema2/img66.svg' alt='AvatarTop')
+            p.mb-5 #[b 4. Desarrollo de estrategias financieras alineadas con el marketing digital.]
+            img.img-a.img-t.d-none.d-lg-block.mb-4.mov(src='@/assets/curso/tema2/img66.svg' alt='AvatarTop')
+            p.mb-5 #[b 5. Medición continua y eficaz de las acciones de marketing realizadas en toda la plataforma de la empresa.]
+    
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-12.col-md-12.col-12
         .caja6.p-4
@@ -670,28 +686,333 @@
           .bloque-texto-g__texto.p-5
             p.mb-0 En el nombre de esta plataforma se pueden encontrar los dos elementos básicos que lo conforman: en primer lugar, Google, este es el motor de búsqueda más utilizado a nivel mundial y donde migra el 80 % de la información que se consulta; siendo un motor de búsqueda su función es ingresar a cada una de las páginas que hacen parte de su red #[em Display] conformada por millones de sitios que Google ha seleccionado por la calidad y flujo de la información.
 
+    .row.align-items-center.justify-content-center.mb-5
+      .col-lg-12.col-md-12.col-12
+        .cajon.color-acento-contenido.p-4
+          p.mb-0 #[b Las búsquedas realizadas por las personas allí incluyen el segundo elemento, las palabras claves: estas palabras son las que van a determinar el proceso de promoción dentro de la red #[em Display,] por lo tanto, lo que una empresa compra a Google son palabras claves que están ligadas a la actividad económica de la empresa o de la industria a la que pertenece para llegar al público específico, que a través de este buscador está averiguando un tema en particular. ]
 
+    p.mb-5 Por ejemplo, una empresa dedicada a la venta de computadores ubicada en Bogotá quiere promocionarse en Google, en este caso la empresa podría adquirir palabras como: computadores, equipos de cómputo, computadoras personales, #[em laptops, all in one] entre otras. Con estas palabras puede realizar varios tipos de estrategias promocionales.
+    
+    .row.align-items-center.justify-content-center.mb-5
+      .col-lg-12.col-md-12.col-12
+        .tarjeta--container.row
+          .col-md.tarjeta.color-primario.p-5
+            ul.lista-ul--color
+              li.d-flex.mb-0
+                i.fas.fa-plus.mas
+                p #[b Anuncios de texto:] en el buscador por lo general están diferenciados en color y están ubicados dentro de la página principal de Google al hacer una búsqueda
+              li.d-flex.mb-0
+                i.fas.fa-plus.mas
+                p #[b Anuncios en la red Display:] #[em banners,] imágenes y videos en sitios web de alto tráfico y de acuerdo con las búsquedas realizadas por los usuarios
+              li.d-flex.mb-0
+                i.fas.fa-plus.mas
+                p #[b Remarketing:] a través de la red #[em Display,] utilizando búsquedas realizadas por usuarios y ubicándolas en sitios web que se vieron posteriormente y hagan parte de la red #[em Display]
+              li.d-flex.mb-0
+                i.fas.fa-plus.mas
+                p #[b En YouTube:] con #[em banners] y videos al inicio o en el intermedio de publicaciones con altos niveles de reproducción
+              li.d-flex.mb-0
+                i.fas.fa-plus.mas
+                p #[b Shopping:] se basa en mostrar anuncios más completos sobre productos concretos con precio y características detalladas de los mismos
+              li.d-flex.mb-0
+                i.fas.fa-plus.mas
+                p #[b Gmail:] #[em banners] en la bandeja de entrada de Gmail con el mismo diseño y formato de los correos recibidos
+          .col-md.tarjeta.color-acento-contenido.p-4
+            figure
+              img(src='@/assets/curso/tema2/img49.png', alt='tema2')
+    
+    .mb-5.d-flex
+      .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
+        h4.col.px-4.mb-0.mx-5.neg Facebook #[em Ads]
+        img.clase4.d-none.d-lg-block(src='@/assets/curso/tema2/img50.svg')
+    
+    .row.align-items-center.justify-content-center.mb-0
+      .col-lg-10.col-md-12.col-12
+        .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5
+          .bloque-texto-g__img(
+            :style="{'background-image': `url(${require('@/assets/curso/tema2/img51.png')})`}"
+          )
+          .bloque-texto-g__texto.p-5
+            p.mb-0 Es la plataforma de promoción con la que cuenta Facebook para el desarrollo de estrategias de #[em marketing] en esta red social, haciendo uso de todo su sistema de audiencia, tal vez el más grande a nivel mundial. En Facebook se pueden realizar estrategias de promoción de forma rápida, económica y efectiva, gracias a las múltiples posibilidades que presenta para quienes buscan realizar promoción de productos o servicios.
 
+    p.mb-5.text-center Ventajas de realizar promoción en Facebook Ads:
 
+    .row.align-items-center.justify-content-center.mb-5
+      .col-lg-11.col-md-12.col-12
+        .row.align-items-center.justify-content-center.mb-0
+          .col-lg-5.col-md-9.col-9
+            img.img-a.img-t.mb-4(src='@/assets/curso/tema2/img52.svg', alt='Texto que describa la imagen')
+          .col-lg-7.col-md-12.col-12
+            .tarjeta.tarjeta--verde.p-5
+              SlyderA(tipo="b")
+                .row
+                  .col-lg-12.col-md-6.col-12
+                    p #[b Segmentación del mercado:] la segmentación en esta red social es tal vez una de las más específicas que se puedan realizar en una estrategia de #[em marketing,] gracias a la caracterización que los mismos usuarios realizan en sus perfiles y toda la información que en ellos generan, de esta forma no solo se puede hacer una segmentación con datos demográficos, sino también con características personales muy concretas, gustos a todo nivel, intereses, temas de consulta, palabras claves, grupos de influencia, entre muchos otros datos.
+                .row
+                  .col-lg-12.col-md-6.col-12
+                    p #[b Viralización:] el pago de anuncios en Facebook además de garantizar el alcance de miles o quizás millones de personas es solo el primer paso para hacer un anuncio viral, quienes son alcanzados por un anuncio tienen la opción de compartirlo con sus contactos, esto significa que si aquello que se publica es de interés del mercado objetivo, puede viralizarse por iniciativa de los mismos usuarios, de ahí la importancia del desarrollo de contenidos atractivos, creativos y de calidad.
+                .row
+                  .col-lg-12.col-md-6.col-12
+                    p #[b Interactividad:] las redes sociales y en particular Facebook, ofrecen una amplia gama de posibilidades de interacción que permite que la marca y el mercado objetivo tengan una comunicación de doble vía y este último otorgue a la empresa datos que sean muy relevantes para el desarrollo de futuras estrategias de comunicación y #[em marketing.]
+                .row
+                  .col-lg-12.col-md-6.col-12
+                    p #[b Costo:] las estrategias que se realicen en Facebook suelen ser económicas debido al sistema de pago por clic, en el que solo se paga por los clics que se hagan en los anuncios y generen respuestas efectivas.               
+                .row
+                  .col-lg-12.col-md-6.col-12
+                    p #[b Medición:] uno de los aspectos más relevantes para cualquier estrategia de comunicación, es el acceso a datos estadísticos reales que permitan conocer el nivel de efectividad que un anuncio o campaña tiene, esto permite determinar el ROI de la estrategia y realizar correcciones para lograr los objetivos y el desarrollo de campañas futuras.
+
+    .mb-5.d-flex
+      .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blues
+        h5.col.px-4.mb-0.neg Tipos de campañas que se pueden realizar a través de Facebook  #[em Ads:]
+    
+    p.mb-5 De la misma forma como en cualquier otro medio, sea convencional o alternativo, Facebook ha desarrollado una serie de posibilidades de campañas y estrategias de comunicación, de acuerdo con las necesidades y posibilidades de los anunciantes:
+    
+    .row.align-items-center.justify-content-center.mb-5
+      .col-lg-6.col-md-12.col-12
+        ul.lista-ul--color
+          li.d-flex.mb-0
+            i.fas.fa-plus.mas
+            p #[b Promoción de publicaciones:] permite promocionar una publicación que se haya realizado en un perfil, #[em fanpage] o cuenta de Instagram (que también es propiedad de Facebook).
+          li.d-flex.mb-0
+            i.fas.fa-plus.mas
+            p #[b Promocionar una página:] es una estrategia que permite hacer promoción de un sitio web.
+          li.d-flex.mb-0
+            i.fas.fa-plus.mas
+            p #[b Llegar a personas que estén cerca:] a través de geolocalización se realiza una estrategia de #[em marketing] de proximidad que llega a persona que estén cerca del negocio en un rango y momento específicos.
+          li.d-flex.mb-0
+            i.fas.fa-plus.mas
+            p #[b Reconocimiento de marca:] a través de un anuncio se llega a un público específico con la posibilidad de prestar más atención.
+          li.d-flex.mb-0
+            i.fas.fa-plus.mas
+            p #[b Atraer público a un sitio web:] campaña enfocada en el aumento de tráfico en un sitio web.
+          li.d-flex.mb-0
+            i.fas.fa-plus.mas
+            p #[b Aumento de descarga de App:] campaña enfocada en la descarga e instalación de una App en particular.
+          li.d-flex.mb-0
+            i.fas.fa-plus.mas
+            p #[b Aumento de asistentes a un evento:] campaña para promocionar un evento específico y aumentar el número de participantes al mismo.
+      .col-lg-6.col-md-12.col-12
+        img.img-a.img-t.mb-4(src='@/assets/curso/tema2/img53.png', alt='Texto que describa la imagen')
+    
+    .row.align-items-center.justify-content-center.mb-5
+      .col-lg-6.col-md-12.col-12
+        img.img-a.img-t.mb-4(src='@/assets/curso/tema2/img54.png', alt='Texto que describa la imagen')
+      .col-lg-6.col-md-12.col-12
+        ul.lista-ul--color
+          li.d-flex.mb-0
+            i.fas.fa-plus.mas
+            p #[b Aumento de reproducción de un video:] campaña orientada a aumentar las visualizaciones de un video.
+          li.d-flex.mb-0
+            i.fas.fa-plus.mas
+            p #[b Aumento de las conversiones de un sitio web:] es una campaña que busca generar conversiones #[em (leads)] de un negocio en particular, por lo general una tienda virtual.
+          li.d-flex.mb-0
+            i.fas.fa-plus.mas
+            p #[b Generación de clientes potenciales para un negocio:] promoción de un sitio web o tienda virtual de un negocio para atraer clientes potenciales.
+          li.d-flex.mb-0
+            i.fas.fa-plus.mas
+            p #[b Aumento de uso de App:] estrategia para aumentar la interacción del público con una app específica.
+          li.d-flex.mb-0
+            i.fas.fa-plus.mas
+            p #[b Solicitud de oferta:] campaña para dar a conocer una oferta en particular.
+          li.d-flex.mb-0
+            i.fas.fa-plus.mas
+            p #[b Promoción de catálogos:] promoción de un catálogo a manera de escaparate en una campaña de Facebook.
+          li.d-flex.mb-0
+            i.fas.fa-plus.mas
+            p #[b Obtener visitas a un negocio:] con #[em marketing] de proximidad, se realiza promoción de un punto de venta entre las personas que estén en un rango y momento específico.
+      
+    .row.align-items-center.justify-content-center.mb-4
+      .col-lg-10.col-md-12.col-12
+        .caja1.p-4
+          .row.align-items-center.justify-content-center
+            .col-lg-2
+              img.img-a.img-t.d-none.d-lg-block(src="@/assets/curso/tema1/img1.svg")
+            .col-lg-10.col-md-12.col-12
+              h4.mb-0.text-white #[b Facebook ofrece una gama de posibilidades muy amplia para el desarrollo de campañas y estrategias de comunicación que permiten a los negocios llegar a públicos muy específicos, con información puntual y muy bien estructurada, esto garantiza efectividad con costos mínimos de inversión.]
+  
 
     Separador
     #t_2_8.titulo-segundo.mb-5
       h2 2.8 Inbound marketing
     
+    .row.align-items-center.justify-content-center.mb-5
+      .col-lg-4.col-md-9.col-9
+        img.img-a.img-t.mb-4(src='@/assets/curso/tema2/img55.png', alt='Texto que describa la imagen')
+      .col-lg-8.col-md-12.col-12
+        .cajon.color-secundario.p-4.mb-4
+          p.mb-0 #[b Es tal vez la metodología que presenta mayor eficacia en el desarrollo de una estrategia de #[em marketing,] la cual tenga como finalidad la atracción del mercado potencial para hacerlo adepto a una marca por su propia convicción e iniciativa. ]
+        p.mb-0 El inbound #[em marketing] crea experiencias significativas que generan valor para el mercado objetivo de la empresa, esto se realiza con el desarrollo de contenido útil y relevante para los usuarios de un sitio web, al mismo tiempo que se interactúa con ellos a través de medios más personales y con la posibilidad de generar un nivel de conversación más personal, como el correo electrónico, los mensajes de texto y los chats. No tiene un enfoque promocional o publicitario, por el contrario, el contenido generado representa mayor utilidad y relevancia, lo que hace que el mercado potencial se acerque a la marca de forma orgánica. Un ejemplo de ello es el modelo aplicado en escuelas de inglés o institutos donde se dictan estos tipos de cursos, enfatizándose siempre en una conversación más cercana.
+
+    p.mb-5 El #[em inbound marketing] se enfoca en tres momentos específicos: atraer, conversar, seducir:
+
+    AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--grissss").mb-5
+      .row.p-4(titulo="Atraer")
+        .col-md-1
+          figure
+            img.img-a.img-t(src='@/assets/curso/tema2/img56.svg', alt='Texto que describa la imagen')
+        .col-md-10.mb-4.mb-md-0
+          p.mb-4 En este punto se atraen a todos aquellos clientes potenciales; es decir, aquellos que tienen la opción de convertirse en compradores efectivos del producto o servicio. para ello, es indispensable desarrollar contenido relevante y muy atractivo, adicional de llegar a ellos con anuncios en redes sociales y medios más directos. Atraer significa demostrar a los prospectos que pueden confiar en la marca para resolver un problema en particular o para satisfacer una necesidad. Las personas buscan respuestas a preguntas que tienen en sus consiente e inconsciente y si están relacionados con un producto o servicio en particular es viable utilizar conocimiento e información que resulte útil para resolver dichas preguntas y atraer al mercado específico. Para este punto se puede hacer uso de algunas herramientas muy puntuales:
+          ul.lista-ul--color
+            li.d-flex.mb-0
+              i.fas.fa-plus.mas
+              p #[b Consumo inmediato:] se refiere a los productos que se consumen en el momento: una gaseosa o un plato en un restaurante
+            li.d-flex.mb-0
+              i.fas.fa-plus.mas
+              p #[b Consumo duradero:] aquí se encuentran productos que tienen una vida prolongada y su uso es continuo: los muebles de una casa o un computador
+      .row.p-4(titulo="Conversar")
+        .col-md-1
+          figure
+            img.img-a.img-t(src='@/assets/curso/tema2/img57.svg', alt='Texto que describa la imagen')
+        .col-md-10.mb-4.mb-md-0
+          p.mb-4 En este momento ya se ha identificado un grupo de prospectos que permite ir un paso adelante en el proceso de venta, también se han diferenciado los medios por los que dichos prospectos prefieren entablar una determinada conversación: correo electrónico, chat, sitio web o redes sociales; con estos datos ya se puede acceder a información más personal de estos usuarios a través de un método de conversión como un formulario de suscripción. Posteriormente, esta información se utiliza para realizar estrategias de #[em marketing] relacional con herramientas CRM que generen experiencias personalizadas, a la medida de cada miembro del mercado objetivo. En este punto es necesario hacer una diferenciación de los usuarios e identificar cuáles de ellos son los más adeptos y cercanos a la marca para comenzar todo un programa que permita cautivarlos y llevarlos al siguiente nivel, donde por medio de estrategias de interacción se hacen ofertas concretas de los productos o servicios que la empresa ofrece. En este punto se puede hacer uso de las siguientes herramientas:
+          ul.lista-ul--color
+            li.d-flex.mb-0
+              i.fas.fa-plus.mas
+              p CRM
+            li.d-flex.mb-0
+              i.fas.fa-plus.mas
+              p Sistema de información de mercados
+            li.d-flex.mb-0
+              i.fas.fa-plus.mas
+              p Formularios
+            li.d-flex.mb-0
+              i.fas.fa-plus.mas
+              p Correo electrónico
+            li.d-flex.mb-0
+              i.fas.fa-plus.mas
+              p Videos
+            li.d-flex.mb-0
+              i.fas.fa-plus.mas
+              p Catálogos y portafolios
+      .row.p-4(titulo="Seducir")
+        .col-md-1
+          figure
+            img.img-a.img-t(src='@/assets/curso/tema2/img58.svg', alt='Texto que describa la imagen')
+        .col-md-10.mb-4.mb-md-0
+          p.mb-4 Es el momento de realizar un mayor número de conversaciones e interacciones, pero en este punto con clientes reales identificados plenamente. La conversación incluye también a la fuerza de ventas y todo aquel que esté involucrado con la prestación de servicio. La creación de contenidos interesantes y relevantes debe continuar, esta vez con información más puntual y útil para el mercado específico. El proceso de venta en esta fase del proceso inbound ya es un hecho, para ello debe haber un protocolo de cotización y atención al cliente muy bien estructurado. Por último, es necesario pedir retroalimentación permanente al cliente con el fin de conocer el nivel de satisfacción que este tiene frente al producto, servicio y la atención recibida. En la fase de seducción se pueden utilizar las siguientes herramientas:
+          ul.lista-ul--color
+            li.d-flex.mb-0
+              i.fas.fa-plus.mas
+              p Correo electrónico
+            li.d-flex.mb-0
+              i.fas.fa-plus.mas
+              p Manual de imagen visual
+            li.d-flex.mb-0
+              i.fas.fa-plus.mas
+              p Cotizaciones
+            li.d-flex.mb-0
+              i.fas.fa-plus.mas
+              p Catálogos y portafolios
+            li.d-flex.mb-0
+              i.fas.fa-plus.mas
+              p Encuestas de satisfacción
+
+
     Separador
     #t_2_9.titulo-segundo.mb-5
       h2 2.9 Plan de marketing digital.
 
+    .row.align-items-center.justify-content-center.mb-4
+      .col-lg-4.col-md-12.col-12
+        img.img-a.img-t(src='@/assets/curso/tema2/img59.png', alt='tema2')
+      .col-lg-6.col-md-12.col-12
+        p.mb-0 Ya se cuentan con todos los elementos y herramientas necesarios para el desarrollo de un plan de #[em marketing] digital eficiente y coherente con las necesidades de la empresa y las características del mercado y como se ha dicho anteriormente, la diferencia entre el #[em marketing] convencional y el marketing digital, radica en los canales de interacción entre la marca y el cliente o consumidor para el desarrollo de las estrategias de comercialización, entrega de productos y comunicación, variables que se han analizado en el presente componente formativo. Por lo tanto, el desarrollo del plan de #[em marketing] digital presenta la estructura ya estudiada: 
+        
+    .row.align-items-center.justify-content-center.mb-4
+      .col-md-10.mb-4.mb-md-0
+        ul.lista-ul--color
+          li.d-flex.mb-0
+            i.fas.fa-plus.mas
+            p Brief táctico
+          li.d-flex.mb-0
+            i.fas.fa-plus.mas
+            p Objetivo de mercadeo
+          li.d-flex.mb-0
+            i.fas.fa-plus.mas
+            p Mercado objetivo
+          li.d-flex.mb-0
+            i.fas.fa-plus.mas
+            p Plan de medios digital < seleccionar por lo menos 1 medio offline como apoyo a las estrategias online > .
+          li.d-flex.mb-0
+            i.fas.fa-plus.mas
+            p Estrategias de comercialización y promoción online:
+    
+    
+    .row.justify-content-center.mb-5
+      .col-lg-3.col-md-4.col-sm-4.my-3.mb-5
+        .tarjeta-avatar
+          img.img-a.img-t.img-w2.mb-5(src='@/assets/curso/tema2/img60.svg',alt='tema2')
+          div.bg15.p-4.pt-5.h-100
+            p.mb-5.my-5.text-center #[b #[em Brief] táctico] 
+      .col-lg-3.col-md-4.col-sm-4.my-3.mb-5
+        .tarjeta-avatar
+          img.img-a.img-t.img-w2(src='@/assets/curso/tema2/img61.svg',alt='tema2')
+          div.bg15.p-4.pt-5.h-100
+            p.mb-5.my-5.text-center #[b Objetivo de mercadeo] 
+      .col-lg-3.col-md-4.col-sm-4.my-3.mb-5
+        .tarjeta-avatar
+          img.img-a.img-t.img-w2(src='@/assets/curso/tema2/img62.svg',alt='tema2')
+          div.bg15.p-4.pt-5.h-100
+            p.mb-5.my-5.text-center #[b Mercado objetivo] 
+      .col-lg-3.col-md-4.col-sm-4.my-3.mb-5
+        .tarjeta-avatar
+          img.img-a.img-t.img-w2(src='@/assets/curso/tema2/img63.svg',alt='tema2')
+          div.bg15.p-4.pt-5.h-100
+            p.mb-0.my-5.text-center #[b Plan de medios digital < seleccionar por lo menos 1 medio offline como apoyo a las estrategias online >.] 
 
-
-
-
-
-
-
-
-
-
+    .row.justify-content-center.mb-0
+      .col-lg-6.col-md-4.col-sm-4.my-3.mb-5
+        .tarjeta-avatar
+          img.img-a.img-t.img-w2.mb-5(src='@/assets/curso/tema2/img64.svg',alt='tema2')
+          div.bg15.p-4.h-100.p-5
+            p.mb-4.my-5.text-center #[b Estrategias de comercialización y promoción online] 
+            ul.lista-ul--color
+              li.d-flex.mb-0
+                i.fas.fa-plus.mas
+                p Logística de entrega
+              li.d-flex.mb-0
+                i.fas.fa-plus.mas
+                p Sistema de pago
+              li.d-flex.mb-0
+                i.fas.fa-plus.mas
+                p Horarios de posteo de anuncios
+              li.d-flex.mb-0
+                i.fas.fa-plus.mas
+                p Estrategias de promoción de ventas
+              li.d-flex.mb-0
+                i.fas.fa-plus.mas
+                p Estrategias de atracción y conversión de clientes
+              li.d-flex.mb-0
+                i.fas.fa-plus.mas
+                p Seguimiento a clientes < estrategias postventa >
+              li.d-flex.mb-0
+                i.fas.fa-plus.mas
+                p Sistema de información de mercados < data >
+              li.d-flex.mb-0
+                i.fas.fa-plus.mas
+                p Estructuración de redes sociales para comunicación con los clientes
+      
+      .col-lg-6.col-md-4.col-sm-4.my-3.mb-5
+        .tarjeta-avatar
+          img.img-a.img-t.img-w2(src='@/assets/curso/tema2/img65.svg',alt='tema2')
+          div.bg15.p-4.h-100.p-5
+            p.mb-4.my-5.text-center #[b Cronograma y presupuesto del plan de mercadeo digital] 
+            ul.lista-ul--color
+              li.d-flex.mb-0
+                i.fas.fa-plus.mas
+                p Objetivos de frecuencia e intensidad
+              li.d-flex.mb-0
+                i.fas.fa-plus.mas
+                p Indicadores
+              li.d-flex.mb-0
+                i.fas.fa-plus.mas
+                p Cantidad de miembros del mercado objetivo a impactar
+              li.d-flex.mb-0
+                i.fas.fa-plus.mas
+                p Costo del impacto
+              li.d-flex.mb-0
+                i.fas.fa-plus.mas
+                p Cálculo de CPM
+  
 </template>
 
 <script>
