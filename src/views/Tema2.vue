@@ -6,7 +6,7 @@
     .titulo-principal.color-secundario
       .titulo-principal__numero
         span 2
-      h1 Marketing digital
+      h1 #[em Marketing] digital
             
     .row
       figure.mb-5
@@ -18,12 +18,12 @@
         img.img-a.img-t.mb-4(src='@/assets/curso/tema2/img1.png', alt='Texto que describa la imagen')
       .col-lg-8.col-md-12.col-12
         .cajon.color-secundario.p-5.mb-4
-          p.mb-0 #[b El #[em marketing] digital no tiene diferencias abismales con el convencional, salvo aquello que lo define < lo digital > ;  es decir, el entorno donde sucede la interacción entre la marca y el consumidor, desplazando en muchas ocasiones las tiendas físicas, la interacción face to face y los medios masivos convencionales. ]
+          p.mb-0 #[b El #[em marketing] digital no tiene diferencias abismales con el convencional, salvo aquello que lo define < lo digital > ;  es decir, el entorno donde sucede la interacción entre la marca y el consumidor, desplazando en muchas ocasiones las tiendas físicas, la interacción #[em face to face] y los medios masivos convencionales. ]
         p.mb-0 El #[em marketing] digital permite que las marcas (paradójicamente) sean más cercanas a los mercados objetivo, que llegan a públicos más específicos creando así comunidades más cerradas y menos masivas. Un anuncio en televisión tenía que ser visto por todos los miembros de la familia que en el horario prime time estuviesen viendo la telenovela de moda, de esa forma el anuncio de la cuchilla de afeitar dirigido al padre impactaba de igual forma a la madre, a los hijos y eventualmente a otros miembros de la familia o amigos.
 
     Separador
     #t_2_1.titulo-segundo
-      h2 2.1 Conceptos básicos del marketing digital
+      h2 2.1 Conceptos básicos del #[em marketing] digital
     
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-10.col-md-12.col-12
@@ -45,7 +45,7 @@
       .col-lg-8.col-md-12.col-12
         .cajon.color-secundario.p-5.mb-5
           p.mb-0 #[b Las #[em cookies] son pequeños ficheros de texto con información sobre el usuario. Estas se almacenan en el navegador, desde donde el usuario puede aceptarlas, bloquearlas o eliminarlas. ]
-        p.mb-4 A esta información que se almacena en las #[em cookies] se puede acceder posteriormente con distintos fines como ofrecer publicidad, hacer #[em remarketing] (anuncios personalizados dirigidos a usuarios que visitaron previamente tu #[em web]), conocer el número total de sesiones generadas por los usuarios, mantener los productos añadidos en las cestas de la compra de las tiendas online, usar aplicaciones como las de los bancos sin necesidad de iniciar sesión en cada página, etc.
+        p.mb-4 A esta información que se almacena en las #[em cookies] se puede acceder posteriormente con distintos fines como ofrecer publicidad, hacer #[em remarketing] (anuncios personalizados dirigidos a usuarios que visitaron previamente tu #[em web]), conocer el número total de sesiones generadas por los usuarios, mantener los productos añadidos en las cestas de la compra de las tiendas #[em online], usar aplicaciones como las de los bancos sin necesidad de iniciar sesión en cada página, etc.
         p.mb-0 Las #[em cookies] tienen varias clasificaciones y criterios: 
     
     
@@ -65,7 +65,7 @@
                     p #[b 2. #[em Cookies] de terceros o de tercera parte:] son las generadas y utilizadas por un dominio externo al del sitio #[em web] que estén visitando los usuarios. Por ejemplo, cuando accedes a una #[em web] y ves #[em banners] sobre productos que te interesan, esa publicidad no se produce de forma aleatoria. Esto ocurre porque en las cookies se guardan tus preferencias de navegación, lo que permite a los anunciantes mostrarte anuncios adaptados a tus gustos a través de otras #[em webs.]
                 .row
                   .col-lg-12.col-md-6.col-12
-                    p #[b 3. #[em Cookies] de sesión:] son las que se eliminan en cuanto caduca la sesión. Su propósito es permitirte moverte entre las diferentes páginas de una web sin necesidad de que tengas que dar la misma información una y otra vez. Por ejemplo, las que se utilizan en las tiendas online. A medida que vas añadiendo productos al carrito de la compra, la información se almacena en una #[em cookie] que permite que en las siguientes páginas se puedan mantener los mismos productos.
+                    p #[b 3. #[em Cookies] de sesión:] son las que se eliminan en cuanto caduca la sesión. Su propósito es permitirte moverte entre las diferentes páginas de una #[em web] sin necesidad de que tengas que dar la misma información una y otra vez. Por ejemplo, las que se utilizan en las tiendas #[em online]. A medida que vas añadiendo productos al carrito de la compra, la información se almacena en una #[em cookie] que permite que en las siguientes páginas se puedan mantener los mismos productos.
                 .row
                   .col-lg-12.col-md-6.col-12
                     p.mb-4 #[b 4. #[em Cookies] persistentes:] son las que permiten almacenar los datos de los usuarios durante más tiempo. También tienen fecha de caducidad, la cual es definida por el responsable de la #[em cookie.]
@@ -76,7 +76,7 @@
                     p.mb-0 Por ejemplo, las que te permiten recordar los productos en el carrito de la compra o registrarte en un evento.
                 .row
                   .col-lg-12.col-md-6.col-12
-                    p.mb-4 #[b 6. #[em Cookies] de personalización:] son las que permiten al usuario disfrutar del servicio que presta la web o aplicación de una forma personalizada.
+                    p.mb-4 #[b 6. #[em Cookies] de personalización:] son las que permiten al usuario disfrutar del servicio que presta la #[em web] o aplicación de una forma personalizada.
                     p.mb-0 Por ejemplo, cuando una #[em web] está traducida a muchos idiomas, el que tú la veas en el tuyo es posible gracias a las #[em cookies] de personalización.
                 .row
                   .col-lg-12.col-md-6.col-12
@@ -107,13 +107,13 @@
     p.mb-5 Una métrica es lo que mide los datos. Algunos ejemplos de métricas son: usuarios, sesiones, páginas vistas.
     
     AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--grissss").mb-5
-      .row.p-4(titulo="Resumen ejecutivo")
+      .row.p-4(titulo="Usuarios")
         .col-md-1
           figure
             img.img-a.img-t.my-4(src='@/assets/curso/tema2/img6.svg', alt='Texto que describa la imagen')
         .col-md-10.mb-4.mb-md-0
-          p.mb-5.my-5 Es el registro que queda del ingreso de una persona a un sitio web o aplicación.
-      .row.p-4(titulo="Diseño de matrices de diagnóstico")
+          p.mb-5.my-5 Es el registro que queda del ingreso de una persona a un sitio #[em web] o aplicación.
+      .row.p-4(titulo="Sesión")
         .col-md-1
           figure
             img.img-a.img-t.my-3(src='@/assets/curso/tema2/img7.svg', alt='Texto que describa la imagen')
@@ -132,7 +132,7 @@
             li.d-flex.mb-0
               i.fas.fa-plus.mas
               p #[b Cambio de día:] si se está navegando a la media noche, una vez cambie el día se considera otra sesión.
-      .row.p-4(titulo="Resumen ejecutivo")
+      .row.p-4(titulo="Página vista")
         .col-md-1
           figure
             img.img-a.img-t.my-3(src='@/assets/curso/tema2/img8.svg', alt='Texto que describa la imagen')
@@ -141,9 +141,9 @@
     
     .mb-5.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blues
-        h5.col.px-4.mb-0.neg KPI: #[em (Key Performance Indicator)]
+        h5.col.px-4.mb-0.neg #[em KPI: (Key Performance Indicator)]
     
-    p.mb-5 un KPI es un indicador clave de rendimiento, esto quiere decir que gracias a este tipo de indicadores es posible saber si se están cumpliendo o no los objetivos. Algunos ejemplos de KPI son: ROI, tasa de rebote.
+    p.mb-5 un #[em KPI] es un indicador clave de rendimiento, esto quiere decir que gracias a este tipo de indicadores es posible saber si se están cumpliendo o no los objetivos. Algunos ejemplos de #[em KPI] son: #[em ROI], tasa de rebote.
     
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-12.col-md-12.col-12 
@@ -153,8 +153,8 @@
               .col-6
                 figure
                   img.img-a.img-t(src='@/assets/curso/tema2/img9.svg', alt='Texto que describa la imagen')
-            h2 ROI #[em (Return On Investment)]
-            p El ROI es el retorno de la inversión, es decir, qué cantidad de la que has invertido ha vuelto a la empresa. Este KPI mide la relación existente entre el beneficio neto y los costos. El método exacto para realizar el cálculo depende de los objetivos de la inversión que la empresa realice. Su fórmula es: 
+            h2 #[em ROI (Return On Investment)]
+            p El #[em ROI] es el retorno de la inversión, es decir, qué cantidad de la que has invertido ha vuelto a la empresa. Este #[em KPI] mide la relación existente entre el beneficio neto y los costos. El método exacto para realizar el cálculo depende de los objetivos de la inversión que la empresa realice. Su fórmula es: 
             p.mb-4 ROI = [(ingresos - inversión) / inversión] * 100
           .col-md.tarjeta.color-primario.pri9.f2.p-5
             .row.justify-content.mb-4
@@ -162,25 +162,25 @@
                 figure
                   img.img-a.img-t(src='@/assets/curso/tema2/img10.svg', alt='Texto que describa la imagen')
             h2.text-white Tasa de rebote
-            p.text-white La tasa de rebote es el porcentaje de sesiones que llegan a una página y se van sin hacer nada más en la web. Su fórmula es:
+            p.text-white La tasa de rebote es el porcentaje de sesiones que llegan a una página y se van sin hacer nada más en la #[em web]. Su fórmula es:
             p.mb-4.text-white Tasa de rebote = (total de sesiones que vieron una sola página / total de sesiones) * 100
     
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-12.col-md-12.col-12 
         .cajon.color-secundario.p-4
-          p.mb-0 #[b Si se tiene una tasa de rebote del 26 % significa que, de cada 100 sesiones, 26 salieron de la web sin mirar nada más. Este KPI es útil para conocer el rendimiento de tu web en general y de las distintas páginas de esta en particular.]
+          p.mb-0 #[b Si se tiene una tasa de rebote del 26 % significa que, de cada 100 sesiones, 26 salieron de la #[em web] sin mirar nada más. Este #[em KPI] es útil para conocer el rendimiento de tu #[em web] en general y de las distintas páginas de esta en particular.]
     
     .mb-5.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blues
         h5.col.px-4.mb-0.neg Cuadro de mando #[em  (scorecard)]
     
-    p.mb-5 El cuadro de mando o #[em scorecard] en inglés, es una relación de KPI agrupados de forma lógica que muestran de un vistazo si se están alcanzando o no los objetivos para poder tomar decisiones de forma rápida. Para conseguir este propósito, en el cuadro de mando solo debe mostrarse la información estrictamente necesaria. Es decir, la que permita saber si se están cumpliendo o no los objetivos.
+    p.mb-5 El cuadro de mando o #[em scorecard] en inglés, es una relación de #[em KPI] agrupados de forma lógica que muestran de un vistazo si se están alcanzando o no los objetivos para poder tomar decisiones de forma rápida. Para conseguir este propósito, en el cuadro de mando solo debe mostrarse la información estrictamente necesaria. Es decir, la que permita saber si se están cumpliendo o no los objetivos.
     
     .mb-5.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blues
         h5.col.px-4.mb-0.neg  Panel de control #[em (dashboard)]
     
-    p.mb-5 En los paneles de control se recogen diversos KPI, tablas de segmentación y diferentes gráficos con el objetivo de analizar cada estrategia/acción que se ha realizado para conseguir los objetivos del negocio.
+    p.mb-5 En los paneles de control se recogen diversos #[em KPI], tablas de segmentación y diferentes gráficos con el objetivo de analizar cada estrategia/acción que se ha realizado para conseguir los objetivos del negocio.
     
     .row.align-items-center.justify-content-center.mb-4
       .col-lg-10.col-md-12.col-12
@@ -189,7 +189,7 @@
             .col-lg-2
               img.img-a.img-t.d-none.d-lg-block(src="@/assets/curso/tema1/img1.svg")
             .col-lg-10.col-md-12.col-12
-              h4.mb-0.text-white #[b Imaginemos que uno de los objetivos es mejorar el Engagement Rate (ER) de Twitter, el cual lo vamos a calcular dividiendo el total de interacciones entre el número de seguidores y multiplicando el resultado por cien. En este caso, en el cuadro de mando tendremos este KPI para saber si estamos cumpliendo o no los objetivos. (Capítulo 2. Terminología básica)]
+              h4.mb-0.text-white #[b Imaginemos que uno de los objetivos es mejorar el #[em Engagement Rate (ER)] de #[em Twitter], el cual lo vamos a calcular dividiendo el total de interacciones entre el número de seguidores y multiplicando el resultado por cien. En este caso, en el cuadro de mando tendremos este #[em KPI] para saber si estamos cumpliendo o no los objetivos. (Capítulo 2. Terminología básica)].
     
     Separador
     #t_2_2.titulo-segundo.mb-5
@@ -215,7 +215,7 @@
                 figure
                   img.img-a.img-t(src='@/assets/curso/tema1/img60.svg', alt='Texto que describa la imagen')
             h2 Medición
-            p Consiste en la recopilación de datos asociados a la actividad de los usuarios en un sitio web, aplicación móvil o cualquier otro medio digital.
+            p Consiste en la recopilación de datos asociados a la actividad de los usuarios en un sitio #[em web], aplicación móvil o cualquier otro medio digital.
           
           .col-md.tarjeta.color-primario.pri2.p-5
             .row.justify-content.mb-4
@@ -242,7 +242,7 @@
         img.img-a.img-t(src='@/assets/curso/tema2/img12.png', alt='Texto que describa la imagen')
       .col-lg-6.col-md-12.col-12.mb-4
         p.mb-4 Existe una gran variedad de herramientas de medición de datos, todas ellas con características y ventajas diferentes, algunas gratuitas y otras que tienen un sistema de pago que oscila de moderado a alto, lo importante es que la información debe ser analizada y utilizada de la mejor forma posible.
-        p.mb-0 A continuación, se verán algunas de las herramientas más versátiles para la medición de los datos:
+        p.mb-0 A continuación, se presentan algunas de las herramientas más versátiles para la medición de los datos:
     
     .mb-5.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
@@ -287,7 +287,7 @@
           .col-lg-10
             .cajam
               h2.text-center.text-white Estadísticas de las redes sociales
-        p.text-center Cuando se ha creado una página en Facebook o cuentas en Instagram o Twitter, por ejemplo, estas mismas redes sociales proporcionan información detallada de la interacción, alcance y popularidad de cada post o anuncio que se haga en ellas, así se puede determinar la efectividad de las estrategias que se realicen para una marca en particular.
+        p.text-center Cuando se ha creado una página en Facebook o cuentas en Instagram o Twitter, por ejemplo, estas mismas redes sociales proporcionan información detallada de la interacción, alcance y popularidad de cada #[em post] o anuncio que se haga en ellas, así se puede determinar la efectividad de las estrategias que se realicen para una marca en particular.
       .tarjeta.color-acento-botones.p-4
         .row.justify-content-center.mb-3
           .col-8
@@ -318,7 +318,7 @@
 
     .mb-5.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
-        h4.col.px-4.mb-0.mx-5.neg Analítica web
+        h4.col.px-4.mb-0.mx-5.neg Analítica #[em web]
         img.clase4.d-none.d-lg-block(src='@/assets/curso/tema2/img13.svg')
     
     .row.align-items-center.justify-content-center.mb-5
@@ -328,28 +328,28 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema2/img21.png')})`}"
           )
           .bloque-texto-g__texto.p-5
-            p.mb-0 Consiste en la recolección, almacenamiento y análisis de datos estadísticos que surgen del funcionamiento de un sitio web. Esta información se estudia con el fin de generar conocimiento relevante para el desarrollo de las actividades de #[em marketing] digital. La analítica #[em web] permite realizar diferentes tipos de actividades:
+            p.mb-0 Consiste en la recolección, almacenamiento y análisis de datos estadísticos que surgen del funcionamiento de un sitio #[em web]. Esta información se estudia con el fin de generar conocimiento relevante para el desarrollo de las actividades de #[em marketing] digital. La analítica #[em web] permite realizar diferentes tipos de actividades:
     
     .row.justify-content.mb-0
       .col-lg-12.col-md-12.col-12
         .row.justify-content.mb-5
           .col-lg-6.col-md-12.col-12
             img.img-a.img-t.d-none.d-lg-block.mb-4.mov(src='@/assets/curso/tema2/img66.svg' alt='AvatarTop')
-            p.mb-5 #[b 1. Diseño de estrategias de marketing en redes sociales.]
+            p.mb-5 #[b 1. Diseño de estrategias de #[em marketing] en redes sociales.]
             img.img-a.img-t.d-none.d-lg-block.mb-4.mov(src='@/assets/curso/tema2/img66.svg' alt='AvatarTop')
             p.mb-5 #[b 2. El tipo de comunicación que la empresa debe realizar utilizando múltiples medios.]
             img.img-a.img-t.d-none.d-lg-block.mb-4.mov(src='@/assets/curso/tema2/img66.svg' alt='AvatarTop')
             p.mb-5 #[b 3. Integración entre los objetivos de mercado y comunicación.]
           .col-lg-6.col-md-12.col-12
             img.img-a.img-t.d-none.d-lg-block.mb-4.mov(src='@/assets/curso/tema2/img66.svg' alt='AvatarTop')
-            p.mb-5 #[b 4. Desarrollo de estrategias financieras alineadas con el marketing digital.]
+            p.mb-5 #[b 4. Desarrollo de estrategias financieras alineadas con el #[em marketing] digital.]
             img.img-a.img-t.d-none.d-lg-block.mb-4.mov(src='@/assets/curso/tema2/img66.svg' alt='AvatarTop')
-            p.mb-5 #[b 5. Medición continua y eficaz de las acciones de marketing realizadas en toda la plataforma de la empresa.]
+            p.mb-5 #[b 5. Medición continua y eficaz de las acciones de #[em marketing] realizadas en toda la plataforma de la empresa.]
     
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-12.col-md-12.col-12
         .caja6.p-4
-          p.mb-0 Adicionalmente, la analítica web tiene una serie de tarea definidas dentro de la organización; actividades enfocadas en el CRM y otros procesos de interacción entre la marca y el consumidor. La analítica interviene además en la toma de decisiones relacionadas con la comercialización de los productos o servicios, así como el estudio permanente de los clientes, el mercado y las tendencias. De este modo es necesario que se tengan en cuenta una serie de indicadores relacionados con la analítica web: 
+          p.mb-0 Adicionalmente, la analítica #[em web] tiene una serie de tarea definidas dentro de la organización; actividades enfocadas en el #[em CRM] y otros procesos de interacción entre la marca y el consumidor. La analítica interviene además en la toma de decisiones relacionadas con la comercialización de los productos o servicios, así como el estudio permanente de los clientes, el mercado y las tendencias. De este modo es necesario que se tengan en cuenta una serie de indicadores relacionados con la analítica #[em web]: 
     
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-4.col-md-12.col-12
@@ -357,13 +357,13 @@
         ul.lista-ul--color
           li.d-flex.mb-0
             i.fas.fa-plus.mas
-            p Medición de la actividad web
+            p Medición de la actividad #[em web]
           li.d-flex.mb-0
             i.fas.fa-plus.mas
             p Medición de la valoración
           li.d-flex.mb-0
             i.fas.fa-plus.mas
-            p Medición del retorno sobre la inversión (ROI)
+            p Medición del retorno sobre la inversión #[em (ROI)]
           li.d-flex.mb-0
             i.fas.fa-plus.mas
             p Mediciones individuales
@@ -401,7 +401,7 @@
                     p #[b Total de “me gusta”:] indica el número de personas que les gusta la página; relaciona también el porcentaje de aumento o disminución de la métrica semanal.
                 .row
                   .col-lg-12.col-md-6.col-12
-                    p #[b Amigos de los fans:] muestra el número de personas que eran amigos de los que hicieron clic en “me gusta” y relaciona el porcentaje de aumento o disminución semanal.
+                    p #[b Amigos de los #[em fans:]] muestra el número de personas que eran amigos de los que hicieron clic en “me gusta” y relaciona el porcentaje de aumento o disminución semanal.
                 .row
                   .col-lg-12.col-md-6.col-12
                     p #[b Personas que están hablando de esto:] indica el número de personas que realizaron algún tipo de actividad en la última semana relacionada con una página: hacer un #[em post,] compartir una publicación, responder a un evento o a una pregunta, etiquetar a alguien, mencionarla en otra publicación.
@@ -435,7 +435,7 @@
 
     Separador
     #t_2_4.titulo-segundo.mb-5
-      h2 2.4 CRM #[em (Costumer Relationship Management)]
+      h2 2.4 #[em CRM (Costumer Relationship Management)]
     
     .row.align-items-center.justify-content-center.mb-0
       .col-lg-4.col-md-9.col-9
@@ -443,7 +443,7 @@
       .col-lg-8.col-md-12.col-12
         .cajon.color-secundario.p-5.mb-4
           p.mb-0 #[b Es un proceso de relacionamiento con los clientes de una empresa o marca, su enfoque está en el proceso de comercialización, mercadeo y comunicación de la empresa con sus clientes reales y potenciales.]
-        p.mb-0 Este proceso depende en casi un 100 % del #[em software] que gestiona la información de los clientes, para luego con base en estos datos generar acciones específicas de promoción y comercialización. El CRM se nutre de los datos de los clientes a través de Sistemas de Información de Mercados (SIM); estos datos abundan en medios como las redes sociales y los consumidores los entregan de forma libre y voluntaria; además, son muy eficaces para el desarrollo de estrategias puntuales de #[em marketing.]
+        p.mb-0 Este proceso depende en casi un 100 % del #[em software] que gestiona la información de los clientes, para luego con base en estos datos generar acciones específicas de promoción y comercialización. El #[em CRM] se nutre de los datos de los clientes a través de Sistemas de Información de Mercados (SIM); estos datos abundan en medios como las redes sociales y los consumidores los entregan de forma libre y voluntaria; además, son muy eficaces para el desarrollo de estrategias puntuales de #[em marketing.]
 
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-12.col-md-12.col-12
@@ -452,16 +452,16 @@
             .col-lg-2
               img.img-a.img-t.d-none.d-lg-block(src="@/assets/curso/tema1/img1.svg")
             .col-lg-10.col-md-12.col-12
-              h4.mb-0.text-white #[b El CRM evolucionó con la llegada de las redes sociales y hoy por hoy se conoce como #[em “Social CRM”,] mejorando el sistema de interacción entre la marca y el cliente, convirtiendo la comunicación de doble vía y no únicamente desde la marca hacia el consumidor. ]
+              h4.mb-0.text-white #[b El #[em CRM] evolucionó con la llegada de las redes sociales y hoy por hoy se conoce como #[em “Social CRM”,] mejorando el sistema de interacción entre la marca y el cliente, convirtiendo la comunicación de doble vía y no únicamente desde la marca hacia el consumidor. ]
     
-    p.mb-5 De esta forma la comunicación que se realiza a través del #[em Social CRM] es mucho más integral, pues el consumidor es alcanzado por un correo electrónico que se le ha dejado cuando hizo su suscripción en el sitio #[em web] de la empresa, generándole impactos que se #[em postean] en las redes sociales que ha seguido gracias a una campaña de activación, la cual se hace periódicamente para captar nuevos clientes. De la misma forma recibe un mensaje de texto en su celular y mensajes de #[em WhatsApp,] todo esto en un periodo de tres semanas en las que la marca ha estado interactuando con el consumidor, creando posicionamiento y recordación.
+    p.mb-5 De esta forma la comunicación que se realiza a través del #[em Social CRM] es mucho más integral, pues el consumidor es alcanzado por un correo electrónico que se le ha dejado cuando hizo su suscripción en el sitio #[em web] de la empresa, generándole impactos que se #[em postean] en las redes sociales que ha seguido gracias a una campaña de activación, la cual se hace periódicamente para captar nuevos clientes. De la misma forma recibe un mensaje de texto en su celular y mensajes de WhatsApp, todo esto en un periodo de tres semanas en las que la marca ha estado interactuando con el consumidor, creando posicionamiento y recordación.
     
     .mb-5.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
-        h4.col.px-4.mb-0.mx-5.neg Enfoque del Social CRM
+        h4.col.px-4.mb-0.mx-5.neg Enfoque del Social #[em CRM]
         img.clase4.d-none.d-lg-block(src='@/assets/curso/tema2/img27.svg')
     
-    p.mb-5 En el enfoque del Social CRM existen cuatro elementos básicos para tener en cuenta:
+    p.mb-5 En el enfoque del Social #[em CRM] existen cuatro elementos básicos para tener en cuenta:
 
     TabsC.color-primario.mb-5
       .py-3.py-md-4.bg26.px-3(titulo="1. Inteligencia de clientes")
@@ -499,7 +499,7 @@
 
     Separador
     #t_2_5.titulo-segundo.mb-5
-      h2 2.5 Plataformas de gestión de marketing digital
+      h2 2.5 Plataformas de gestión de #[em marketing] digital
 
     p.mb-5 A continuación, se indican dichas plataformas:
 
@@ -512,7 +512,7 @@
           .col-lg-8
             .cajam
               h2.text-center.text-white #[em Blogger]
-        p.text-center Es una plataforma para la creación de blogs, pertenece a la empresa Google y tiene total interacción con todas sus herramientas. Es ideal para mostrar información periódica acerca de un tema específico integrado con redes sociales y otros medios.
+        p.text-center Es una plataforma para la creación de #[em blogs,] pertenece a la empresa Google y tiene total interacción con todas sus herramientas. Es ideal para mostrar información periódica acerca de un tema específico integrado con redes sociales y otros medios.
       .tarjeta.color-acento-botones.p-4
         .row.justify-content-center.mb-3
           .col-8
@@ -530,7 +530,7 @@
           .col-lg-8
             .cajam
               h2.text-center.text-white #[em Zoho]
-        p.text-center Es una suite de servicios empresariales que permite el desarrollo de diferentes tareas relacionadas con el #[em marketing] digital, CRM, gestión de correo electrónico, entre otras.
+        p.text-center Es una suite de servicios empresariales que permite el desarrollo de diferentes tareas relacionadas con el #[em marketing] digital, #[em CRM], gestión de correo electrónico, entre otras.
       .tarjeta.color-acento-botones.p-4
         .row.justify-content-center.mb-3
           .col-8
@@ -539,7 +539,7 @@
           .col-lg-10
             .cajam
               h2.text-center.text-white #[em Traity]
-        p.text-center Es una plataforma que permite la verificación del perfil personal de compradores y vendedores con el fin de generar una reputación online de personas y empresas para generar confianza en los intercambios comerciales.
+        p.text-center Es una plataforma que permite la verificación del perfil personal de compradores y vendedores con el fin de generar una reputación #[em online] de personas y empresas para generar confianza en los intercambios comerciales.
       .tarjeta.color-acento-botones.p-4
         .row.justify-content-center.mb-3
           .col-8
@@ -584,7 +584,7 @@
           .col-lg-9
             .cajam
               h2.text-center.text-white #[em Saleforce]
-        p.text-center Es una suite que provee soluciones CRM por suscripción. En ella se puede crear aplicaciones, tener contacto con toda la organización, contactar clientes y realizar estrategias de venta, todo en línea.
+        p.text-center Es una suite que provee soluciones #[em CRM] por suscripción. En ella se puede crear aplicaciones, tener contacto con toda la organización, contactar clientes y realizar estrategias de venta, todo en línea.
       .tarjeta.color-acento-botones.p-4
         .row.justify-content-center.mb-3
           .col-8
@@ -598,22 +598,22 @@
 
     Separador
     #t_2_6.titulo-segundo.mb-4
-      h2 2.6 SEO en el marketing digital          
+      h2 2.6 #[em SEO] en el #[em marketing] digital          
   
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-4.col-md-9.col-9
         img.img-a.img-t.mb-4(src='@/assets/curso/tema2/img24.png', alt='Texto que describa la imagen')
       .col-lg-8.col-md-12.col-12
         .cajon.color-secundario.p-4.mb-4.my-4
-          p.mb-0 #[b Inicialmente el SEO (del inglés #[em Search Engine Optimization]) se enmarca en las estrategias del #[em marketing] relacional y el colaborativo, que tienden a primar el buscador como canal de publicidad para públicos muy segmentados (aquellos que utilicen cierta búsqueda concreta) y, finalmente, el ideal de una estrategia de SEO implica crear una red propia de usuarios fidelizados que hablen bien y proactivamente de la marca.]
-        p.mb-0 Por eso es importante primero pensar qué tipo de estrategia global se va a llevar a cabo, y en función de esta, pensar en él y no antes. Así, en la relación entre #[em marketing] y SEO se debe tener en cuenta: #[em marketing] no es SEO y SEO no es #[em marketing;] el #[em marketing] es un concepto más amplio que el SEO. Primero se debe estudiar la estrategia de #[em marketing] y su continuación. La unión de #[em marketing] + SEO debe llevar a visitas que lleven a acciones y posiblemente esas acciones lleven a ventas o conversiones. Serrano (2015).
+          p.mb-0 #[b Inicialmente el #[em SEO] (del inglés #[em Search Engine Optimization]) se enmarca en las estrategias del #[em marketing] relacional y el colaborativo, que tienden a primar el buscador como canal de publicidad para públicos muy segmentados (aquellos que utilicen cierta búsqueda concreta) y, finalmente, el ideal de una estrategia de #[em SEO] implica crear una red propia de usuarios fidelizados que hablen bien y proactivamente de la marca.]
+        p.mb-0 Por eso es importante primero pensar qué tipo de estrategia global se va a llevar a cabo, y en función de esta, pensar en él y no antes. Así, en la relación entre #[em marketing] y #[em SEO] se debe tener en cuenta: #[em marketing] no es #[em SEO] y #[em SEO] no es #[em marketing;] el #[em marketing] es un concepto más amplio que el #[em SEO]. Primero se debe estudiar la estrategia de #[em marketing] y su continuación. La unión de #[em marketing] + #[em SEO] debe llevar a visitas que lleven a acciones y posiblemente esas acciones lleven a ventas o conversiones. Serrano (2015).
 
     .mb-5.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
-        h4.col.px-4.mb-0.mx-5.neg SEM
+        h4.col.px-4.mb-0.mx-5.neg #[em SEM]
         img.clase4.d-none.d-lg-block(src='@/assets/curso/tema2/img42.svg')
     
-    p.mb-5 En el enfoque del Social CRM existen cuatro elementos básicos para tener en cuenta:
+    p.mb-5 En el enfoque del Social #[em CRM] existen cuatro elementos básicos para tener en cuenta:
 
     .row.align-items-center.justify-content-center.mb-4
       .col-lg-10.col-md-12.col-12
@@ -622,24 +622,24 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema2/img43.png')})`}"
           )
           .bloque-texto-g__texto.p-5
-            p.mb-0 El SEM (del inglés #[em Search Engine Marketing]) a diferencia de SEO, utiliza herramientas que los buscadores ofrecen para el desarrollo de estrategias de posicionamiento a través de anuncios publicitarios pagos, como es el caso de #[em Google Adwords;] esto requiere la selección de palabras claves, creación de anuncios y gestión de pauta. Se pueden realizar a través de PPC (Pago Por Clic) y PCP (Costo Por Clic).
+            p.mb-0 El #[em SEM] (del inglés #[em Search Engine Marketing]) a diferencia de #[em SEO,] utiliza herramientas que los buscadores ofrecen para el desarrollo de estrategias de posicionamiento a través de anuncios publicitarios pagos, como es el caso de Google Adwords; esto requiere la selección de palabras claves, creación de anuncios y gestión de pauta. Se pueden realizar a través de PPC (Pago Por Clic) y PCP (Costo Por Clic).
 
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-4.col-md-12.col-12
-        p.mb-4.my-4 #[b El SEM tiene varias ventajas que se verán a continuación:]
+        p.mb-4.my-4 #[b El #[em SEM] tiene varias ventajas que se verán a continuación:]
         ul.lista-ul--color
           li.d-flex.mb-0
             i.fas.fa-plus.mas
-            p Permite que un producto o servicio sea reconocido rápidamente
+            p Permite que un producto o servicio sea reconocido rápidamente.
           li.d-flex.mb-0
             i.fas.fa-plus.mas
-            p Permite competir con empresas grandes y con alto posicionamiento en el mercado
+            p Permite competir con empresas grandes y con alto posicionamiento en el mercado.
           li.d-flex.mb-0
             i.fas.fa-plus.mas
-            p El ROI es más rápido
+            p El ROI es más rápido.
           li.d-flex.mb-0
             i.fas.fa-plus.mas
-            p Permite llegar a mercados muy específicos porque permite un alto nivel de segmentación
+            p Permite llegar a mercados muy específicos porque permite un alto nivel de segmentación.
       .col-lg-4.col-md-12.col-12
         img.img-a.img-t(src='@/assets/curso/tema2/img44.png' alt='AvatarTop')
     
@@ -651,30 +651,30 @@
         ul.lista-ul--color
           li.d-flex.mb-0
             i.fas.fa-plus.mas
-            p La compra de palabras clave para el desarrollo de la publicidad suele ser costosa
+            p La compra de palabras clave para el desarrollo de la publicidad suele ser costosa.
           li.d-flex.mb-0
             i.fas.fa-plus.mas
-            p Es un tipo de comunicación invasiva que el mercado no ha buscado y por lo tanto puede generar rechazo
+            p Es un tipo de comunicación invasiva que el mercado no ha buscado y por lo tanto puede generar rechazo.
           li.d-flex.mb-0
             i.fas.fa-plus.mas
-            p Requiere compromiso en el desarrollo de la gestión y optimización
+            p Requiere compromiso en el desarrollo de la gestión y optimización.
     
 
     Separador
     #t_2_7.titulo-segundo.mb-5
-      h2 2.7 Promoción en la web
+      h2 2.7 Promoción en la #[em web]
     
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-4.col-md-9.col-9
         img.img-a.img-t.mb-4(src='@/assets/curso/tema2/img46.png', alt='Texto que describa la imagen')
       .col-lg-8.col-md-12.col-12
-        p.mb-4.my-4 En la web hay múltiples opciones de hacer promoción para las empresas y marcas, desde alternativas gratuitas que implican un proceso más orgánico y lento para el logro de posicionamiento de marca, incremento en ventas y reconocimiento por parte del mercado meta; hasta el pago de pauta en sitios web incluidos en la red #[em Display] de Google a través de su plataforma de pago #[em Adwords,] la cual incluye anuncios en YouTube.
+        p.mb-4.my-4 En la #[em web] hay múltiples opciones de hacer promoción para las empresas y marcas, desde alternativas gratuitas que implican un proceso más orgánico y lento para el logro de posicionamiento de marca, incremento en ventas y reconocimiento por parte del mercado meta; hasta el pago de pauta en sitios #[em web] incluidos en la red #[em Display] de Google a través de su plataforma de pago Adwords, la cual incluye anuncios en #[em YouTube.]
         .cajon.color-secundario.p-4.mb-4
           p.mb-0 #[b También en Facebook, la red social más grande del mundo con más de 2400 millones de cuentas inscritas y que permite una serie de modelos de publicidad pagada, que va desde publicaciones que llegan a segmentos específicos hasta campañas muy bien estructuradas que incluyen una completa planificación por temporadas establecidas.]
         
     .mb-5.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
-        h4.col.px-4.mb-0.mx-5.neg #[em Google Adwords]
+        h4.col.px-4.mb-0.mx-5.neg Google Adwords
         img.clase4.d-none.d-lg-block(src='@/assets/curso/tema2/img47.svg')
     
     .row.align-items-center.justify-content-center.mb-4
@@ -700,22 +700,22 @@
             ul.lista-ul--color
               li.d-flex.mb-0
                 i.fas.fa-plus.mas
-                p #[b Anuncios de texto:] en el buscador por lo general están diferenciados en color y están ubicados dentro de la página principal de Google al hacer una búsqueda
+                p #[b Anuncios de texto:] en el buscador por lo general están diferenciados en color y están ubicados dentro de la página principal de Google al hacer una búsqueda.
               li.d-flex.mb-0
                 i.fas.fa-plus.mas
-                p #[b Anuncios en la red Display:] #[em banners,] imágenes y videos en sitios web de alto tráfico y de acuerdo con las búsquedas realizadas por los usuarios
+                p #[b Anuncios en la red Display:] #[em banners,] imágenes y videos en sitios #[em web] de alto tráfico y de acuerdo con las búsquedas realizadas por los usuarios.
               li.d-flex.mb-0
                 i.fas.fa-plus.mas
-                p #[b Remarketing:] a través de la red #[em Display,] utilizando búsquedas realizadas por usuarios y ubicándolas en sitios web que se vieron posteriormente y hagan parte de la red #[em Display]
+                p #[b #[em Remarketing:]] a través de la red #[em Display,] utilizando búsquedas realizadas por usuarios y ubicándolas en sitios #[em web] que se vieron posteriormente y hagan parte de la red #[em Display].
               li.d-flex.mb-0
                 i.fas.fa-plus.mas
-                p #[b En YouTube:] con #[em banners] y videos al inicio o en el intermedio de publicaciones con altos niveles de reproducción
+                p #[b En YouTube:] con #[em banners] y videos al inicio o en el intermedio de publicaciones con altos niveles de reproducción.
               li.d-flex.mb-0
                 i.fas.fa-plus.mas
-                p #[b Shopping:] se basa en mostrar anuncios más completos sobre productos concretos con precio y características detalladas de los mismos
+                p #[b #[em Shopping:]] se basa en mostrar anuncios más completos sobre productos concretos con precio y características detalladas de los mismos.
               li.d-flex.mb-0
                 i.fas.fa-plus.mas
-                p #[b Gmail:] #[em banners] en la bandeja de entrada de Gmail con el mismo diseño y formato de los correos recibidos
+                p #[b Gmail:] #[em banners] en la bandeja de entrada de Gmail con el mismo diseño y formato de los correos recibidos.
           .col-md.tarjeta.color-acento-contenido.p-4
             figure
               img(src='@/assets/curso/tema2/img49.png', alt='tema2')
@@ -734,7 +734,7 @@
           .bloque-texto-g__texto.p-5
             p.mb-0 Es la plataforma de promoción con la que cuenta Facebook para el desarrollo de estrategias de #[em marketing] en esta red social, haciendo uso de todo su sistema de audiencia, tal vez el más grande a nivel mundial. En Facebook se pueden realizar estrategias de promoción de forma rápida, económica y efectiva, gracias a las múltiples posibilidades que presenta para quienes buscan realizar promoción de productos o servicios.
 
-    p.mb-5.text-center Ventajas de realizar promoción en Facebook Ads:
+    p.mb-5.text-center Ventajas de realizar promoción en Facebook #[em Ads:]
 
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-11.col-md-12.col-12
@@ -774,7 +774,7 @@
             p #[b Promoción de publicaciones:] permite promocionar una publicación que se haya realizado en un perfil, #[em fanpage] o cuenta de Instagram (que también es propiedad de Facebook).
           li.d-flex.mb-0
             i.fas.fa-plus.mas
-            p #[b Promocionar una página:] es una estrategia que permite hacer promoción de un sitio web.
+            p #[b Promocionar una página:] es una estrategia que permite hacer promoción de un sitio #[em web.]
           li.d-flex.mb-0
             i.fas.fa-plus.mas
             p #[b Llegar a personas que estén cerca:] a través de geolocalización se realiza una estrategia de #[em marketing] de proximidad que llega a persona que estén cerca del negocio en un rango y momento específicos.
@@ -783,10 +783,10 @@
             p #[b Reconocimiento de marca:] a través de un anuncio se llega a un público específico con la posibilidad de prestar más atención.
           li.d-flex.mb-0
             i.fas.fa-plus.mas
-            p #[b Atraer público a un sitio web:] campaña enfocada en el aumento de tráfico en un sitio web.
+            p #[b Atraer público a un sitio #[em web:]] campaña enfocada en el aumento de tráfico en un sitio #[em web.]
           li.d-flex.mb-0
             i.fas.fa-plus.mas
-            p #[b Aumento de descarga de App:] campaña enfocada en la descarga e instalación de una App en particular.
+            p #[b Aumento de descarga de #[em App:]] campaña enfocada en la descarga e instalación de una #[em App] en particular.
           li.d-flex.mb-0
             i.fas.fa-plus.mas
             p #[b Aumento de asistentes a un evento:] campaña para promocionar un evento específico y aumentar el número de participantes al mismo.
@@ -803,13 +803,13 @@
             p #[b Aumento de reproducción de un video:] campaña orientada a aumentar las visualizaciones de un video.
           li.d-flex.mb-0
             i.fas.fa-plus.mas
-            p #[b Aumento de las conversiones de un sitio web:] es una campaña que busca generar conversiones #[em (leads)] de un negocio en particular, por lo general una tienda virtual.
+            p #[b Aumento de las conversiones de un sitio #[em web:]] es una campaña que busca generar conversiones #[em (leads)] de un negocio en particular, por lo general una tienda virtual.
           li.d-flex.mb-0
             i.fas.fa-plus.mas
-            p #[b Generación de clientes potenciales para un negocio:] promoción de un sitio web o tienda virtual de un negocio para atraer clientes potenciales.
+            p #[b Generación de clientes potenciales para un negocio:] promoción de un sitio #[em web] o tienda virtual de un negocio para atraer clientes potenciales.
           li.d-flex.mb-0
             i.fas.fa-plus.mas
-            p #[b Aumento de uso de App:] estrategia para aumentar la interacción del público con una app específica.
+            p #[b Aumento de uso de #[em App:]] estrategia para aumentar la interacción del público con una app específica.
           li.d-flex.mb-0
             i.fas.fa-plus.mas
             p #[b Solicitud de oferta:] campaña para dar a conocer una oferta en particular.
@@ -832,7 +832,7 @@
 
     Separador
     #t_2_8.titulo-segundo.mb-5
-      h2 2.8 Inbound marketing
+      h2 2.8 #[em Inbound marketing]
     
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-4.col-md-9.col-9
@@ -840,7 +840,7 @@
       .col-lg-8.col-md-12.col-12
         .cajon.color-secundario.p-4.mb-4
           p.mb-0 #[b Es tal vez la metodología que presenta mayor eficacia en el desarrollo de una estrategia de #[em marketing,] la cual tenga como finalidad la atracción del mercado potencial para hacerlo adepto a una marca por su propia convicción e iniciativa. ]
-        p.mb-0 El inbound #[em marketing] crea experiencias significativas que generan valor para el mercado objetivo de la empresa, esto se realiza con el desarrollo de contenido útil y relevante para los usuarios de un sitio web, al mismo tiempo que se interactúa con ellos a través de medios más personales y con la posibilidad de generar un nivel de conversación más personal, como el correo electrónico, los mensajes de texto y los chats. No tiene un enfoque promocional o publicitario, por el contrario, el contenido generado representa mayor utilidad y relevancia, lo que hace que el mercado potencial se acerque a la marca de forma orgánica. Un ejemplo de ello es el modelo aplicado en escuelas de inglés o institutos donde se dictan estos tipos de cursos, enfatizándose siempre en una conversación más cercana.
+        p.mb-0 El inbound #[em marketing] crea experiencias significativas que generan valor para el mercado objetivo de la empresa, esto se realiza con el desarrollo de contenido útil y relevante para los usuarios de un sitio #[em web], al mismo tiempo que se interactúa con ellos a través de medios más personales y con la posibilidad de generar un nivel de conversación más personal, como el correo electrónico, los mensajes de texto y los chats. No tiene un enfoque promocional o publicitario, por el contrario, el contenido generado representa mayor utilidad y relevancia, lo que hace que el mercado potencial se acerque a la marca de forma orgánica. Un ejemplo de ello es el modelo aplicado en escuelas de inglés o institutos donde se dictan estos tipos de cursos, enfatizándose siempre en una conversación más cercana.
 
     p.mb-5 El #[em inbound marketing] se enfoca en tres momentos específicos: atraer, conversar, seducir:
 
@@ -863,11 +863,11 @@
           figure
             img.img-a.img-t(src='@/assets/curso/tema2/img57.svg', alt='Texto que describa la imagen')
         .col-md-10.mb-4.mb-md-0
-          p.mb-4 En este momento ya se ha identificado un grupo de prospectos que permite ir un paso adelante en el proceso de venta, también se han diferenciado los medios por los que dichos prospectos prefieren entablar una determinada conversación: correo electrónico, chat, sitio web o redes sociales; con estos datos ya se puede acceder a información más personal de estos usuarios a través de un método de conversión como un formulario de suscripción. Posteriormente, esta información se utiliza para realizar estrategias de #[em marketing] relacional con herramientas CRM que generen experiencias personalizadas, a la medida de cada miembro del mercado objetivo. En este punto es necesario hacer una diferenciación de los usuarios e identificar cuáles de ellos son los más adeptos y cercanos a la marca para comenzar todo un programa que permita cautivarlos y llevarlos al siguiente nivel, donde por medio de estrategias de interacción se hacen ofertas concretas de los productos o servicios que la empresa ofrece. En este punto se puede hacer uso de las siguientes herramientas:
+          p.mb-4 En este momento ya se ha identificado un grupo de prospectos que permite ir un paso adelante en el proceso de venta, también se han diferenciado los medios por los que dichos prospectos prefieren entablar una determinada conversación: correo electrónico, #[em chat], sitio #[em web] o redes sociales; con estos datos ya se puede acceder a información más personal de estos usuarios a través de un método de conversión como un formulario de suscripción. Posteriormente, esta información se utiliza para realizar estrategias de #[em marketing] relacional con herramientas #[em CRM] que generen experiencias personalizadas, a la medida de cada miembro del mercado objetivo. En este punto es necesario hacer una diferenciación de los usuarios e identificar cuáles de ellos son los más adeptos y cercanos a la marca para comenzar todo un programa que permita cautivarlos y llevarlos al siguiente nivel, donde por medio de estrategias de interacción se hacen ofertas concretas de los productos o servicios que la empresa ofrece. En este punto se puede hacer uso de las siguientes herramientas:
           ul.lista-ul--color
             li.d-flex.mb-0
               i.fas.fa-plus.mas
-              p CRM
+              p #[em CRM]
             li.d-flex.mb-0
               i.fas.fa-plus.mas
               p Sistema de información de mercados
@@ -888,7 +888,7 @@
           figure
             img.img-a.img-t(src='@/assets/curso/tema2/img58.svg', alt='Texto que describa la imagen')
         .col-md-10.mb-4.mb-md-0
-          p.mb-4 Es el momento de realizar un mayor número de conversaciones e interacciones, pero en este punto con clientes reales identificados plenamente. La conversación incluye también a la fuerza de ventas y todo aquel que esté involucrado con la prestación de servicio. La creación de contenidos interesantes y relevantes debe continuar, esta vez con información más puntual y útil para el mercado específico. El proceso de venta en esta fase del proceso inbound ya es un hecho, para ello debe haber un protocolo de cotización y atención al cliente muy bien estructurado. Por último, es necesario pedir retroalimentación permanente al cliente con el fin de conocer el nivel de satisfacción que este tiene frente al producto, servicio y la atención recibida. En la fase de seducción se pueden utilizar las siguientes herramientas:
+          p.mb-4 Es el momento de realizar un mayor número de conversaciones e interacciones, pero en este punto con clientes reales identificados plenamente. La conversación incluye también a la fuerza de ventas y todo aquel que esté involucrado con la prestación de servicio. La creación de contenidos interesantes y relevantes debe continuar, esta vez con información más puntual y útil para el mercado específico. El proceso de venta en esta fase del proceso #[em inbound] ya es un hecho, para ello debe haber un protocolo de cotización y atención al cliente muy bien estructurado. Por último, es necesario pedir retroalimentación permanente al cliente con el fin de conocer el nivel de satisfacción que este tiene frente al producto, servicio y la atención recibida. En la fase de seducción se pueden utilizar las siguientes herramientas:
           ul.lista-ul--color
             li.d-flex.mb-0
               i.fas.fa-plus.mas
@@ -909,20 +909,20 @@
 
     Separador
     #t_2_9.titulo-segundo.mb-5
-      h2 2.9 Plan de marketing digital.
+      h2 2.9 Plan de #[em marketing] digital.
 
     .row.align-items-center.justify-content-center.mb-4
       .col-lg-4.col-md-12.col-12
         img.img-a.img-t(src='@/assets/curso/tema2/img59.png', alt='tema2')
       .col-lg-6.col-md-12.col-12
-        p.mb-0 Ya se cuentan con todos los elementos y herramientas necesarios para el desarrollo de un plan de #[em marketing] digital eficiente y coherente con las necesidades de la empresa y las características del mercado y como se ha dicho anteriormente, la diferencia entre el #[em marketing] convencional y el marketing digital, radica en los canales de interacción entre la marca y el cliente o consumidor para el desarrollo de las estrategias de comercialización, entrega de productos y comunicación, variables que se han analizado en el presente componente formativo. Por lo tanto, el desarrollo del plan de #[em marketing] digital presenta la estructura ya estudiada: 
+        p.mb-0 Ya se cuentan con todos los elementos y herramientas necesarios para el desarrollo de un plan de #[em marketing] digital eficiente y coherente con las necesidades de la empresa y las características del mercado y como se ha dicho anteriormente, la diferencia entre el #[em marketing] convencional y el #[em marketing] digital, radica en los canales de interacción entre la marca y el cliente o consumidor para el desarrollo de las estrategias de comercialización, entrega de productos y comunicación, variables que se han analizado en el presente componente formativo. Por lo tanto, el desarrollo del plan de #[em marketing] digital presenta la estructura ya estudiada: 
         
     .row.align-items-center.justify-content-center.mb-4
       .col-md-10.mb-4.mb-md-0
         ul.lista-ul--color
           li.d-flex.mb-0
             i.fas.fa-plus.mas
-            p Brief táctico
+            p #[em Brief] táctico
           li.d-flex.mb-0
             i.fas.fa-plus.mas
             p Objetivo de mercadeo
@@ -931,10 +931,10 @@
             p Mercado objetivo
           li.d-flex.mb-0
             i.fas.fa-plus.mas
-            p Plan de medios digital < seleccionar por lo menos 1 medio offline como apoyo a las estrategias online > .
+            p Plan de medios digital < seleccionar por lo menos 1 medio #[em offline] como apoyo a las estrategias #[em online] > .
           li.d-flex.mb-0
             i.fas.fa-plus.mas
-            p Estrategias de comercialización y promoción online:
+            p Estrategias de comercialización y promoción #[em online]:
     
     
     .row.justify-content-center.mb-5
@@ -957,14 +957,14 @@
         .tarjeta-avatar
           img.img-a.img-t.img-w2(src='@/assets/curso/tema2/img63.svg',alt='tema2')
           div.bg15.p-4.pt-5.h-100
-            p.mb-0.my-5.text-center #[b Plan de medios digital < seleccionar por lo menos 1 medio offline como apoyo a las estrategias online >.] 
+            p.mb-0.my-5.text-center #[b Plan de medios digital < seleccionar por lo menos 1 medio #[em offline] como apoyo a las estrategias #[em online] >.] 
 
     .row.justify-content-center.mb-0
       .col-lg-6.col-md-4.col-sm-4.my-3.mb-5
         .tarjeta-avatar
           img.img-a.img-t.img-w2.mb-5(src='@/assets/curso/tema2/img64.svg',alt='tema2')
           div.bg15.p-4.h-100.p-5
-            p.mb-4.my-5.text-center #[b Estrategias de comercialización y promoción online] 
+            p.mb-4.my-5.text-center #[b Estrategias de comercialización y promoción #[em online]] 
             ul.lista-ul--color
               li.d-flex.mb-0
                 i.fas.fa-plus.mas
@@ -1011,7 +1011,7 @@
                 p Costo del impacto
               li.d-flex.mb-0
                 i.fas.fa-plus.mas
-                p Cálculo de CPM
+                p Cálculo de #[em CPM]
   
 </template>
 

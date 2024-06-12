@@ -6,10 +6,10 @@
     .titulo-principal.color-secundario
       .titulo-principal__numero
         span 1
-      h1 Marketing
+      h1 #[em Marketing]
 
     #t_1_1.titulo-segundo.mb-5
-      h2 1.1 ¿Qué es el marketing?
+      h2 1.1 ¿Qué es el #[em marketing]?
     
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-10.col-md-12.col-12
@@ -29,7 +29,7 @@
                 SlyderA(tipo="b").p-4
                   .row.justify-content-center.align-items-center
                     .col-md-6.mb-4.mb-md-0
-                      p Para la AMA #[em (American Marketing Asociation)] el #[em marketing] es una forma de organizar un conjunto de acciones y procesos a la hora de crear un producto “para crear, comunicar y entregar valor a los clientes y para manejar las relaciones” y su finalidad es beneficiar a la organización satisfaciendo a los clientes.
+                      p Para la #[em AMA (American Marketing Asociation)] el #[em marketing] es una forma de organizar un conjunto de acciones y procesos a la hora de crear un producto “para crear, comunicar y entregar valor a los clientes y para manejar las relaciones” y su finalidad es beneficiar a la organización satisfaciendo a los clientes.
                     .col-md-6
                       figure
                         img.img-a.img-t(src='@/assets/curso/tema1/img2.svg', alt='Texto que describa la imagen')
@@ -50,7 +50,7 @@
       .col-lg-12.col-md-12.col-12
         .tarjeta--container.row
           .col-md.tarjeta.color-primario.p-5
-            p Todas ellas tienen en común el enfoque en la producción y comercialización de bienes y servicios; sin embargo, el #[em marketing] va más allá de eso. En la definición de Kotler se puede observar como hace énfasis en lo social, aludiendo claramente que el mercadeo tiene un enfoque en el ser; es decir, en el consumidor. La AMA por su parte enfatiza en la propuesta de valor, elemento fundamental en el proceso de mercadeo, aunque el aspecto más importante a resaltar es la “satisfacción de necesidades”. Se podría decir entonces que el #[em marketing,] mercadeo o mercadotecnia es un conjunto de actividades que se encargan del estudio de un mercado, con el fin de identificar necesidades, gustos o deseos para satisfacerlos a través de bienes o servicios que den al cliente beneficios que obtienen utilidades para la empresa.
+            p Todas ellas tienen en común el enfoque en la producción y comercialización de bienes y servicios; sin embargo, el #[em marketing] va más allá de eso. En la definición de Kotler se puede entender como hace énfasis en lo social, aludiendo claramente que el mercadeo tiene un enfoque en el ser; es decir, en el consumidor. La #[em AMA] por su parte enfatiza en la propuesta de valor, elemento fundamental en el proceso de mercadeo, aunque el aspecto más importante a resaltar es la “satisfacción de necesidades”. Se podría decir entonces que el #[em marketing,] mercadeo o mercadotecnia es un conjunto de actividades que se encargan del estudio de un mercado, con el fin de identificar necesidades, gustos o deseos para satisfacerlos a través de bienes o servicios que den al cliente beneficios que obtienen utilidades para la empresa.
           .col-md.tarjeta.color-acento-contenido
             .row.justify-content-center
               .col-12
@@ -68,7 +68,7 @@
 
     Separador
     #t_1_2.titulo-segundo.mb-5
-      h2 1.2 Variables del marketing
+      h2 1.2 Variables del #[em marketing]
 
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-10.col-md-12.col-12
@@ -147,7 +147,7 @@
       .col-lg-10.col-md-12.col-12
         .mb-4.d-flex
           .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
-            h5.col.px-4.mb-0.mx-5.neg Marketing mix
+            h5.col.px-4.mb-0.mx-5.neg #[em Marketing mix]
             img.clase3.d-none.d-lg-block(src='@/assets/curso/tema1/img17.svg')
 
     .row.align-items-center.justify-content-center.mb-5
@@ -156,7 +156,7 @@
           .col-lg-7.col-md-12.col-12
             p.mb-4 La mezcla de mercadeo o #[em marketing mix,] conformado por las 4P’s del mercado: producto, precio, plaza y promoción, es un conjunto de elementos que se conjugan entre sí para el desarrollo de estrategias de comercialización y promoción que permitan llegar al mercado objetivo con el producto o servicio y con la información de este para satisfacer sus necesidades y deseos por encima de empresas o marcas de la competencia.
             .cajon.color-acento-contenido.p-4.mb-4
-              p.mb-0 #[b Según #[em Kotler y Armstrong] citados por #[em Thompson] (2005), la mezcla de mercadeo “es todo lo que la empresa es capaz de hacer para influir en la demanda de su producto”. En esta mezcla se pueden encontrar cuatro variables principales, cada una de ellas con una serie de subvariables que se deben tener en cuenta para el desarrollo del plan de mercadeo y el diseño de las estrategias.]
+              p.mb-0 #[b Según Kotler y Armstrong citados por Thompson (2005), la mezcla de mercadeo “es todo lo que la empresa es capaz de hacer para influir en la demanda de su producto”. En esta mezcla se pueden encontrar cuatro variables principales, cada una de ellas con una serie de subvariables que se deben tener en cuenta para el desarrollo del plan de mercadeo y el diseño de las estrategias.]
           .col-lg-5.col-md-9.col-9
             img.mb-5(src='@/assets/curso/tema1/img18.svg', alt='tema1')
     
@@ -289,7 +289,7 @@
 
     Separador
     #t_1_3.titulo-segundo.mb-5
-      h2 1.3 Proceso del marketing
+      h2 1.3 Proceso del #[em marketing]
 
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-10.col-md-12.col-12
@@ -298,7 +298,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema1/img24.png')})`}"
           )
           .bloque-texto-g__texto.p-5
-            p.mb-0 El marketing tiene un proceso definido que permite a las empresas el desarrollo de estrategias oportunas para la satisfacción de las necesidades de los consumidores. Este proceso debería ser invariable toda vez que seguirlo permite llegar a resultados más contundentes, se disminuye el riesgo o se hacen ajustes más oportunos.
+            p.mb-0 El #[em marketing] tiene un proceso definido que permite a las empresas el desarrollo de estrategias oportunas para la satisfacción de las necesidades de los consumidores. Este proceso debería ser invariable toda vez que seguirlo permite llegar a resultados más contundentes, se disminuye el riesgo o se hacen ajustes más oportunos.
     
     p.mb-5.text-center A continuación, se indican los pasos a seguir en el proceso de mercadeo:
     
@@ -326,7 +326,7 @@
           ul.lista-ul--color
             li.d-flex
               i.fas.fa-plus.mas
-              p #[b Mercado objetivo:] la empresa debe conocer con todo detalle los clientes potenciales y reales de su producto o servicio, con el fin de tener bases sólidas en el desarrollo de las estrategias de marketing y promoción; cuando se conoce al consumidor en detalle, el nivel de acierto en el diseño de productos, selección de canales de distribución, asignación del precio y diseño de mensajes publicitarios y promociones, es muy alto.
+              p #[b Mercado objetivo:] la empresa debe conocer con todo detalle los clientes potenciales y reales de su producto o servicio, con el fin de tener bases sólidas en el desarrollo de las estrategias de #[em marketing] y promoción; cuando se conoce al consumidor en detalle, el nivel de acierto en el diseño de productos, selección de canales de distribución, asignación del precio y diseño de mensajes publicitarios y promociones, es muy alto.
             li.d-flex
               i.fas.fa-plus.mas
               p #[b Investigación y desarrollo:] el desarrollo de un producto implica un proceso muy arduo de investigación, es necesario que el empresario conozca los procesos de producción, las materias primas más adecuadas, el diseño del producto, el concepto del mismo, entre otras cosas.
@@ -336,13 +336,13 @@
         ul.lista-ul--color
           li.d-flex
             i.fas.fa-plus.mas
-            p #[b Benchmarking:] la competencia siempre existe, ya sea de forma directa o indirecta, es por eso un paso muy importante el análisis de los productos o servicios que existen en el mercado y que son iguales a los de la empresa o satisfacen la misma necesidad, esta información puede generar datos muy importantes en cuanto diseño de productos, desarrollo de estrategias de precio, distribución y promoción. Se puede decir que es posible hacer un análisis del recorrido que han realizado los competidores para hacer posibles correcciones o realizar estrategias similares.
+            p #[b #[em Benchmarking:]] la competencia siempre existe, ya sea de forma directa o indirecta, es por eso un paso muy importante el análisis de los productos o servicios que existen en el mercado y que son iguales a los de la empresa o satisfacen la misma necesidad, esta información puede generar datos muy importantes en cuanto diseño de productos, desarrollo de estrategias de precio, distribución y promoción. Se puede decir que es posible hacer un análisis del recorrido que han realizado los competidores para hacer posibles correcciones o realizar estrategias similares.
           li.d-flex
             i.fas.fa-plus.mas
             p #[b Entorno:] el mercado es muy amplio desde el punto de vista de las variables, es por ello que uno de los procesos a investigar es el entorno que rodea la empresa; allí se pueden conocer datos muy relevantes de la industria, la normatividad que aplica para el producto o servicio que se está desarrollando, los posibles obstáculos o ventajas que este puede tener.
       .row(titulo="Plan de <em>marketing</em>")
         .col-md-6.mb-4.mb-md-0
-          p.mb-4 Una vez se ha realizado la investigación, la empresa ya está lista para el desarrollo del plan de marketing, en este punto es necesario aplicar el #[em marketing mix;] es decir, hacer la combinación de variables controlables con el fin de llevar el producto o servicio de la forma más adecuada y oportuna al mercado objetivo.
+          p.mb-4 Una vez se ha realizado la investigación, la empresa ya está lista para el desarrollo del plan de #[em marketing,] en este punto es necesario aplicar el #[em marketing mix;] es decir, hacer la combinación de variables controlables con el fin de llevar el producto o servicio de la forma más adecuada y oportuna al mercado objetivo.
           p.mb-0 El plan de #[em marketing] se profundizará más adelante.
         .col-md-6
           figure
@@ -389,10 +389,10 @@
           h5 Figura 1. 
           | Proceso de creación de valor
         figure
-          img.img-a.img-t.mb-2(src='@/assets/curso/tema1/img33.svg', alt='La figura presenta diagrama con el proceso de creación de valor mediante circulos empezando por conocer deseos y necesidades de los clientes, continuando con diseñar estrategias impulsadas por los clientes, elaborar progrmas de marketing que de  valor al cliente, integración  y satisfacción superiores y finalmente captar valor y obtener utilidades')
+          img.img-a.img-t.mb-2(src='@/assets/curso/tema1/img33.svg', alt='La figura presenta diagrama con el proceso de creación de valor mediante circulos empezando por conocer deseos y necesidades de los clientes, continuando con diseñar estrategias impulsadas por los clientes, elaborar programas de marketing que de  valor al cliente, integración  y satisfacción superiores y finalmente captar valor y obtener utilidades')
           figcaption Fuente: SENA (2020)
 
-    p.mb-5 Como se puede observar en la figura, la creación de valor comienza por la necesidad, los deseos o los gustos presentes en el mercado, para ello es necesario que quien realice la investigación y el análisis sea muy hábil en identificar dichos aspectos del mercado, pues de este punto depende la efectividad del proceso; de allí debe partir el diseño de las estrategias y de la propuesta de valor, la cual debe ser una única propuesta acompañada si se quiere de otros factores diferenciadores o de ventajas que tenga el producto.
+    p.mb-5 Como se presenta en la figura, la creación de valor comienza por la necesidad, los deseos o los gustos presentes en el mercado, para ello es necesario que quien realice la investigación y el análisis sea muy hábil en identificar dichos aspectos del mercado, pues de este punto depende la efectividad del proceso; de allí debe partir el diseño de las estrategias y de la propuesta de valor, la cual debe ser una única propuesta acompañada si se quiere de otros factores diferenciadores o de ventajas que tenga el producto.
     
     .row.align-items-center.justify-content-center.mb-4
       .col-lg-10.col-md-12.col-12
@@ -412,7 +412,7 @@
         .tarjeta--container.row
           .col-md.tarjeta.color-primario.p-5
             p.mb-4 Hablar del mercado es hacerlo del total de variables que en él existen, tanto las controlables como las no controlables. 
-            p.mb-0 En el marketing es indispensable tener una visión holística del mercado en función del producto o servicio, cada aspecto de él es importante tenerlo claro para la toma de decisiones; la información de la industria permite determinar proyecciones de ventas y participación, el análisis de la competencia definir posibles tácticas comerciales o de promoción, el estudio de las tendencias identificar las posibles acciones futuras que la empresa debe realizar en cuanto diseño de productos o estrategias de promoción; en fin, todos los datos que del entorno se puedan obtener son una decisión acertada que la empresa puede implementar.
+            p.mb-0 En el #[em marketing] es indispensable tener una visión holística del mercado en función del producto o servicio, cada aspecto de él es importante tenerlo claro para la toma de decisiones; la información de la industria permite determinar proyecciones de ventas y participación, el análisis de la competencia definir posibles tácticas comerciales o de promoción, el estudio de las tendencias identificar las posibles acciones futuras que la empresa debe realizar en cuanto diseño de productos o estrategias de promoción; en fin, todos los datos que del entorno se puedan obtener son una decisión acertada que la empresa puede implementar.
           .col-md.tarjeta.color-acento-contenido
             figure
               img.ima.img-a.img-t(src='@/assets/curso/tema1/img34.svg', alt='tema1')
@@ -439,7 +439,7 @@
             img.img-a.img-t(src='@/assets/curso/tema1/img37.png', alt='Texto que describa la imagen')
       .row(titulo="Mercado de servicios")
         .col-md-6.mb-4.mb-md-0
-          p.mb-4 Es una alternativa muy interesante de mercado, las empresas requieren de productos y servicios que otras pueden proveerles. Es un mercado en crecimiento debido a la tercerización de muchos procesos: la publicidad, el desarrollo de software o los servicios de aseo.
+          p.mb-4 Es una alternativa muy interesante de mercado, las empresas requieren de productos y servicios que otras pueden proveerles. Es un mercado en crecimiento debido a la tercerización de muchos procesos: la publicidad, el desarrollo de #[em software] o los servicios de aseo.
         .col-md-6
           figure
             img.img-a.img-t(src='@/assets/curso/tema1/img38.png', alt='Texto que describa la imagen')
@@ -469,7 +469,7 @@
 
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-10.col-md-12.col-12
-        p.mb-5 Cómo ya se ha dicho en repetidas ocasiones, el mercado tiene varios niveles de necesidades, tal como se verá a continuación, en la pirámide de Abraham Maslow, psicólogo estadounidense:
+        p.mb-5 Cómo ya se ha dicho en repetidas ocasiones, el mercado tiene varios niveles de necesidades, tal como se presenta a continuación, en la pirámide de Abraham Maslow, psicólogo estadounidense:
         .titulo-sexto.color-secundario
           h5 Figura 2. 
           | Pirámide de Abraham Maslow
@@ -501,8 +501,8 @@
                 p #[b Demanda:] son deseos y peticiones superiores y está totalmente ligado a la capacidad de compra; por ejemplo, satisfacer el hambre y el deseo de consumir algo rico pero demandar aquello que solo unos cuantos pueden pagar, la pizza Luis XIII que tiene un costo superior a los 9000 dólares.
           .col-md.tarjeta.color-acento-contenido.p-5
             .titulo-sexto.color-secundario.mb-5
-              h5 Figura 2. 
-              | Pirámide de Abraham Maslow
+              h5 Figura 3. 
+              | Niveles de satisfacción de las necesidades
             .row.align-items-center.justify-content-center
               .col-lg-12.col-md-12.col-12
                 .row.align-items-center.justify-content-center.mb-4
@@ -558,7 +558,7 @@
       .col-lg-8.col-md-12.col-12
         .row.align-items-center.justify-content-center
           .col-lg-6.col-md-12.col-12
-            p.mb-0 Para desarrollar nuevos productos se requiere de ingenio y de innovación. Las ideas surgen regularmente de las investigaciones que realiza el departamento de trade #[em marketing] de la empresa preguntando directamente a los clientes y consumidores. También se generan en los departamentos de investigación y desarrollo de las compañías donde están realizando constantemente pruebas y nuevas recetas. En otras ocasiones surgen de oportunidades del mercado o de ideas espontáneas de empleados o colaboradores de la empresa.
+            p.mb-0 Para desarrollar nuevos productos se requiere de ingenio y de innovación. Las ideas surgen regularmente de las investigaciones que realiza el departamento de #[em trade marketing] de la empresa preguntando directamente a los clientes y consumidores. También se generan en los departamentos de investigación y desarrollo de las compañías donde están realizando constantemente pruebas y nuevas recetas. En otras ocasiones surgen de oportunidades del mercado o de ideas espontáneas de empleados o colaboradores de la empresa.
           .col-lg-6.col-md-12.col-12
             img.img-a.img-t.mb-2(src='@/assets/curso/tema1/img51.png', alt='tema1')
     
@@ -574,23 +574,7 @@
           .col-lg-6.col-md-12.col-12
             p.mb-4 El precio es una de las variables más relevantes para la toma de decisión de compra por parte del cliente e incide en la adquisición de la mayoría de los productos de consumo masivo. Por ello es muy importante desarrollar estrategias adecuadas y oportunas en relación con esta variable, teniendo en cuenta además que, si bien el precio es una variable controlable, tiene algunos límites que se los pone el comprador, la competencia y algunas normas legales.
             p.mb-0 Estas son las estrategias de precios que se pueden realizar:
-    
-    
-    
-    
-    
-    
-    
-    
-    
 
-
-
-
-
-
-    
-    
     .mb-4.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blues
         h5.col.px-4.mb-0.neg Estrategias de distribución
@@ -616,7 +600,7 @@
             img.img-a.img-t.my-3(src='@/assets/curso/tema1/img55.svg', alt='Texto que describa la imagen')
         .col-md-10.mb-4.mb-md-0
           p.mb-5.my-4 Se recurre a un número inferior de intermediarios disponibles; es decir solo algunos pueden vender tu producto. Un solo distribuidor recibe el derecho de vender la marca y se compromete a no vender marcas competitivas en la misma categoría.
-      .row.p-4(titulo="Estrategia de <em>Push</em> “presión o empuje” ")
+      .row.p-4(titulo="Estrategia de <em>Push</em> “ presión o empuje ” ")
         .col-md-1
           figure
             img.img-a.img-t.my-3(src='@/assets/curso/tema1/img56.svg', alt='Texto que describa la imagen')
@@ -628,7 +612,7 @@
             img.img-a.img-t.my-3(src='@/assets/curso/tema1/img57.svg', alt='Texto que describa la imagen')
         .col-md-10.mb-4.mb-md-0
           p.mb-5.my-4 
-      .row.p-4(titulo="Estrategias de <em>Pull</em> “jalón o aspiración”")
+      .row.p-4(titulo="Estrategias de <em>Pull</em> “ jalón o aspiración ”")
         .col-md-1
           figure
             img.img-a.img-t.my-3(src='@/assets/curso/tema1/img58.svg', alt='Texto que describa la imagen')
@@ -637,19 +621,19 @@
     
     .mb-4.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blues
-        h5.col.px-4.mb-0.neg Desarrollo de productos
+        h5.col.px-4.mb-0.neg Estrategias de comunicación
     
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-8.col-md-12.col-12
         .row.align-items-center.justify-content-center
           .col-lg-6.col-md-12.col-12
-            p.mb-0 La comunicación o promoción es una variable muy importante dentro del proceso de mercadeo, de ahí que las empresas subcontraten este servicio a través de agencias de publicidad y en muy pocas ocasiones, sobre todo en grandes industrias creen in #[em house] o equipos de publicidad interna. Las estrategias de comunicación requieren altos despliegues de creatividad y planificación, en la actualidad las empresas están desarrollando sus propias estrategias de promoción gracias al acceso a medios masivos sin la necesidad de intermediarios, como es el caso de las redes sociales.
+            p.mb-0 La comunicación o promoción es una variable muy importante dentro del proceso de mercadeo, de ahí que las empresas subcontraten este servicio a través de agencias de publicidad y en muy pocas ocasiones, sobre todo en grandes industrias creen #[em in house] o equipos de publicidad interna. Las estrategias de comunicación requieren altos despliegues de creatividad y planificación, en la actualidad las empresas están desarrollando sus propias estrategias de promoción gracias al acceso a medios masivos sin la necesidad de intermediarios, como es el caso de las redes sociales.
           .col-lg-6.col-md-12.col-12
             img.img-a.img-t.mb-2(src='@/assets/curso/tema1/img51.png', alt='tema1')
     
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-8.col-md-12.col-12
-        p.mb-0 De acuerdo con los Manuales Prácticos de la #[em Mipyme] de la Xunta de Galicia (s.f.), se describen las siguientes estrategias de comunicación:    
+        p.mb-0 De acuerdo con los Manuales Prácticos de la Mipyme de la Xunta de Galicia (s.f.), se describen las siguientes estrategias de comunicación:    
 
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-12.col-md-12.col-12
@@ -701,7 +685,7 @@
                 figure
                   img.img-a.img-t(src='@/assets/curso/tema1/img65.svg', alt='Texto que describa la imagen')
             h2.text-white Estrategia de marcas para líneas de productos
-            p.text-white Consiste en utilizar el mismo nombre de marca para varios productos relacionados entre sí́.
+            p.text-white Consiste en utilizar el mismo nombre de marca para varios productos relacionados entre sí.
         
         .tarjeta--container.row.mb-2
           .col-md.tarjeta.color-primario.pri.f1.p-5
@@ -723,7 +707,7 @@
               .col-6
                 figure
                   img.img-a.img-t(src='@/assets/curso/tema1/img68.svg', alt='Texto que describa la imagen')
-            h2 Estrategia Above The Line (ATL)
+            h2 Estrategia #[em Above The Line (ATL)]
             p Estrategia que implica el empleo de medios tradicionales o convencionales para publicitar la oferta y los mensajes de la empresa. Se trata de una estrategia que utiliza medios masivos para llegar al mayor número de público objetivo. Entre los medios masivos se encuentran: la televisión, radio, prensa y la publicidad exterior.
 
         .tarjeta--container.row.mb-2
@@ -732,8 +716,8 @@
               .col-6
                 figure
                   img.img-a.img-t(src='@/assets/curso/tema1/img69.svg', alt='Texto que describa la imagen')
-            h2 Estrategia Below The Line (BTL)
-            p El empleo de esta estrategia se centra en utilizar medios no convencionales, que se caracterizan por ser menos masivos y más directos. Algunos de ellos son: las relaciones públicas, internet, marketing directo, promociones, etc. 
+            h2 Estrategia #[em Below The Line (BTL)]
+            p El empleo de esta estrategia se centra en utilizar medios no convencionales, que se caracterizan por ser menos masivos y más directos. Algunos de ellos son: las relaciones públicas, internet, #[em marketing] directo, promociones, etc. 
           .col-md.tarjeta.color-primario.pri9.f2.p-5
             .row.justify-content.mb-4
               .col-6
@@ -744,7 +728,7 @@
 
     Separador
     #t_1_6.titulo-segundo.mb-5
-      h2 1.6 Plan de marketing
+      h2 1.6 Plan de #[em marketing]
     
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-10.col-md-12.col-12
@@ -753,7 +737,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema1/img79.png')})`}"
           )
           .bloque-texto-g__texto.p-5
-            p.mb-0 Una vez estudiados los elementos relacionados con el marketing, es necesario compilar toda la información y las estrategias en un plan. La organización de la información permite el direccionamiento de las acciones con fines particulares. Por ello, un plan de mercadeo incluye varios pasos:
+            p.mb-0 Una vez estudiados los elementos relacionados con el #[em marketing,] es necesario compilar toda la información y las estrategias en un plan. La organización de la información permite el direccionamiento de las acciones con fines particulares. Por ello, un plan de mercadeo incluye varios pasos:
 
     
     AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--grissss").mb-5
@@ -762,7 +746,7 @@
           figure
             img.img-a.img-t.my-3(src='@/assets/curso/tema1/img80.svg', alt='Texto que describa la imagen')
         .col-md-10.mb-4.mb-md-0
-          p.mb-5.my-4 Este resumen si bien encabeza el plan de marketing, por lo general se realiza al final del plan; sirve de introducción al documento para que quienes interactúen con él y comprendan en términos generales la finalidad del mismo.
+          p.mb-5.my-4 Este resumen si bien encabeza el plan de #[em marketing], por lo general se realiza al final del plan; sirve de introducción al documento para que quienes interactúen con él y comprendan en términos generales la finalidad del mismo.
       .row.p-4(titulo="Análisis del mercado")
         .col-md-1
           figure
@@ -786,7 +770,7 @@
           figure
             img.img-a.img-t.my-3(src='@/assets/curso/tema1/img84.svg', alt='Texto que describa la imagen')
         .col-md-10.mb-4.mb-md-0
-          p.mb-5.my-4 Si bien el plan de mercadeo es de dominio de la empresa, es importante incluir una descripción de ella y el producto(s) o servicio(s) para los que se va a realizar el plan de marketing; esto permite a participantes externos y colaboradores, así como a la agencia de publicidad, que participe en el proceso de conocerlos al detalle.
+          p.mb-5.my-4 Si bien el plan de mercadeo es de dominio de la empresa, es importante incluir una descripción de ella y el producto(s) o servicio(s) para los que se va a realizar el plan de #[em marketing]; esto permite a participantes externos y colaboradores, así como a la agencia de publicidad, que participe en el proceso de conocerlos al detalle.
       .row.p-4(titulo="Análisis de la competencia")
         .col-md-1
           figure
@@ -798,7 +782,7 @@
           figure
             img.img-a.img-t.my-3(src='@/assets/curso/tema1/img86.svg', alt='Texto que describa la imagen')
         .col-md-10.mb-4.mb-md-0
-          p.mb-4.my-4 Es un punto ya visto en anteriores componentes formativos; aquí es necesario aplicar las variables para permitir la toma de decisiones en cuanto a las estrategias de marketing:
+          p.mb-4.my-4 Es un punto ya visto en anteriores componentes formativos; aquí es necesario aplicar las variables para permitir la toma de decisiones en cuanto a las estrategias de #[em marketing]:
           ul.lista-ul--color
             li.d-flex.mb-0
               i.fas.fa-plus.mas
@@ -834,7 +818,7 @@
             li.d-flex.mb-0
               i.fas.fa-plus.mas
               p Presupuesto.
-          p.mb-0 El plan de marketing finalmente debe ser socializado para su aprobación por parte de los directivos de la empresa, quienes avalan el presupuesto planteado para el mismo.
+          p.mb-0 El plan de #[em marketing] finalmente debe ser socializado para su aprobación por parte de los directivos de la empresa, quienes avalan el presupuesto planteado para el mismo.
 
 </template>
 
