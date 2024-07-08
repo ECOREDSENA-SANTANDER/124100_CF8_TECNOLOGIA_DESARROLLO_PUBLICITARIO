@@ -58,34 +58,34 @@
             .tarjeta.tarjeta--verde.p-5
               SlyderA(tipo="b")
                 .row
-                  .col-lg-12.col-md-6.col-12
+                  .col-lg-12.col-md-12.col-12
                     p #[b 1. #[em Cookies] propias o de primera parte:] son las generadas y almacenadas única y exclusivamente por el dominio al que se está accediendo. Por ejemplo, las que se utilizan en las tiendas #[em online]. A medida que vas añadiendo productos al carrito de la compra, la información se almacena en una #[em cookie] que permite que en las siguientes páginas se puedan mantener los mismos productos. Las herramientas de medición como Google #[em Analytics] usan #[em cookies] de primera parte para hacer el seguimiento de las interacciones de los usuarios: para saber de dónde vienen, cuántas sesiones generan, qué páginas visitan, etc.
                 .row
-                  .col-lg-12.col-md-6.col-12
+                  .col-lg-12.col-md-12.col-12
                     p #[b 2. #[em Cookies] de terceros o de tercera parte:] son las generadas y utilizadas por un dominio externo al del sitio #[em web] que estén visitando los usuarios. Por ejemplo, cuando accedes a una #[em web] y ves #[em banners] sobre productos que te interesan, esa publicidad no se produce de forma aleatoria. Esto ocurre porque en las cookies se guardan tus preferencias de navegación, lo que permite a los anunciantes mostrarte anuncios adaptados a tus gustos a través de otras #[em webs.]
                 .row
-                  .col-lg-12.col-md-6.col-12
+                  .col-lg-12.col-md-12.col-12
                     p #[b 3. #[em Cookies] de sesión:] son las que se eliminan en cuanto caduca la sesión. Su propósito es permitirte moverte entre las diferentes páginas de una #[em web] sin necesidad de que tengas que dar la misma información una y otra vez. Por ejemplo, las que se utilizan en las tiendas #[em online]. A medida que vas añadiendo productos al carrito de la compra, la información se almacena en una #[em cookie] que permite que en las siguientes páginas se puedan mantener los mismos productos.
                 .row
-                  .col-lg-12.col-md-6.col-12
+                  .col-lg-12.col-md-12.col-12
                     p.mb-4 #[b 4. #[em Cookies] persistentes:] son las que permiten almacenar los datos de los usuarios durante más tiempo. También tienen fecha de caducidad, la cual es definida por el responsable de la #[em cookie.]
                     p.mb-0 En el caso de que el usuario no elimine estas #[em cookies] manualmente desde su navegador, cuando lleguen a su fecha de caducidad estas se eliminarán completamente de este.
                 .row
-                  .col-lg-12.col-md-6.col-12
+                  .col-lg-12.col-md-12.col-12
                     p.mb-4 #[b 5. #[em Cookies] técnicas:] son las que permiten a los usuarios navegar a través de una página #[em web] o aplicación y utilizar sus servicios.
                     p.mb-0 Por ejemplo, las que te permiten recordar los productos en el carrito de la compra o registrarte en un evento.
                 .row
-                  .col-lg-12.col-md-6.col-12
+                  .col-lg-12.col-md-12.col-12
                     p.mb-4 #[b 6. #[em Cookies] de personalización:] son las que permiten al usuario disfrutar del servicio que presta la #[em web] o aplicación de una forma personalizada.
                     p.mb-0 Por ejemplo, cuando una #[em web] está traducida a muchos idiomas, el que tú la veas en el tuyo es posible gracias a las #[em cookies] de personalización.
                 .row
-                  .col-lg-12.col-md-6.col-12
+                  .col-lg-12.col-md-12.col-12
                     p #[b 7. #[em Cookies] de análisis:] son las que permiten registrar y almacenar los datos sobre los usuarios para posteriormente analizar su comportamiento.
                 .row
-                  .col-lg-12.col-md-6.col-12
+                  .col-lg-12.col-md-12.col-12
                     p #[b 8. #[em Cookies] publicitarias:] son #[em cookies] cuyo único propósito es hacer publicidad.
                 .row
-                  .col-lg-12.col-md-6.col-12
+                  .col-lg-12.col-md-12.col-12
                     p #[b 9. #[em Cookies] de publicidad comportamental:] son las #[em cookies] que permiten hacer publicidad a los usuarios, pero de una forma más personalizada. ¿Cómo? Recabando información de su comportamiento, para así mostrarles publicidad basada en dicho comportamiento.
     
     .mb-5.d-flex
@@ -388,7 +388,7 @@
 
     p.mb-5.text-center #[b Las páginas de Facebook permiten realizar mediciones estadísticas semanales en cuanto a:]
     
-    .row.align-items-center.justify-content-center.mb-5
+    .row.align-items-center.justify-content-center.mb-0
       .col-lg-11.col-md-12.col-12
         .row.align-items-center.justify-content-center.mb-0
           .col-lg-5.col-md-9.col-9
@@ -400,37 +400,37 @@
                   .col-lg-12.col-md-12.col-12
                     p #[b Total de “me gusta”:] indica el número de personas que les gusta la página; relaciona también el porcentaje de aumento o disminución de la métrica semanal.
                 .row
-                  .col-lg-12.col-md-6.col-12
+                  .col-lg-12.col-md-12.col-12
                     p #[b Amigos de los #[em fans:]] muestra el número de personas que eran amigos de los que hicieron clic en “me gusta” y relaciona el porcentaje de aumento o disminución semanal.
                 .row
-                  .col-lg-12.col-md-6.col-12
+                  .col-lg-12.col-md-12.col-12
                     p #[b Personas que están hablando de esto:] indica el número de personas que realizaron algún tipo de actividad en la última semana relacionada con una página: hacer un #[em post,] compartir una publicación, responder a un evento o a una pregunta, etiquetar a alguien, mencionarla en otra publicación.
                 .row
-                  .col-lg-12.col-md-6.col-12
+                  .col-lg-12.col-md-12.col-12
                     p #[b Alcance de la semana:] indica el número de personas que vieron el contenido de la página o contenido asociado, también relaciona el porcentaje de aumento o disminución.
                 .row
-                  .col-lg-12.col-md-6.col-12
+                  .col-lg-12.col-md-12.col-12
                     p #[b Canal orgánico:] relaciona el número de personas que vieron el contenido de la página a través de la sección de noticias en un tiempo determinado.
                 .row
-                  .col-lg-12.col-md-6.col-12
+                  .col-lg-12.col-md-12.col-12
                     p #[b Canal viral:] indica el número de personas que vieron una publicación de la página hecha por un amigo.
                 .row
-                  .col-lg-12.col-md-6.col-12
+                  .col-lg-12.col-md-12.col-12
                     p #[b Canal pagado:] indica el número de personas que vieron una publicación o anuncio patrocinado.
                 .row
-                  .col-lg-12.col-md-6.col-12
+                  .col-lg-12.col-md-12.col-12
                     p #[b Usuarios únicos por frecuencia:] muestra gráficamente el número de personas que vieron el contenido de la página en los últimos siete días.
                 .row
-                  .col-lg-12.col-md-6.col-12
+                  .col-lg-12.col-md-12.col-12
                     p #[b Visitas a la página:] indica el número de veces que la página fue vista diariamente en un periodo determinado.
                 .row
-                  .col-lg-12.col-md-6.col-12
+                  .col-lg-12.col-md-12.col-12
                     p #[b Visitantes únicos:] indica el número de personas que visitaron un #[em fanpage] por día en un periodo determinado.
                 .row
-                  .col-lg-12.col-md-6.col-12
+                  .col-lg-12.col-md-12.col-12
                     p #[b Publicaciones:] muestra de forma gráfica el número de personas que vieron una publicación en un tiempo determinado.
                 .row
-                  .col-lg-12.col-md-6.col-12
+                  .col-lg-12.col-md-12.col-12
                     p #[b Audiencia potencial:] suma de los amigos de las personas que dieron “me gusta” o que compartieron una publicación.
 
     Separador
