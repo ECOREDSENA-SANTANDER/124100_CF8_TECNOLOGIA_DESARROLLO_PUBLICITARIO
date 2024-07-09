@@ -433,7 +433,7 @@ export default {
         },
         {
           nombre: 'Pedro Alonso Bolivar Gonzalez',
-          cargo: 'Desarrollador Fullstack',
+          cargo: 'Desarrollador <em>Fullstack</em>',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {
