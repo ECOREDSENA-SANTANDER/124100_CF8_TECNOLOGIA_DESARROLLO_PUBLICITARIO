@@ -35,7 +35,7 @@
                         img.img-a.img-t(src='@/assets/curso/tema1/img2.svg', alt='Texto que describa la imagen')
                   .row.justify-content-center.align-items-top
                     .col-md-12.col-lg-6.col-12
-                      p.my-4 Por su parte, #[em Phillip Kotler,] indica que el #[em marketing] es un proceso social y administrativo mediante el cual grupos e individuos obtienen lo que necesitan y desean a través de generar, ofrecer e intercambiar productos de valor con sus semejantes.
+                      p.my-4 Por su parte, Phillip Kotler, indica que el #[em marketing] es un proceso social y administrativo mediante el cual grupos e individuos obtienen lo que necesitan y desean a través de generar, ofrecer e intercambiar productos de valor con sus semejantes.
                     .col-md-6
                       figure
                         img.img-a.img-t(src='@/assets/curso/tema1/img3.svg', alt='Texto que describa la imagen')
@@ -81,7 +81,7 @@
 
     .mb-5.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
-        h4.col.px-4.mb-0.mx-5.neg Variables externas
+        h3.col.px-5.mb-0.mx-5.neg Variables externas
         img.clase2.d-none.d-lg-block(src='@/assets/curso/tema1/img7.svg') 
     
     .row.align-items-center.justify-content-center.mb-4
@@ -90,51 +90,52 @@
           .col-lg-3.col-md-6.col-6.mb-4
             .caja2.p-3
               img.img-a.img-t.mb-4(src='@/assets/curso/tema1/img8.svg', alt='Texto que describa la imagen')
-              p.mb-0.neg.text-center El consumidor
+              h4.mb-0.neg.text-center El consumidor
           .col-lg-3.col-md-6.col-6.mb-4
             .caja2.p-3
               img.img-a.img-t.mb-4(src='@/assets/curso/tema1/img9.svg', alt='Texto que describa la imagen')
-              p.mb-0.neg.text-center La tecnología
+              h4.mb-0.neg.text-center La tecnología
           .col-lg-3.col-md-6.col-6.mb-4
             .caja2.p-3
               img.img-a.img-t.mb-4(src='@/assets/curso/tema1/img10.svg', alt='Texto que describa la imagen')
-              p.mb-0.neg.text-center El medio ambiente
+              h4.mb-0.neg.text-center El medio ambiente
           .col-lg-3.col-md-6.col-6.mb-4
             .caja2.p-3
               img.img-a.img-t.mb-4(src='@/assets/curso/tema1/img11.svg', alt='Texto que describa la imagen')
-              p.mb-0.neg.text-center La economía
+              h4.mb-0.neg.text-center La economía
         .row.align-items-center.justify-content-center
           .col-lg-3.col-md-6.col-6.mb-4
             .caja2.p-3
               img.img-a.img-t.mb-4(src='@/assets/curso/tema1/img12.svg', alt='Texto que describa la imagen')
-              p.mb-0.neg.text-center Las leyes
+              h4.mb-0.neg.text-center Las leyes
           .col-lg-3.col-md-6.col-6.mb-4
             .caja2.p-3
               img.img-a.img-t.mb-4(src='@/assets/curso/tema1/img13.svg', alt='Texto que describa la imagen')
-              p.mb-0.neg.text-center La competencia
+              h4.mb-0.neg.text-center La competencia
           .col-lg-3.col-md-6.col-6.mb-4
             .caja2.p-3
               img.img-a.img-t.mb-4(src='@/assets/curso/tema1/img14.svg', alt='Texto que describa la imagen')
-              p.mb-0.neg.text-center Los intermediarios
+              h4.mb-0.neg.text-center Los intermediarios
     
     .mb-4.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
-        h4.col.px-4.mb-0.mx-5.neg Variables internas
+        h3.col.px-5.mb-0.mx-5.neg Variables internas
         img.clase2.d-none.d-lg-block(src='@/assets/curso/tema1/img15.svg') 
     
-    p.mb-4 También llamadas variables controlables; estas se encuentran bajo el dominio y manejo de la empresa y permiten desarrollar estrategias enfocadas en la satisfacción total de los clientes y consumidores, generando atracción hacia el producto, servicio o marca.
+    p.mb-0 También llamadas variables controlables; estas se encuentran bajo el dominio y manejo de la empresa y permiten desarrollar estrategias enfocadas en la satisfacción total de los clientes y consumidores, generando atracción hacia el producto, servicio o marca.
 
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-12.col-md-12.col-12
-        .tarjeta--container.hei.row
+        .tarjeta--container.mt-5.row
           .col-md-12.col-12.col-lg-6.tarjeta.color-primario.p-5
-            p Las variables controlables también permiten contrarrestar los efectos de las no controlables o externas; por ejemplo, con la pandemia del año 2020 con la llegada de la COVID-19, varias empresas debieron realizar estrategias de mercadeo para contrarrestar los efectos que el confinamiento y la cuarentena les produjo desde el punto de vista económico, fue así como muchas empresas debieron implementar estrategias de distribución de sus productos basadas en las entregas a domicilio, otras debieron crear nuevos portafolios de productos o servicios que se adaptaran más a un nuevo sistema de comercialización o satisficiera otras necesidades de sus clientes. Por su puesto, las empresas deberían tener planes de contingencia para este tipo de eventos, no obstante, la pandemia del COVID-19 tomó por sorpresa, incluso a las más grandes y organizadas.
-          .col-md-6.tarjeta.color-acento-contenido.hei.d-none.d-lg-block
-            img.ima.img-a.img-t.mov.d-none.d-lg-block(src='@/assets/curso/tema1/img16.svg', alt='tema1')
+            p.mb-0 Las variables controlables también permiten contrarrestar los efectos de las no controlables o externas; por ejemplo, con la pandemia del año 2020 con la llegada de la COVID-19, varias empresas debieron realizar estrategias de mercadeo para contrarrestar los efectos que el confinamiento y la cuarentena les produjo desde el punto de vista económico, fue así como muchas empresas debieron implementar estrategias de distribución de sus productos basadas en las entregas a domicilio, otras debieron crear nuevos portafolios de productos o servicios que se adaptaran más a un nuevo sistema de comercialización o satisficiera otras necesidades de sus clientes. Por su puesto, las empresas deberían tener planes de contingencia para este tipo de eventos, no obstante, la pandemia del COVID-19 tomó por sorpresa, incluso a las más grandes y organizadas.
+          .col-md.tarjeta.color-acento-contenido.d-none.d-lg-block
+            img.movet.img-a.img-t(src='@/assets/curso/tema1/sobre.svg', alt='Texto que describa la imagen')
 
+    
     .row.align-items-center.justify-content-center.mb-4
       .col-lg-10.col-md-12.col-12
-        .caja1.p-4
+        .caja1.p-4.mt-2
           .row.align-items-center.justify-content-center
             .col-lg-2
               img.img-a.img-t.d-none.d-lg-block(src="@/assets/curso/tema1/img1.svg")
@@ -157,7 +158,7 @@
             .cajon.color-acento-contenido.p-4.mb-4
               p.mb-0 #[b Según Kotler y Armstrong citados por Thompson (2005), la mezcla de mercadeo “es todo lo que la empresa es capaz de hacer para influir en la demanda de su producto”. En esta mezcla se pueden encontrar cuatro variables principales, cada una de ellas con una serie de subvariables que se deben tener en cuenta para el desarrollo del plan de mercadeo y el diseño de las estrategias.]
           .col-lg-5.col-md-9.col-9
-            img.mb-5.d-none.d-lg-block(src='@/assets/curso/tema1/img18.svg', alt='tema1')
+            img.mb-5.d-none.d-lg-block(src='@/assets/curso/tema1/img18.png', alt='tema1')
     
     
     TabsC.color-primario.mb-0
@@ -301,9 +302,10 @@
 
     p.mb-4.text-center A continuación, se indican los pasos a seguir en el proceso de mercadeo:
     
-    AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--gris")
-      .row(titulo="Identificación")
-        .col-md-12.col-12.col-lg-6.mb-4.mb-md-0
+
+    AcordionA.acordion.activo(tipo="b" clase-tarjeta="tarjeta tarjeta--gris")
+      .row.align-items-center(titulo="Identificación").p-4
+        .col-md-12.col-12.col-lg-8
           p Cuando un producto llega al mercado y consigue posicionarse y mantenerse en él, es debido a varias alternativas:
           ul.lista-ul--color
             li.d-flex
@@ -312,15 +314,17 @@
             li.d-flex
               i.fas.fa-plus.mas
               p #[b Necesidades:] la identificación de necesidades en un mercado implica el desarrollo de investigación y análisis exhaustivos que permitan ahondar en los gustos y deseos de los consumidores, las necesidades no son solo aquellas carencias básicas del ser humano, también se pueden definir como los deseos, intereses y demandas que una persona o grupo presentan en determinado momento o para un fin específico.
-        .col-md-6
+        .col-lg-4
           figure
             img.img-a.img-t.d-none.d-lg-block(src='@/assets/curso/tema1/img26.png', alt='Texto que describa la imagen')
-        ul.lista-ul--color
-          li.d-flex
-            i.fas.fa-plus.mas
-            p #[b Producto innovador:] es un paso que se da en muy pocas ocasiones, en la actualidad con mucho menos frecuencia; sin embargo, aún se dan casos de productos que suelen ser muy innovadores y no se han generado para la satisfacción de una necesidad en particular; aunque, es necesario hacer la salvedad que todo producto o servicio satisface una necesidad del mercado. Es el caso de Facebook, donde esta red social fue creada con fines muy diferentes a los que tiene en la actualidad, pero por su carácter de innovador le representó convertirse en un servicio mundialmente conocido y utilizado por miles de millones de personas de los cinco continentes.
-      .row(titulo="Investigación")
-        .col-md-12.col-12.col-lg-6.mb-0
+        .row.justify-content-center 
+          .col-lg-12
+            ul.lista-ul--color
+              li.d-flex
+                i.fas.fa-plus.mas
+                p #[b Producto innovador:] es un paso que se da en muy pocas ocasiones, en la actualidad con mucho menos frecuencia; sin embargo, aún se dan casos de productos que suelen ser muy innovadores y no se han generado para la satisfacción de una necesidad en particular; aunque, es necesario hacer la salvedad que todo producto o servicio satisface una necesidad del mercado. Es el caso de Facebook, donde esta red social fue creada con fines muy diferentes a los que tiene en la actualidad, pero por su carácter de innovador le representó convertirse en un servicio mundialmente conocido y utilizado por miles de millones de personas de los cinco continentes.
+      .row(titulo="Investigación").p-4
+        .col-md-12.col-12.col-lg-8.mb-0
           p Si bien el paso anterior implica realizar un proceso de investigación, es después de la identificación de la necesidad o la oportunidad del mercado, que se comienza el verdadero proceso investigativo e implica analizar el mercado desde varios frentes:
           ul.lista-ul--color
             li.d-flex
@@ -329,7 +333,7 @@
             li.d-flex
               i.fas.fa-plus.mas
               p #[b Investigación y desarrollo:] el desarrollo de un producto implica un proceso muy arduo de investigación, es necesario que el empresario conozca los procesos de producción, las materias primas más adecuadas, el diseño del producto, el concepto del mismo, entre otras cosas.
-        .col-md-6.mb-0
+        .col-lg-4
           figure
             img.img-a.img-t.d-none.d-lg-block(src='@/assets/curso/tema1/img27.png', alt='Texto que describa la imagen')
         .row.mb-0  
@@ -340,18 +344,18 @@
             li.d-flex
               i.fas.fa-plus.mas
               p #[b Entorno:] el mercado es muy amplio desde el punto de vista de las variables, es por ello que uno de los procesos a investigar es el entorno que rodea la empresa; allí se pueden conocer datos muy relevantes de la industria, la normatividad que aplica para el producto o servicio que se está desarrollando, los posibles obstáculos o ventajas que este puede tener.
-      .row(titulo="Plan de <em>marketing</em>")
-        .col-md-12.col-12.col-lg-6.mb-4.mb-md-0
+      .row.justify-content-center(titulo="Plan de <em>marketing</em>").p-4
+        .col-md-12.col-12.col-lg-8.mb-4.mb-md-0
           p.mb-4 Una vez se ha realizado la investigación, la empresa ya está lista para el desarrollo del plan de #[em marketing,] en este punto es necesario aplicar el #[em marketing mix;] es decir, hacer la combinación de variables controlables con el fin de llevar el producto o servicio de la forma más adecuada y oportuna al mercado objetivo.
           p.mb-0 El plan de #[em marketing] se profundizará más adelante.
-        .col-md-6
+        .col-lg-4
           figure
             img.img-a.img-t.d-none.d-lg-block(src='@/assets/curso/tema1/img28.png', alt='Texto que describa la imagen')
-      .row(titulo="Monitoreo")
-        .col-md-12.col-12.col-lg-6.mb-4.mb-md-0
+      .row(titulo="Monitoreo").p-4
+        .col-md-12.col-12.col-lg-8.mb-4.mb-md-0
           p.mb-4 El monitoreo o monitorización es una parte fundamental del proceso de mercado, este determina que tan efectivo ha sido el plan y si se están cumpliendo los objetivos planteados. 
           p.mb-0 El monitoreo debe hacerlo una persona externa a través del análisis de los indicadores de gestión que se hayan planteado, esto garantiza que se realicen los ajustes que se requieran o continuar aplicando las estrategias en el caso que estén mostrando resultados por encima de la meta propuesta.
-        .col-md-6
+        .col-lg-4
           figure
             img.img-a.img-t.d-none.d-lg-block(src='@/assets/curso/tema1/img29.png', alt='Texto que describa la imagen')
 
@@ -379,7 +383,7 @@
     
     .mb-5.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
-        h4.col.px-4.mb-0.mx-5.neg Proceso de creación de valor
+        h3.col.px-5.mb-0.mx-5.neg Proceso de creación de valor
         img.clase4.d-none.d-lg-block(src='@/assets/curso/tema1/img32.svg')
     
     
@@ -411,20 +415,20 @@
       .col-lg-12.col-md-12.col-12
         .tarjeta--container.hei.row
           .col-md.tarjeta.color-primario.p-5
-            p.mb-4 Hablar del mercado es hacerlo del total de variables que en él existen, tanto las controlables como las no controlables. 
+            p.mb-5 Hablar del mercado es hacerlo del total de variables que en él existen, tanto las controlables como las no controlables. 
             p.mb-0 En el #[em marketing] es indispensable tener una visión holística del mercado en función del producto o servicio, cada aspecto de él es importante tenerlo claro para la toma de decisiones; la información de la industria permite determinar proyecciones de ventas y participación, el análisis de la competencia definir posibles tácticas comerciales o de promoción, el estudio de las tendencias identificar las posibles acciones futuras que la empresa debe realizar en cuanto diseño de productos o estrategias de promoción; en fin, todos los datos que del entorno se puedan obtener son una decisión acertada que la empresa puede implementar.
           .col-md.tarjeta.color-acento-contenido.d-none.d-lg-block
-            figure
+            figure.mb-4
               img.ima.img-a.img-t.move(src='@/assets/curso/tema1/img34.svg', alt='tema1')
 
     .mb-5.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
-        h4.col.px-4.mb-0.mx-5.neg Tipos de mercado
+        h3.col.px-5.mb-0.mx-5.neg Tipos de mercado
         img.clase4.d-none.d-lg-block(src='@/assets/curso/tema1/img35.svg')
     
     p.mb-4 Cada producto o servicio es un mundo aparte y muy particular, para cada uno existen consumidores reales y potenciales con características bien definidas. Es por ello, que existe también una variedad importante de mercados:
     
-    AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--griss").mb-5
+    AcordionA.acordion(tipo="b" clase-tarjeta="tarjeta tarjeta--griss").mb-5
       .row(titulo="Mercado de consumo")
         .col-md-12.col-12.col-lg-6.mb-4.mb-md-0
           ul.lista-ul--color
@@ -436,7 +440,7 @@
               p #[b Consumo duradero:] aquí se encuentran productos que tienen una vida prolongada y su uso es continuo: los muebles de una casa o un computador.     
         .col-md-6
           figure
-            img.img-a.img-t.d-none.d-lg-block(src='@/assets/curso/tema1/img37.png', alt='Texto que describa la imagen')
+            img.img-a.img-t.d-none.d-lg-block(src='@/assets/curso/tema1/img37.png', alt='Texto que describa la imagen')  
       .row(titulo="Mercado de servicios")
         .col-md-12.col-12.col-lg-6.mb-4.mb-md-0
           p.mb-4 Es el mercado de todos los intangibles, crece cada vez más debido a la demanda de servicios que el mercado ha generado en los últimos años: el servicio de telefonía celular, internet o plataformas de televisión por demanda.
@@ -464,7 +468,7 @@
 
     .mb-4.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
-        h4.col.px-4.mb-0.mx-5.neg Niveles de necesidad del mercado 
+        h3.col.px-5.mb-0.mx-5.neg Niveles de necesidad del mercado 
         img.clase4.d-none.d-lg-block(src='@/assets/curso/tema1/img42.svg')
 
     .row.align-items-center.justify-content-center.mb-5
@@ -487,7 +491,7 @@
 
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-12.col-md-12.col-12
-        .tarjeta--container.row
+        .tarjeta--container.row.mb-0
           .col-md.tarjeta.color-primario.p-5
             ul.lista-ul--color
               li.d-flex
@@ -498,7 +502,7 @@
                 p #[b Deseo:] implica un nivel más alto de satisfacción que la necesidad, este se determina por la cultura y la personalidad; por ejemplo, el hambre se puede saciar también con la satisfacción de un deseo: una hamburguesa con gaseosa.
               li.d-flex
                 i.fas.fa-circle-check
-                p #[b Demanda:] son deseos y peticiones superiores y está totalmente ligado a la capacidad de compra; por ejemplo, satisfacer el hambre y el deseo de consumir algo rico pero demandar aquello que solo unos cuantos pueden pagar, la pizza Luis XIII que tiene un costo superior a los 9000 dólares.
+                p.mb-0 #[b Demanda:] son deseos y peticiones superiores y está totalmente ligado a la capacidad de compra; por ejemplo, satisfacer el hambre y el deseo de consumir algo rico pero demandar aquello que solo unos cuantos pueden pagar, la pizza Luis XIII que tiene un costo superior a los 9000 dólares.
           .col-md.tarjeta.color-acento-contenido.p-5
             .titulo-sexto.color-secundario.mb-5
               h5 Figura 3. 
@@ -518,16 +522,16 @@
                     figure
                       img.img-a.img-t.mb-4(src='@/assets/curso/tema1/img46.svg', alt='La figura presenta los niveles de satisfacción de las necesidades dependiendo de la capacidad económica, en un primer recuadro la imagen de un pan, en el segundo la imagen de una hamburguesa con gaseosa y en el tercero la imagen de una porción de pizza con una copa de vino.')
                       h4.mb-1.text-center Demanda
-                figcaption Fuente: SENA (2020)
+                figcaption.mb-0 Fuente: SENA (2020)
     
     .mb-4.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
-        h4.col.px-4.mb-0.mx-5.neg Estrategias de mercadeo
+        h3.col.px-5.mb-0.mx-5.neg Estrategias de mercadeo
         img.clase4.d-none.d-lg-block(src='@/assets/curso/tema1/img48.svg')
 
     .mb-4.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blues
-        h5.col.px-4.mb-0.neg Penetración de mercados
+        h4.col.px-4.mb-0.neg Penetración de mercados
     
     .row.align-items-center.justify-content-center.mb-4
       .col-lg-8.col-md-12.col-12
@@ -540,7 +544,7 @@
     
     .mb-4.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blues
-        h5.col.px-4.mb-0.neg Desarrollo de mercados
+        h4.col.px-4.mb-0.neg Desarrollo de mercados
 
     .row.align-items-center.justify-content-center.mb-4
       .col-lg-8.col-md-12.col-12
@@ -552,7 +556,7 @@
           
     .mb-4.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blues
-        h5.col.px-4.mb-0.neg Desarrollo de productos
+        h4.col.px-4.mb-0.neg Desarrollo de productos
     
     .row.align-items-center.justify-content-center.mb-4
       .col-lg-8.col-md-12.col-12
@@ -564,7 +568,7 @@
     
     .mb-3.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blues
-        h5.col.px-4.mb-0.neg Estrategias de precios
+        h4.col.px-4.mb-0.neg Estrategias de precios
 
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-8.col-md-12.col-12
@@ -575,56 +579,45 @@
             p.mb-4 El precio es una de las variables más relevantes para la toma de decisión de compra por parte del cliente e incide en la adquisición de la mayoría de los productos de consumo masivo. Por ello es muy importante desarrollar estrategias adecuadas y oportunas en relación con esta variable, teniendo en cuenta además que, si bien el precio es una variable controlable, tiene algunos límites que se los pone el comprador, la competencia y algunas normas legales.
             p.mb-5 Estas son las estrategias de precios que se pueden realizar:
 
-    .row.align-items-center.justify-content-center.hei.mb-5
-      .col-lg-8.col-md-12.col-12
-        .row.justify-content-center.mbo 
-          .col-lg-12
-            .tarjeta-avatar-b.mb-2
-              .tarjeta-avatar-b__img.modi
-                img.img-a.img-t.mx-0.d-none.d-lg-block(src='@/assets/curso/tema1/im1.svg' alt='AvatarTop')
-              .tarjetay.tarjeta--azul1
-                .col-lg-10.col-md-12.col-12
-                  .p-4
-                    p.mb-0.mx-4 #[b Fijación de precios mediante márgenes:] consiste en añadir un margen estándar al costo del producto. Hay empresas que estiman el precio mediante la “adición” de un margen al costo total del proyecto que proporcionará el beneficio.
-                .col-lg-2
-        .row.justify-content-center.mbo 
-          .col-lg-12
-            .tarjeta-avatar-b.mb-2
-              .tarjeta-avatar-b__img.modi
-                img.img-a.img-t.mx-0.d-none.d-lg-block(src='@/assets/curso/tema1/im2.svg' alt='AvatarTop')
-              .tarjetay.tarjeta--azul2
-                .col-lg-10.col-md-12.col-12
-                  .p-4
-                    p.mb-0.mx-4 #[b Fijación de precios para alcanzar una tasa de rentabilidad:] consiste en considerar una determinada “tasa de rentabilidad” estándar para el producto generando variación constante.
-                .col-lg-2
-        .row.justify-content-center.mbo 
-          .col-lg-12
-            .tarjeta-avatar-b.mb-2
-              .tarjeta-avatar-b__img.modi
-                img.img-a.img-t.mx-0.d-none.d-lg-block(src='@/assets/curso/tema1/im3.svg' alt='AvatarTop')
-              .tarjetay.tarjeta--azul3
-                .col-lg-12.col-md-12.col-12
-                  .p-4
-                    p.mb-0.mx-4 #[b Precios de penetración o precios bajos.]
-        .row.justify-content-center.mbo 
-          .col-lg-12
-            .tarjeta-avatar-b.mb-2
-              .tarjeta-avatar-b__img.modi
-                img.img-a.img-t.mx-0.d-none.d-lg-block(src='@/assets/curso/tema1/im4.svg' alt='AvatarTop')
-              .tarjetay.tarjeta--azul4
-                .col-lg-10.col-md-12.col-12
-                  .p-4
-                    p.mb-0.mx-4 Precios altos de desnatado o descreme: esta estrategia es muy seguida por el sector tecnológico, dados los altos costos de innovación, los cuales son cubiertos por el mercado que es poco susceptible al precio. 
-                .col-lg-2
-      .col-lg-4.col-md-12.col-12
-        img.mb-2.mover.d-none.d-lg-block(src='@/assets/curso/tema1/fine.png', alt='tema1')
 
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-12.position-relative
+        .avatar
+          figure
+            img(src="@/assets/curso/tema1/fine.png", alt="alt").img250
+        .crd.crd--avatarHorizontal.crd--first1.py-4
+          .row.align-items-center
+            .col-auto
+              figure
+                img(src="@/assets/curso/tema1/im1.svg", alt="alt").img100
+            .col
+              p #[b Fijación de precios mediante márgenes:] consiste en añadir un margen estándar al costo del producto. Hay empresas que estiman el precio mediante la “adición” de un margen al costo total del proyecto que proporcionará el beneficio.
+        .crd.crd--avatarHorizontal.crd--first2.py-4
+          .row.align-items-center
+            .col-auto
+              figure
+                img(src="@/assets/curso/tema1/im2.svg", alt="alt").img100
+            .col
+              p #[b Fijación de precios para alcanzar una tasa de rentabilidad:] consiste en considerar una determinada “tasa de rentabilidad” estándar para el producto generando variación constante.
+        .crd.crd--avatarHorizontal.crd--first3.py-4
+          .row.align-items-center
+            .col-auto
+              figure
+                img(src="@/assets/curso/tema1/im3.svg", alt="alt").img100
+            .col
+              p #[b Precios de penetración o precios bajos.]
+        .crd.crd--avatarHorizontal.crd--first4.py-4
+          .row.align-items-center
+            .col-auto
+              figure
+                img(src="@/assets/curso/tema1/im4.svg", alt="alt").img100
+            .col
+              p Precios altos de desnatado o descreme: esta estrategia es muy seguida por el sector tecnológico, dados los altos costos de innovación, los cuales son cubiertos por el mercado que es poco susceptible al precio. 
 
-      
 
     .mb-4.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blues
-        h5.col.px-4.mb-0.neg Estrategias de distribución
+        h4.col.px-4.mb-0.neg Estrategias de distribución
 
     .row.align-items-center.justify-content-center.mb-4
       .col-lg-8.col-md-12.col-12
@@ -634,7 +627,7 @@
           .col-lg-6.col-md-12.col-12
             p.mb-4 La variable de distribución o la #[b “P”] plaza en el #[em marketing mix,] es muy importante en el proceso de #[em marketing,] ya que el lugar donde el cliente puede adquirir el producto es uno de los factores de más incidencia en la adquisición de este y puede ser determinante para la fidelización de él con la marca en cuestión. Por tal motivo, es primordial que las estrategias desarrolladas en cuanto a la distribución sean de total beneficio del consumidor.
     
-    AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--grisss").mb-5
+    AcordionA.acordion(tipo="b" clase-tarjeta="tarjeta tarjeta--grisss").mb-5
       .row.p-4(titulo="Distribución intensiva")
         .col-md-1
           figure
@@ -668,7 +661,7 @@
     
     .mb-4.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blues
-        h5.col.px-4.mb-0.neg Estrategias de comunicación
+        h4.col.px-4.mb-0.neg Estrategias de comunicación
     
     .row.align-items-center.justify-content-center.mb-4
       .col-lg-8.col-md-12.col-12
@@ -682,51 +675,56 @@
       .col-lg-8.col-md-12.col-12
         p.mb-0 De acuerdo con los Manuales Prácticos de la Mipyme de la Xunta de Galicia (s.f.), se describen las siguientes estrategias de comunicación:    
 
+    
+    
+    
+    
+    
     .tarjeta--container.row.mb-2
-      .col-md.tarjeta.color-primario.pri.f1.p-5
-        .row.justify-content.mb-4
-          .col-6
+      .col-md.tarjeta.color-primario.pri.p-5.pp
+        .row.justify-content.mb-3
+          .col-5.my-3
             figure
-              img.img-a.img-t(src='@/assets/curso/tema1/img60.svg', alt='Texto que describa la imagen')
+              img.img-a.img-t.d-none.d-lg-block(src='@/assets/curso/tema1/img60.svg', alt='Texto que describa la imagen')
         h2 Estrategia global de diferenciación
         p Las empresas pueden seguir estrategias de diferenciación por atributos tangibles, intangibles, etc. Cada empresa se posiciona en diferentes valores.
-      .col-md.tarjeta.color-primario.pri2.p-5
-        .row.justify-content.mb-4
-          .col-6
+      .col-md.tarjeta.color-primario.pri2.p-5.pp
+        .row.justify-content.mb-3
+          .col-5.my-3
             figure
-              img.img-a.img-t(src='@/assets/curso/tema1/img61.svg', alt='Texto que describa la imagen')
+              img.img-a.img-t.d-none.d-lg-block(src='@/assets/curso/tema1/img61.svg', alt='Texto que describa la imagen')
         h2.text-white Estrategia de asociación
         p.text-white En contraposición, la estrategia de asociación se refiere a aquella que siguen las empresas que utilizan para identificarse los mismos valores o similares.
-      .col-md.tarjeta.color-primario.pri3.f2.p-5
-        .row.justify-content.mb-4
-          .col-6
+      .col-md.tarjeta.color-primario.pri3.p-5.pp
+        .row.justify-content.mb-3
+          .col-5.my-3
             figure
-              img.img-a.img-t(src='@/assets/curso/tema1/img62.svg', alt='Texto que describa la imagen')
+              img.img-a.img-t.d-none.d-lg-block(src='@/assets/curso/tema1/img62.svg', alt='Texto que describa la imagen')
         h2 Estrategia de marca única o monolítica
-        p Supone poner el mismo nombre a todos los productos que la empresa comercializa y este nombre, puede coincidir o no con el de la empresa. Esta estrategia también recibe el nombre de “marca paraguas”.
+        p.mb-0 Supone poner el mismo nombre a todos los productos que la empresa comercializa y este nombre, puede coincidir o no con el de la empresa. Esta estrategia también recibe el nombre de “marca paraguas”.
         
     .tarjeta--container.row.mb-2
-      .col-md.tarjeta.color-primario.pri4.f1.p-5
-        .row.justify-content.mb-4
-          .col-6
+      .col-md.tarjeta.color-primario.pri4.p-5.pp
+        .row.justify-content.mb-3
+          .col-5.my-3
             figure
-              img.img-a.img-t(src='@/assets/curso/tema1/img63.svg', alt='Texto que describa la imagen')
+              img.img-a.img-t.d-none.d-lg-block(src='@/assets/curso/tema1/img63.svg', alt='Texto que describa la imagen')
         h2.text-white Estrategia de marcas múltiples o marquista
         p.text-white La empresa no existe para el usuario y es el producto el que manda.
           
-      .col-md.tarjeta.color-primario.pri5.p-5
-        .row.justify-content.mb-4
-          .col-6
+      .col-md.tarjeta.color-primario.pri5.p-5.pp
+        .row.justify-content.mb-3
+          .col-5.my-3
             figure
-              img.img-a.img-t(src='@/assets/curso/tema1/img64.svg', alt='Texto que describa la imagen')
+              img.img-a.img-t.d-none.d-lg-block(src='@/assets/curso/tema1/img64.svg', alt='Texto que describa la imagen')
         h2 Estrategia de marcas individuales
         p Consiste en poner un nombre distinto a cada uno de los productos comercializados por la empresa.
           
-      .col-md.tarjeta.color-primario.pri6.f2.p-5
-        .row.justify-content.mb-4
-          .col-6
+      .col-md.tarjeta.color-primario.pri6.p-5.pp
+        .row.justify-content.mb-3
+          .col-5.my-3
             figure
-              img.img-a.img-t(src='@/assets/curso/tema1/img65.svg', alt='Texto que describa la imagen')
+              img.img-a.img-t.d-none.d-lg-block(src='@/assets/curso/tema1/img65.svg', alt='Texto que describa la imagen')
         h2.text-white Estrategia de marcas para líneas de productos
         p.text-white Consiste en utilizar el mismo nombre de marca para varios productos relacionados entre sí.
     
@@ -734,41 +732,41 @@
         
         
     .tarjeta--container.row.mb-2
-      .col-md.tarjeta.color-primario.pri.f1.p-5
-        .row.justify-content.mb-4
-          .col-6
+      .col-md.tarjeta.color-primario.pri.p-5.pp
+        .row.justify-content.mb-3
+          .col-5.my-3
             figure
-              img.img-a.img-t(src='@/assets/curso/tema1/img66.svg', alt='Texto que describa la imagen')
+              img.img-a.img-t.d-none.d-lg-block(src='@/assets/curso/tema1/img66.svg', alt='Texto que describa la imagen')
         h2 Estrategia de segundas marcas
         p Son marcas que pertenecen a fabricantes que tienen en el mercado otras marcas de más prestigio.
-      .col-md.tarjeta.color-primario.pri2.p-5
-        .row.justify-content.mb-4
-          .col-6
+      .col-md.tarjeta.color-primario.pri2.p-5.pp
+        .row.justify-content.mb-3
+          .col-5.my-3
             figure
-              img.img-a.img-t(src='@/assets/curso/tema1/img67.svg', alt='Texto que describa la imagen')
+              img.img-a.img-t.d-none.d-lg-block(src='@/assets/curso/tema1/img67.svg', alt='Texto que describa la imagen')
         h2.text-white Estrategia de marcas apropiadas o de endoso
         p.text-white La marca es individual, pero recibe el respaldo de una marca establecida. Esto produce que la marca esté apoyada por el prestigio de la marca establecida.
-      .col-md.tarjeta.color-primario.pri3.f2.p-5
-        .row.justify-content.mb-4
-          .col-6
+      .col-md.tarjeta.color-primario.pri3.p-5.pp
+        .row.justify-content.mb-3
+          .col-5.my-3
             figure
-              img.img-a.img-t(src='@/assets/curso/tema1/img68.svg', alt='Texto que describa la imagen')
+              img.img-a.img-t.d-none.d-lg-block(src='@/assets/curso/tema1/img68.svg', alt='Texto que describa la imagen')
         h2 Estrategia #[em Above The Line (ATL)]
-        p Estrategia que implica el empleo de medios tradicionales o convencionales para publicitar la oferta y los mensajes de la empresa. Se trata de una estrategia que utiliza medios masivos para llegar al mayor número de público objetivo. Entre los medios masivos se encuentran: la televisión, radio, prensa y la publicidad exterior.
+        p.mb-0 Estrategia que implica el empleo de medios tradicionales o convencionales para publicitar la oferta y los mensajes de la empresa. Se trata de una estrategia que utiliza medios masivos para llegar al mayor número de público objetivo. Entre los medios masivos se encuentran: la televisión, radio, prensa y la publicidad exterior.
 
     .tarjeta--container.row.mb-2
-      .col-md.tarjeta.color-primario.pri8.f1.p-5
-        .row.justify-content.mb-4
-          .col-6
+      .col-md.tarjeta.color-primario.pri8.p-5.pp
+        .row.justify-content.mb-3
+          .col-3.my-3
             figure
-              img.img-a.img-t(src='@/assets/curso/tema1/img69.svg', alt='Texto que describa la imagen')
+              img.img-a.img-t.d-none.d-lg-block(src='@/assets/curso/tema1/img69.svg', alt='Texto que describa la imagen')
         h2 Estrategia #[em Below The Line (BTL)]
         p El empleo de esta estrategia se centra en utilizar medios no convencionales, que se caracterizan por ser menos masivos y más directos. Algunos de ellos son: las relaciones públicas, internet, #[em marketing] directo, promociones, etc. 
-      .col-md.tarjeta.color-primario.pri9.f2.p-5
-        .row.justify-content.mb-4
-          .col-6
+      .col-md.tarjeta.color-primario.pri9.p-5.pp
+        .row.justify-content.mb-3
+          .col-3.my-3
             figure
-              img.img-a.img-t(src='@/assets/curso/tema1/img70.svg', alt='Texto que describa la imagen')
+              img.img-a.img-t.d-none.d-lg-block(src='@/assets/curso/tema1/img70.svg', alt='Texto que describa la imagen')
         h2.text-white Estrategias 360º
         p.text-white Se basan en la utilización de una combinación de medios publicitarios masivos y no masivos. (p. 68-72).
 
@@ -786,7 +784,7 @@
             p.mb-0 Una vez estudiados los elementos relacionados con el #[em marketing,] es necesario compilar toda la información y las estrategias en un plan. La organización de la información permite el direccionamiento de las acciones con fines particulares. Por ello, un plan de mercadeo incluye varios pasos:
 
     
-    AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--grissss").mb-5
+    AcordionA.acordion(tipo="b" clase-tarjeta="tarjeta tarjeta--grissss").mb-5
       .row.p-4(titulo="Resumen ejecutivo")
         .col-md-1
           figure
@@ -871,10 +869,19 @@
 <script>
 export default {
   name: 'Tema1',
+  components: {},
   data: () => ({
     // variables de vue
   }),
+  mounted() {
+    this.$nextTick(() => {
+      this.$aosRefresh()
+    })
+  },
+  updated() {
+    this.$aosRefresh()
+  },
 }
 </script>
 
-<style lang="sass" scoped></style>
+<style lang="sass"></style>

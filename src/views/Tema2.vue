@@ -12,7 +12,7 @@
       figure.mb-4
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/Vukk_lp4dO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    
+        figcaption Video. Marketing Digital
     .row.align-items-center.justify-content-center.mb-0
       .col-lg-4.col-md-9.col-9
         img.img-a.img-t.mb-4(src='@/assets/curso/tema2/img1.png', alt='Texto que describa la imagen')
@@ -40,7 +40,7 @@
 
     .mb-5.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blues
-        h5.col.px-4.mb-0.neg #[em Cookie]
+        h4.col.px-4.mb-0.neg #[em Cookie]
     
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-4.col-md-9.col-9
@@ -58,8 +58,8 @@
           .col-lg-5.col-md-9.col-9
             img.img-a.img-t.mb-4(src='@/assets/curso/tema2/img4.png', alt='Texto que describa la imagen')
           .col-lg-7.col-md-12.col-12
-            .tarjeta.tarjeta--verde.p-5
-              SlyderA(tipo="b")
+            .tarjeta.tarjeta--verde
+              SlyderA(tipo="b").slider-a-custom.p-4
                 .row.align-items-top
                   .col-lg-12.col-md-12.col-12
                     p #[b 1. #[em Cookies] propias o de primera parte:] son las generadas y almacenadas única y exclusivamente por el dominio al que se está accediendo. Por ejemplo, las que se utilizan en las tiendas #[em online]. A medida que vas añadiendo productos al carrito de la compra, la información se almacena en una #[em cookie] que permite que en las siguientes páginas se puedan mantener los mismos productos. Las herramientas de medición como Google #[em Analytics] usan #[em cookies] de primera parte para hacer el seguimiento de las interacciones de los usuarios: para saber de dónde vienen, cuántas sesiones generan, qué páginas visitan, etc.
@@ -93,7 +93,7 @@
     
     .mb-4.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blues
-        h5.col.px-4.mb-0.neg Dimensión
+        h4.col.px-4.mb-0.neg Dimensión
     
     .row.align-items-center.justify-content-center.mb-4
       .col-lg-4.col-md-9.col-9
@@ -105,7 +105,7 @@
         
     .mb-4.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blues
-        h5.col.px-4.mb-0.neg Métrica
+        h4.col.px-4.mb-0.neg Métrica
 
     p.mb-4 Una métrica es lo que mide los datos. Algunos ejemplos de métricas son: usuarios, sesiones, páginas vistas.
     
@@ -144,7 +144,7 @@
     
     .mb-4.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blues
-        h5.col.px-4.mb-0.neg #[em KPI: (Key Performance Indicator)]
+        h4.col.px-4.mb-0.neg #[em KPI: (Key Performance Indicator)]
     
     p.mb-4 un #[em KPI] es un indicador clave de rendimiento, esto quiere decir que gracias a este tipo de indicadores es posible saber si se están cumpliendo o no los objetivos. Algunos ejemplos de #[em KPI] son: #[em ROI], tasa de rebote.
     
@@ -152,16 +152,16 @@
       .col-lg-12.col-md-12.col-12 
         .tarjeta--container.row.mb-2
           .col-md.tarjeta.color-primario.pri8.f1.p-5
-            .row.justify-content.mb-4
-              .col-6
+            .row.justify-content.mb-3
+              .col-3.my-4
                 figure
                   img.img-a.img-t.d-none.d-lg-block(src='@/assets/curso/tema2/img9.svg', alt='Texto que describa la imagen')
             h2  ROI #[em (Return On Investment)]
             p El ROI es el retorno de la inversión, es decir, qué cantidad de la que has invertido ha vuelto a la empresa. Este KPI mide la relación existente entre el beneficio neto y los costos. El método exacto para realizar el cálculo depende de los objetivos de la inversión que la empresa realice. Su fórmula es: 
             p.mb-4 ROI = [(ingresos - inversión) / inversión] * 100
           .col-md.tarjeta.color-primario.pri9.f2.p-5
-            .row.justify-content.mb-4
-              .col-6
+            .row.justify-content.mb-3
+              .col-3.my-4
                 figure
                   img.img-a.img-t.d-none.d-lg-block(src='@/assets/curso/tema2/img10.svg', alt='Texto que describa la imagen')
             h2.text-white Tasa de rebote
@@ -175,23 +175,23 @@
     
     .mb-4.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blues
-        h5.col.px-4.mb-0.neg Cuadro de mando #[em  (scorecard)]
+        h4.col.px-4.mb-0.neg Cuadro de mando #[em  (scorecard)]
     
     p.mb-4 El cuadro de mando o #[em scorecard] en inglés, es una relación de KPI agrupados de forma lógica que muestran de un vistazo si se están alcanzando o no los objetivos para poder tomar decisiones de forma rápida. Para conseguir este propósito, en el cuadro de mando solo debe mostrarse la información estrictamente necesaria. Es decir, la que permita saber si se están cumpliendo o no los objetivos.
     
     .mb-4.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blues
-        h5.col.px-4.mb-0.neg  Panel de control #[em (dashboard)]
+        h4.col.px-4.mb-0.neg  Panel de control #[em (dashboard)]
     
     p.mb-5 En los paneles de control se recogen diversos KPI, tablas de segmentación y diferentes gráficos con el objetivo de analizar cada estrategia/acción que se ha realizado para conseguir los objetivos del negocio.
     
     .row.align-items-center.justify-content-center.mb-0
-      .col-lg-10.col-md-12.col-12
+      .col-lg-12.col-md-12.col-12
         .caja1.p-4
           .row.align-items-center.justify-content-center
-            .col-lg-2
+            .col-lg-1
               img.img-a.img-t.d-none.d-lg-block(src="@/assets/curso/tema1/img1.svg")
-            .col-lg-10.col-md-12.col-12
+            .col-lg-11.col-md-12.col-12
               h4.mb-0.text-white #[b Imaginemos que uno de los objetivos es mejorar el #[em Engagement Rate (ER)] de #[em Twitter], el cual lo vamos a calcular dividiendo el total de interacciones entre el número de seguidores y multiplicando el resultado por cien. En este caso, en el cuadro de mando tendremos este #[em KPI] para saber si estamos cumpliendo o no los objetivos. (Capítulo 2. Terminología básica)].
     
     Separador
@@ -212,27 +212,27 @@
     .row.align-items-center.justify-content-center.mb-0
       .col-lg-12.col-md-12.col-12
         .tarjeta--container.row.mb-2
-          .col-md.tarjeta.color-primario.f1.pri.p-5
-            .row.justify-content.mb-4
-              .col-6
+          .col-md.tarjeta.color-primario.pri.p-5.pp
+            .row.justify-content.mb-3
+              .col-5.my-3
                 figure
-                  img.img-a.img-t.d-none.d-lg-block(src='@/assets/curso/tema1/img60.svg', alt='Texto que describa la imagen')
+                  img.img-a.img-t.d-none.d-lg-block(src='@/assets/curso/tema2/i66.svg', alt='Texto que describa la imagen')
             h2 Medición
             p Consiste en la recopilación de datos asociados a la actividad de los usuarios en un sitio #[em web], aplicación móvil o cualquier otro medio digital.
           
-          .col-md.tarjeta.color-primario.pri2.p-5
-            .row.justify-content.mb-4
-              .col-6
+          .col-md.tarjeta.color-primario.pri2.p-5.pp
+            .row.justify-content.mb-3
+              .col-5.my-3
                 figure
-                  img.img-a.img-t.d-none.d-lg-block(src='@/assets/curso/tema1/img61.svg', alt='Texto que describa la imagen')
+                  img.img-a.img-t.d-none.d-lg-block(src='@/assets/curso/tema2/i67.svg', alt='Texto que describa la imagen')
             h2.text-white Análisis
             p.text-white Consiste en el estudio y la comprensión de los datos, gracias a la segmentación de estos según diferentes criterios.
           
-          .col-md.tarjeta.color-primario.pri3.f2.p-5
-            .row.justify-content.mb-4
-              .col-6
+          .col-md.tarjeta.color-primario.pri3.p-5.pp
+            .row.justify-content.mb-3
+              .col-5.my-3
                 figure
-                  img.img-a.img-t.d-none.d-lg-block(src='@/assets/curso/tema1/img62.svg', alt='Texto que describa la imagen')
+                  img.img-a.img-t.d-none.d-lg-block(src='@/assets/curso/tema2/i68.svg', alt='Texto que describa la imagen')
             h2 #[em Reporting]
             p Consiste en plasmar los datos en informes útiles que permitan tomar decisiones.
 
@@ -249,7 +249,7 @@
     
     .mb-4.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
-        h4.col.px-4.mb-0.mx-5.neg Buscador de Google
+        h3.col.px-5.mb-0.mx-5.neg Buscador de Google
         img.clase4.d-none.d-lg-block(src='@/assets/curso/tema2/img13.svg')
     
     p.mb-5 Las búsquedas en Google son el primer paso para conocer el estado de una empresa y para el desarrollo inicial de las estrategias de comunicación. Para alguien que trabaje en comunicación digital es importante conocer todas las acciones y posibilidades que este buscador ofrece:
@@ -262,7 +262,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-8
             .cajam
-              h4.text-center.text-white #[em Google Trends]
+              h4.text-center.text-white Google Trends
         p.text-center Permite hacer un seguimiento del interés que se tiene por una marca en particular a nivel mundial, nacional o local, también investigar a los competidores en los mismos aspectos y lo más importante, ver las tendencias de búsquedas que realizan las personas en un determinado momento y lugar.
       .tarjeta.color-acento-botones.p-4
         .row.justify-content-center.mb-3
@@ -271,7 +271,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-8
             .cajam
-              h4.text-center.text-white #[em Board reader]
+              h4.text-center.text-white Board reader
         p.text-center En este buscador cualquier marca a nivel mundial puede conocer lo que están opinando de ella en foros y comunidades. Es muy útil porque se centra en foros, un elemento que sería muy dispendioso de analizar si se hiciese uno por uno.
       .tarjeta.color-acento-botones.p-4
         .row.justify-content-center.mb-3
@@ -280,7 +280,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-8
             .cajam
-              h4.text-center.text-white #[em How sociable]
+              h4.text-center.text-white How sociable
         p.text-center Es una herramienta muy útil para conocer el nivel de influencia que se tiene en las diferentes redes sociales.
       .tarjeta.color-acento-botones.p-4
         .row.justify-content-center.mb-3
@@ -298,7 +298,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-8
             .cajam
-              h4.text-center.text-white #[em Linkfluence]
+              h4.text-center.text-white Linkfluence
         p.text-center Esta plataforma permite realizar una medición permanente de segmentación y mapeo de conversaciones de las diferentes comunidades. Se integra con #[em e-reputation, engage] y observatorio de tendencias para monitorizar el nivel de influencia y reputación de una marca en particular.
       .tarjeta.color-acento-botones.p-4
         .row.justify-content-center.mb-3
@@ -307,7 +307,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-8
             .cajam
-              h4.text-center.text-white #[em Social Mention]
+              h4.text-center.text-white Social Mention
         p.text-center Esta plataforma permite realizar seguimiento en redes sociales de comentarios o publicaciones realizadas por los usuarios referentes a un tema determinado.
       .tarjeta.color-acento-botones.p-4
         .row.justify-content-center.mb-3
@@ -316,13 +316,13 @@
         .row.justify-content-center.align-items-center
           .col-lg-9
             .cajam
-              h4.text-center.text-white #[em Crimson Hexagon]
+              h4.text-center.text-white Crimson Hexagon
         p.text-center Es un sistema de monitoreo de redes sociales para realizar un análisis global de marcas y organizaciones, conociendo las opiniones de consumidores y los puntos de vista que estos tienen de la empresa, los productos, la industria y la competencia.
 
     .mb-5.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
-        h4.col.px-4.mb-0.mx-5.neg Analítica #[em web]
-        img.clase4.d-none.d-lg-block(src='@/assets/curso/tema2/img13.svg')
+        h3.col.px-5.mb-0.mx-5.neg Analítica #[em web]
+        img.clase4.d-none.d-lg-block(src='@/assets/curso/tema2/prueba.svg')
     
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-10.col-md-12.col-12
@@ -332,23 +332,30 @@
           )
           .bloque-texto-g__texto.p-5
             p.mb-0 Consiste en la recolección, almacenamiento y análisis de datos estadísticos que surgen del funcionamiento de un sitio #[em web]. Esta información se estudia con el fin de generar conocimiento relevante para el desarrollo de las actividades de #[em marketing] digital. La analítica #[em web] permite realizar diferentes tipos de actividades:
-    
-    .row.justify-content.mb-0
-      .col-lg-12.col-md-12.col-12
-        .row.justify-content.mb-5
-          .col-lg-6.col-md-12.col-12
-            img.img-a.img-t.d-none.d-lg-block.mb-4.mov(src='@/assets/curso/tema2/img66.svg' alt='AvatarTop')
-            p.mb-0.br-cus #[b 1. Diseño de estrategias de #[em marketing] en redes sociales.]
-            img.img-a.img-t.d-none.d-lg-block.mb-4.mov(src='@/assets/curso/tema2/img66.svg' alt='AvatarTop')
-            p.mb-0.br-cus #[b 2. El tipo de comunicación que la empresa debe realizar utilizando múltiples medios.]
-            img.img-a.img-t.d-none.d-lg-block.mb-4.mov(src='@/assets/curso/tema2/img66.svg' alt='AvatarTop')
-            p.mb-0.br-cus #[b 3. Integración entre los objetivos de mercado y comunicación.]
-          .col-lg-6.col-md-12.col-12
-            img.img-a.img-t.d-none.d-lg-block.mb-4.mov(src='@/assets/curso/tema2/img66.svg' alt='AvatarTop')
-            p.mb-5 #[b 4. Desarrollo de estrategias financieras alineadas con el #[em marketing] digital.]
-            img.img-a.img-t.d-none.d-lg-block.mb-4.mov(src='@/assets/curso/tema2/img66.svg' alt='AvatarTop')
-            p.mb-0 #[b 5. Medición continua y eficaz de las acciones de #[em marketing] realizadas en toda la plataforma de la empresa.]
-    
+  
+    .row.justify-content.mb-4
+      .col-lg-5.col-md-12.col-12
+        img.img-a.img-t.d-none.d-lg-block.mb-4.mov(src='@/assets/curso/tema2/img66.svg' alt='AvatarTop')
+        p.mb-0 #[b 1. Diseño de estrategias de #[em marketing] en redes sociales.]
+        .mb-5
+        img.img-a.img-t.d-none.d-lg-block.mb-3.mov.mt-4(src='@/assets/curso/tema2/img66.svg' alt='AvatarTop')
+        p.mb-0 #[b 2. El tipo de comunicación que la empresa debe realizar utilizando múltiples medios.]
+        .mb-5
+        img.img-a.img-t.d-none.d-lg-block.mb-3.mov(src='@/assets/curso/tema2/img66.svg' alt='AvatarTop')
+        p.mb-0 #[b 3. Integración entre los objetivos de mercado y comunicación.]
+        .mb-5
+      .col-lg-1.col-md-12.col-12
+        .br-cus.mb-5.d-none.d-lg-block
+        .br-cus.mb-5.d-none.d-lg-block
+        .br-cus.mb-5.d-none.d-lg-block
+      .col-lg-5.col-md-12.col-12
+        img.img-a.img-t.d-none.d-lg-block.mb-4.mov.mb-4(src='@/assets/curso/tema2/img66.svg' alt='AvatarTop')
+        p.mb-0 #[b 4. Desarrollo de estrategias financieras alineadas con el marketing digital.]
+        .mb-5
+        img.img-a.img-t.d-none.d-lg-block.mb-4.mov(src='@/assets/curso/tema2/img66.svg' alt='AvatarTop')
+        p.mb-0 #[b 5. Medición continua y eficaz de las acciones de marketing realizadas en toda la plataforma de la empresa.]
+        .mb-5
+        
     .row.align-items-center.justify-content-center.mb-4
       .col-lg-12.col-md-12.col-12
         .caja6.p-4
@@ -378,7 +385,7 @@
     
     .mb-0.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
-        h4.col.px-4.mb-0.mx-5.neg Mediciones en Facebook
+        h3.col.px-5.mb-0.mx-5.neg Mediciones en Facebook
         img.clase4.d-none.d-lg-block(src='@/assets/curso/tema2/img23.svg')
     
     .row.align-items-center.justify-content-center.mb-4
@@ -397,14 +404,14 @@
           .col-lg-5.col-md-9.col-9
             img.img-a.img-t.mb-4(src='@/assets/curso/tema2/img25.svg', alt='Texto que describa la imagen')
           .col-lg-7.col-md-12.col-12
-            .tarjeta.tarjeta--verde.p-5
+            .tarjeta.tarjeta--verde.p-4.pek
               SlyderA(tipo="b")
                 .row
                   .col-lg-12.col-md-12.col-12
                     p #[b Total de “me gusta”:] indica el número de personas que les gusta la página; relaciona también el porcentaje de aumento o disminución de la métrica semanal.
                 .row
                   .col-lg-12.col-md-12.col-12
-                    p #[b Amigos de los fans:] muestra el número de personas que eran amigos de los que hicieron clic en “me gusta” y relaciona el porcentaje de aumento o disminución semanal.
+                    p #[b Amigos de los #[em fans]:] muestra el número de personas que eran amigos de los que hicieron clic en “me gusta” y relaciona el porcentaje de aumento o disminución semanal.
                 .row
                   .col-lg-12.col-md-12.col-12
                     p #[b Personas que están hablando de esto:] indica el número de personas que realizaron algún tipo de actividad en la última semana relacionada con una página: hacer un #[em post,] compartir una publicación, responder a un evento o a una pregunta, etiquetar a alguien, mencionarla en otra publicación.
@@ -461,7 +468,7 @@
     
     .mb-4.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
-        h4.col.px-4.mb-0.mx-5.neg Enfoque del Social #[em CRM]
+        h3.col.px-5.mb-0.mx-5.neg Enfoque del Social #[em CRM]
         img.clase4.d-none.d-lg-block(src='@/assets/curso/tema2/img27.svg')
     
     p.mb-4 En el enfoque del Social #[em CRM] existen cuatro elementos básicos para tener en cuenta:
@@ -601,19 +608,19 @@
 
     Separador
     #t_2_6.titulo-segundo.mb-4
-      h2 2.6 SEO en el #[em marketing] digital          
+      h2 2.6 #[em SEO] en el #[em marketing] digital          
   
     .row.align-items-center.justify-content-center.mb-4
       .col-lg-4.col-md-9.col-9
         img.img-a.img-t.mb-4(src='@/assets/curso/tema2/img24.png', alt='Texto que describa la imagen')
       .col-lg-8.col-md-12.col-12
         .cajon.color-secundario.p-4.mb-4.my-4
-          p.mb-0 #[b Inicialmente el SEO (del inglés #[em Search Engine Optimization]) se enmarca en las estrategias del #[em marketing] relacional y el colaborativo, que tienden a primar el buscador como canal de publicidad para públicos muy segmentados (aquellos que utilicen cierta búsqueda concreta) y, finalmente, el ideal de una estrategia de #[em SEO] implica crear una red propia de usuarios fidelizados que hablen bien y proactivamente de la marca.]
+          p.mb-0 #[b Inicialmente el #[em SEO] (del inglés #[em Search Engine Optimization]) se enmarca en las estrategias del #[em marketing] relacional y el colaborativo, que tienden a primar el buscador como canal de publicidad para públicos muy segmentados (aquellos que utilicen cierta búsqueda concreta) y, finalmente, el ideal de una estrategia de #[em SEO] implica crear una red propia de usuarios fidelizados que hablen bien y proactivamente de la marca.]
         p.mb-0 Por eso es importante primero pensar qué tipo de estrategia global se va a llevar a cabo, y en función de esta, pensar en él y no antes. Así, en la relación entre #[em marketing] y #[em SEO] se debe tener en cuenta: #[em marketing] no es #[em SEO] y #[em SEO] no es #[em marketing;] el #[em marketing] es un concepto más amplio que el #[em SEO]. Primero se debe estudiar la estrategia de #[em marketing] y su continuación. La unión de #[em marketing] + #[em SEO] debe llevar a visitas que lleven a acciones y posiblemente esas acciones lleven a ventas o conversiones. Serrano (2015).
 
     .mb-4.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
-        h4.col.px-4.mb-0.mx-5.neg SEM
+        h3.col.px-5.mb-0.mx-5.neg #[em SEM]
         img.clase4.d-none.d-lg-block(src='@/assets/curso/tema2/img42.svg')
     
     p.mb-4 En el enfoque del Social #[em CRM] existen cuatro elementos básicos para tener en cuenta:
@@ -625,11 +632,11 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema2/img43.png')})`}"
           )
           .bloque-texto-g__texto.p-5
-            p.mb-0 El SEM (del inglés #[em Search Engine Marketing]) a diferencia de #[em SEO,] utiliza herramientas que los buscadores ofrecen para el desarrollo de estrategias de posicionamiento a través de anuncios publicitarios pagos, como es el caso de Google Adwords; esto requiere la selección de palabras claves, creación de anuncios y gestión de pauta. Se pueden realizar a través de PPC (Pago Por Clic) y PCP (Costo Por Clic).
+            p.mb-0 El #[em SEM] (del inglés #[em Search Engine Marketing]) a diferencia de #[em SEO,] utiliza herramientas que los buscadores ofrecen para el desarrollo de estrategias de posicionamiento a través de anuncios publicitarios pagos, como es el caso de Google Adwords; esto requiere la selección de palabras claves, creación de anuncios y gestión de pauta. Se pueden realizar a través de PPC (Pago Por Clic) y PCP (Costo Por Clic).
 
     .row.align-items-center.justify-content-center.mb-0
       .col-lg-4.col-md-12.col-12
-        p.mb-4.my-4 #[b El SEM tiene varias ventajas que se verán a continuación:]
+        p.mb-4.my-4 #[b El #[em SEM] tiene varias ventajas que se verán a continuación:]
         ul.lista-ul--color
           li.d-flex.mb-0
             i.fas.fa-plus.mas
@@ -671,13 +678,13 @@
       .col-lg-4.col-md-9.col-9
         img.img-a.img-t(src='@/assets/curso/tema2/img46.png', alt='Texto que describa la imagen')
       .col-lg-8.col-md-12.col-12
-        p.mb-4.my-4 En la #[em web] hay múltiples opciones de hacer promoción para las empresas y marcas, desde alternativas gratuitas que implican un proceso más orgánico y lento para el logro de posicionamiento de marca, incremento en ventas y reconocimiento por parte del mercado meta; hasta el pago de pauta en sitios #[em web] incluidos en la red #[em Display] de Google a través de su plataforma de pago #[em Adwords], la cual incluye anuncios en YouTube.
+        p.mb-4.my-4 En la #[em web] hay múltiples opciones de hacer promoción para las empresas y marcas, desde alternativas gratuitas que implican un proceso más orgánico y lento para el logro de posicionamiento de marca, incremento en ventas y reconocimiento por parte del mercado meta; hasta el pago de pauta en sitios #[em web] incluidos en la red #[em Display] de Google a través de su plataforma de pago Adwords, la cual incluye anuncios en YouTube.
         .cajon.color-secundario.p-4.mb-4
           p.mb-0 #[b También en Facebook, la red social más grande del mundo con más de 2400 millones de cuentas inscritas y que permite una serie de modelos de publicidad pagada, que va desde publicaciones que llegan a segmentos específicos hasta campañas muy bien estructuradas que incluyen una completa planificación por temporadas establecidas.]
         
     .mb-4.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
-        h4.col.px-4.mb-0.mx-5.neg Google Adwords
+        h3.col.px-5.mb-0.mx-5.neg Google Adwords
         img.clase4.d-none.d-lg-block(src='@/assets/curso/tema2/img47.svg')
     
     .row.align-items-center.justify-content-center.mb-5
@@ -725,7 +732,7 @@
     
     .mb-4.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
-        h4.col.px-4.mb-0.mx-5.neg Facebook #[em Ads]
+        h3.col.px-5.mb-0.mx-5.neg Facebook #[em Ads]
         img.clase4.d-none.d-lg-block(src='@/assets/curso/tema2/img50.svg')
     
     .row.align-items-center.justify-content-center.mb-0
@@ -765,7 +772,7 @@
 
     .mb-4.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blues
-        h5.col.px-4.mb-0.neg Tipos de campañas que se pueden realizar a través de Facebook  #[em Ads:]
+        h4.col.px-4.mb-0.neg Tipos de campañas que se pueden realizar a través de Facebook  #[em Ads:]
     
     p.mb-4 De la misma forma como en cualquier otro medio, sea convencional o alternativo, Facebook ha desarrollado una serie de posibilidades de campañas y estrategias de comunicación, de acuerdo con las necesidades y posibilidades de los anunciantes:
   
@@ -921,7 +928,7 @@
 
     Separador
     #t_2_9.titulo-segundo.mb-4
-      h2 2.9 Plan de #[em marketing] digital.
+      h2 2.9 Plan de #[em marketing] digital
 
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-4.col-md-8.col-8
@@ -949,14 +956,14 @@
         .tarjeta-avatar
           img.img-a.img-t.img-w2(src='@/assets/curso/tema2/img63.svg',alt='tema2')
           div.bg15.p-4.pt-5.h-100
-            p.mb-0.my-5.text-center #[b Plan de medios digital  < seleccionar por lo menos 1 medio #[em offline] como apoyo a las estrategias #[em online] >.] 
+            p.mb-0.my-5.text-center #[b Plan de medios digital < seleccionar por lo menos 1 medio #[em offline] como apoyo a las estrategias #[em online] >] 
 
     .row.justify-content-center.mb-0
       .col-lg-6.col-md-6.col-12.my-3.mb-2
         .tarjeta-avatar
           img.img-a.img-t.img-w2.mb-5(src='@/assets/curso/tema2/img64.svg',alt='tema2')
           div.bg15.p-4.h-100.p-5
-            p.mb-4.my-5.text-center #[b Estrategias de comercialización y promoción online] 
+            p.mb-4.my-5.text-center #[b Estrategias de comercialización y promoción #[em online]] 
             ul.lista-ul--color
               li.d-flex.mb-0
                 i.fas.fa-plus.mas
@@ -978,7 +985,7 @@
                 p Seguimiento a clientes < estrategias postventa >
               li.d-flex.mb-0
                 i.fas.fa-plus.mas
-                p Sistema de información de mercados < data >
+                p Sistema de información de mercados < #[em data] >
               li.d-flex.mb-0
                 i.fas.fa-plus.mas
                 p Estructuración de redes sociales para comunicación con los clientes
@@ -1003,17 +1010,26 @@
                 p Costo del impacto
               li.d-flex.mb-0
                 i.fas.fa-plus.mas
-                p Cálculo de CPM
+                p Cálculo de #[em CPM]
   
 </template>
 
 <script>
 export default {
   name: 'Tema2',
+  components: {},
   data: () => ({
     // variables de vue
   }),
+  mounted() {
+    this.$nextTick(() => {
+      this.$aosRefresh()
+    })
+  },
+  updated() {
+    this.$aosRefresh()
+  },
 }
 </script>
 
-<style lang="sass" scoped></style>
+<style lang="sass"></style>

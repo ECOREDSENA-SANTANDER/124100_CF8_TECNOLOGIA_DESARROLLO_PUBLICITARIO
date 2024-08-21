@@ -88,15 +88,6 @@
     border-color: #FFD947;
     opacity: 1;
 
-.tarjeta--container > .tarjeta:first-child 
-    border-top-left-radius: 0px;
-    border-bottom-left-radius: 0px;
-    background-color: #EFFAF4
-.tarjeta--container > .tarjeta:last-child 
-    border-top-right-radius: 0px;
-    border-bottom-right-radius: 0px;
-    background-color: #FFF8DA
-  
 .cajon.color-secundario 
     background-color: #e7f8f8;
 
@@ -134,7 +125,8 @@
 
 .tabs-c.color-primario .tabs-c__tab--active 
     border-bottom-color: #62529B !important;
-
+    background-color: #ffffff
+    font-weight: 900;
 .tabs-c__tab--active 
     border-bottom: 6px solid !important;
 
@@ -159,23 +151,31 @@
     content: "\f058";
 
 .lista-ul--color li > i:first-of-type 
-    color: #D3D3D3;
+    color: #D3D3D3
 
 
-.tarjeta--gris
-  background: url('../assets/curso/tema1/img25.png')
-  background-size: 100% 100%
-  background-repeat: no-repeat
-  background-position: center 
-  border-radius: 15px;
+.acordion 
+    .acordion__activo
+      background-image: url('../assets/curso/tema1/gt.svg')
+      background-size: 100% 100%
+      background-repeat: no-repeat
+      background-position: center 
+    .tarjeta--gris
+      background-color: #fff
+      border-bottom: 0.5px solid #D3D3D3 !important
+      border-radius: 0px
+
 
 .lista-ul--color li > i.mas:first-of-type 
     color: #673AB7;
 
+.acordion.activo 
+.acordion__activo .acordion__accion__btn--b
+    background-color: #FFD947 
 
 .acordion__accion__btn--b 
-    border: 1px solid #ffffff;
-    background-color: #FFD947
+    border: 1px solid #afafaf
+
 
 .clase4
   max-width: 70px
@@ -187,89 +187,118 @@
     border-left: 6px solid;
     padding: 5px 0 5px 15px;
 
-.tarjeta--griss
-  background: url('../assets/curso/tema1/img36.png')
-  background-repeat: round;
-  border-radius: 15px
+
+.acordion 
+    .acordion__activo
+      background: url('../assets/curso/tema1/img36.png')
+      background-repeat: round;
+      border-radius: 15px
+    .tarjeta--griss
+      background-color: #fff
+      border-bottom: 0.5px solid #D3D3D3 !important
+      border-radius: 0px
+
+
 
 .bg-img-blues
   padding: 14px
   background-color: #D8D4E2
   border-radius: 0px 20px 20px 0px
 
-.tarjeta--grisss
-  background: url('../assets/curso/tema1/img59.png')
-  background-repeat: round;
-  border-radius: 15px
 
-.tarjeta.color-primario.f1
-  border-radius:  25px 0px 0px 25px
 
-.tarjeta.color-primario.f2
-  border-radius: 0px 25px 25px 0px
+.acordion 
+    .acordion__activo
+      background: url('../assets/curso/tema1/img59.png')
+      background-repeat: round;
+      border-radius: 15px
+    .tarjeta--grisss
+      background-color: #fff
+      border-bottom: 0.5px solid #D3D3D3 !important
+      border-radius: 0px
+
+
+
 
 .pri
   background: url('../assets/curso/tema1/img71.jpg')
   background-size: 100% 100%
-  background-repeat: no-repeat
   background-position: center 
-  border-radius: 15px;
+
 
 .pri2
   background: url('../assets/curso/tema1/img72.jpg')
   background-size: 100% 100%
-  background-repeat: no-repeat
   background-position: center 
-  border-radius: 15px;
 
 .pri3
   background: url('../assets/curso/tema1/img73.jpg')
   background-size: 100% 100%
-  background-repeat: no-repeat
   background-position: center 
-  border-radius: 15px;
+
 
 .pri4
   background: url('../assets/curso/tema1/img74.jpg')
   background-size: 100% 100%
-  background-repeat: no-repeat
   background-position: center 
-  border-radius: 15px;
 
 .pri5
   background: url('../assets/curso/tema1/img75.jpg')
   background-size: 100% 100%
-  background-repeat: no-repeat
   background-position: center 
-  border-radius: 15px;
 
 .pri6
   background: url('../assets/curso/tema1/img76.jpg')
   background-size: 100% 100%
-  background-repeat: no-repeat
   background-position: center 
-  border-radius: 15px;
 
 .pri8
   background: url('../assets/curso/tema1/img77.jpg')
   background-size: 100% 100%
-  background-repeat: no-repeat
   background-position: center 
-  border-radius: 15px;
 
 .pri9
   background: url('../assets/curso/tema1/img78.jpg')
   background-size: 100% 100%
-  background-repeat: no-repeat
   background-position: center 
-  border-radius: 15px;
 
-.tarjeta--grissss
-  background: url('../assets/curso/tema1/img88.png')
-  background-size: 100% 100%
-  background-repeat: no-repeat
-  background-position: center 
-  border-radius: 15px;
+.pri.p-5 
+  padding: 2rem !important
+
+.pri2.p-5 
+  padding: 2rem !important
+
+.pri3.p-5 
+  padding: 2rem !important
+
+.pri4.p-5 
+  padding: 2rem !important
+
+.pri5.p-5 
+  padding: 2rem !important
+
+.pri6.p-5 
+  padding: 2rem !important
+
+.pri8.p-5 
+  padding: 2rem !important
+  
+.pri9.p-5 
+  padding: 2rem !important
+
+
+
+.acordion 
+    .acordion__activo
+      background: url('../assets/curso/tema1/img88.png')
+      background-repeat: round;
+      border-radius: 15px
+    .tarjeta--grissss
+      background-color: #fff
+      border-bottom: 0.5px solid #D3D3D3 !important
+      border-radius: 0px
+
+
 
 .banner-principal p, .banner-principal h1, .banner-principal h2, .banner-principal h3, .banner-principal h4, .banner-principal h5, .banner-principal h6 
     color: #0a0a0a;
@@ -311,8 +340,7 @@
 .mov
   position: relative;
   left: -42%;
-  top: -5px;
-
+  margin-top: -7%
 
 
 .bloque-texto-g.color-secundario 
@@ -340,59 +368,160 @@
 .br-cus
   border-right: 2px solid #000
   padding-right: 20px
-  height: 80px
+  height: 100px
   background-position: center;
-
-.mov 
-    position: absolute;
-    top: -9%;
-    left: 12%;
-    height: 497px;
-    max-width: 500px;
-    z-index: 2;
+  margin-top: -5%
 
 
 .hei
   position: relative;
 
 .move 
-    position: absolute;
-    top: -13%;
-    left: 59%;
-    height: 400px;
-    max-width: 500px;
-    z-index: 2;
+    margin-top: -11%
+.movet
+  margin-top: -7%
+  margin-block-end: -5%
 
-
-
-.tarjeta-avatar-b__img.modi
-    min-width: 17%;
 .tarjeta-avatar-b .tarjetay 
-    width: 100%;
+    width: 75%;
     margin-left: -10%;
-    padding-left: 4%;
-.tarjeta--azul1
-    background-color: #DFF5F5;
-    border-radius: 10px;
-.tarjeta--azul2
-    background-color: #CEF0F0;
-    border-radius: 10px;
-.tarjeta--azul3
-    background-color: #BEEBEB;
-    border-radius: 10px;
-.tarjeta--azul4
-    background-color: #AEE6E6;
-    border-radius: 10px;
+
+  
 
 .tarjeta-avatar-b 
   display: flex;
 
 .mbo
   margin-bottom: -0.5rem
-.mover 
-    position: absolute;
-    top: -19%;
-    left: 56%;
-    height: 617px;
-    max-width: 540px;
-    z-index: 2;
+
+
+
+
+
+
+
+@media (max-width: 768px) 
+    .slyder-a__bullets__item 
+        width: 15px
+        height: 15px
+        margin: 0px 1px
+.mnl-1
+  margin-left: -8.5% 
+  z-index: 9999
+  @media (max-width: 576px)
+    margin-left: 0px
+
+
+.bg44
+  background-color: #EFFAF4
+
+.bg45
+  background-color: #FFF8DA
+
+
+.sobre1
+  content: url('../assets/curso/tema1/sobre1.svg')
+
+
+.crd--avatarHorizontal.crd--first1
+  position: relative
+  padding-right: 30rem
+  & > *
+    position: relative
+  p 
+    margin-bottom: 0
+  &::before  
+    position: absolute 
+    content: ''
+    top: 0
+    right: 0
+    width: calc( 100% - 60px)
+    height: 100%
+    background-color: #DFF5F5
+
+  @media (max-width: 1000px)
+    padding-right: 2rem
+
+.crd--avatarHorizontal.crd--first2
+  position: relative
+  padding-right: 30rem
+  & > *
+    position: relative
+  p 
+    margin-bottom: 0
+  &::before  
+    position: absolute 
+    content: ''
+    top: 0
+    right: 0
+    width: calc( 100% - 60px)
+    height: 100%
+    background-color:  #CEF0F0
+
+  @media (max-width: 1000px)
+    padding-right: 2rem
+
+.crd--avatarHorizontal.crd--first3
+  position: relative
+  padding-right: 30rem
+  & > *
+    position: relative
+  p 
+    margin-bottom: 0
+  &::before  
+    position: absolute 
+    content: ''
+    top: 0
+    right: 0
+    width: calc( 100% - 60px)
+    height: 100%
+    background-color:  #BEEBEB
+
+  @media (max-width: 1000px)
+    padding-right: 2rem
+
+.crd--avatarHorizontal.crd--first4
+  position: relative
+  padding-right: 30rem
+  & > *
+    position: relative
+  p 
+    margin-bottom: 0
+  &::before  
+    position: absolute 
+    content: ''
+    top: 0
+    right: 0
+    width: calc( 100% - 60px)
+    height: 100%
+    background-color:  #AEE6E6
+
+  @media (max-width: 1000px)
+    padding-right: 2rem
+
+
+.crd--first, .crd--last
+  &::before 
+    background-color: #DDEDF8 !important
+
+
+.avatar
+  position: absolute
+  bottom: 0
+  right: 0rem
+  z-index: 1
+  @media (max-width: 1000px)
+    display: none
+
+.py-4 
+    padding-top: 0.2rem !important
+    padding-bottom: 0.2rem !important
+
+
+
+.tarjeta.color-primario 
+    background-color: #EFFAF4
+
+
+.tarjeta.color-acento-contenido 
+    background-color: #FFF8DA

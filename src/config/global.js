@@ -2,8 +2,8 @@ export default {
   global: {
     componenteFormativo: 'Plan de <em>Marketing</em> digital',
     descripcionCurso:
-      'El <em>marketing</em> digital permite que la marca cree una comunidad propia a través de una red social, llegando de forma exclusiva al <em>target</em> específico, porque es ahora el usuario quien decide seguir la marca con su consentimiento, generando una interacción de conveniencia para ambos. Por ejemplo, en el <em>marketing</em> digital el padre que tal vez vio el anuncio publicitario en TV tiene la opción de obtener más y mejor información en la cuenta de Facebook o Instagram de la marca de cuchillas de su preferencia, comprar a través de su sitio web y aprender allí la técnica más adecuada para tener el afeitado perfecto.',
-    imagenBannerPrincipal: require('@/assets/curso/banner-principal.svg'),
+      'El <em>marketing</em> digital permite que la marca cree una comunidad propia a través de una red social, llegando de forma exclusiva al <em>target</em> específico, porque es ahora el usuario quien decide seguir la marca con su consentimiento, generando una interacción de conveniencia para ambos. Por ejemplo, en el <em>marketing</em> digital el padre que tal vez vio el anuncio publicitario en TV tiene la opción de obtener más y mejor información en la cuenta de Facebook o Instagram de la marca de cuchillas de su preferencia, comprar a través de su sitio <em>web</em> y aprender allí la técnica más adecuada para tener el afeitado perfecto.',
+    imagenBannerPrincipal: require('@/assets/curso/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-bg.jpg'),
     imagenesDecorativasBanner: [
       {
@@ -418,7 +418,7 @@ export default {
         },
         {
           nombre: 'Carolina Jiménez Suescún',
-          cargo: 'Evaluador Instruccional',
+          cargo: 'Evaluadora Instruccional',
           centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
@@ -438,7 +438,7 @@ export default {
         },
         {
           nombre: 'Maria Alejandra Vera Briceño',
-          cargo: 'Animador y Productor Multimedia',
+          cargo: 'Animadora y Productora Multimedia',
           centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
@@ -448,17 +448,17 @@ export default {
       autores: [
         {
           nombre: 'Yineth Ibette Gonzalez Quintero',
-          cargo: 'Validador de Recursos Educativos Digitales',
+          cargo: 'Validadora de Recursos Educativos Digitales',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {
           nombre: 'Laura Paola Gelvez Manosalva',
-          cargo: 'Validador de Recursos Educativos Digitales',
+          cargo: 'Validadora de Recursos Educativos Digitales',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {
           nombre: 'Erika Fernanda Mejía Pinzón',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          cargo: 'Evaluadora para contenidos inclusivos y accesibles',
           centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
