@@ -70,7 +70,7 @@
     #t_1_2.titulo-segundo.mb-5
       h2 1.2 Variables del #[em marketing]
 
-    .row.align-items-center.justify-content-center.mb-5
+    .row.align-items-center.justify-content-center.mb-4
       .col-lg-10.col-md-12.col-12
         .caja1.p-4
           .row.align-items-center.justify-content-center
@@ -78,12 +78,14 @@
               img.img-a.img-t.d-none.d-lg-block(src="@/assets/curso/tema1/img1.svg")
             .col-lg-10.col-md-12.col-12
               h4.mb-0.text-white #[b Las variables del #[em marketing] se han estudiado anteriormente; sin embargo, se listarán, para tener un panorama nítido de ellas y de los elementos que el mercadeo debe tener claro para el desarrollo de las estrategias:]
+  
+    .row.justify-content-start.mb-4
+      .col-sm-12.col-lg-7
+        .d-flex.align-items-center
+          img.w-card-icon(src="@/assets/curso/tema1/img7.svg")
+          h3.bg13.py-2.w-card-text Variables externas
 
-    .mb-5.d-flex
-      .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
-        h3.col.px-5.mb-0.mx-5.neg Variables externas
-        img.clase2.d-none.d-lg-block(src='@/assets/curso/tema1/img7.svg') 
-    
+
     .row.align-items-center.justify-content-center.mb-4
       .col-lg-8.col-md-12.col-12
         .row.align-items-center.justify-content-center.mb-4
@@ -117,10 +119,11 @@
               img.img-a.img-t.mb-4(src='@/assets/curso/tema1/img14.svg', alt='Texto que describa la imagen')
               h4.mb-0.neg.text-center Los intermediarios
     
-    .mb-4.d-flex
-      .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
-        h3.col.px-5.mb-0.mx-5.neg Variables internas
-        img.clase2.d-none.d-lg-block(src='@/assets/curso/tema1/img15.svg') 
+    .row.justify-content-start.mb-4
+      .col-sm-12.col-lg-7
+        .d-flex.align-items-center
+          img.w-card-icon(src="@/assets/curso/tema1/img15.svg")
+          h3.bg13.py-2.w-card-text Variables internas
     
     p.mb-0 También llamadas variables controlables; estas se encuentran bajo el dominio y manejo de la empresa y permiten desarrollar estrategias enfocadas en la satisfacción total de los clientes y consumidores, generando atracción hacia el producto, servicio o marca.
 
@@ -145,10 +148,12 @@
               
     .row.align-items-center.justify-content-center.mb-0
       .col-lg-10.col-md-12.col-12
-        .mb-4.d-flex
-          .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
-            h5.col.px-4.mb-0.mx-5.neg #[em Marketing mix]
-            img.clase3.d-none.d-lg-block(src='@/assets/curso/tema1/img17.svg')
+        .row.justify-content-start
+          .col-sm-12.col-lg-7
+            .d-flex.align-items-center
+              img.w-card-icon(src="@/assets/curso/tema1/img17.svg")
+              h3.bg13.py-2.w-card-text #[em Marketing mix]
+
 
     .row.align-items-center.justify-content-center.mb-0
       .col-lg-10.col-md-12.col-12
@@ -381,10 +386,11 @@
           p.mb-2 #[b Las empresas que desarrollan su estrategia de producto partiendo de una propuesta de valor efectiva y auténtica, tienen todas las posibilidades de lograr un posicionamiento en el mercado que les permita sostenibilidad a mediano o largo plazo.]
         p.mb-0 Por ejemplo, la marca registrada Coca Cola siendo un producto con más de 100 años en el mercado, con una historia llena de altibajos, competidores directos, indirectos y hasta imitadores, se ha mantenido vigente gracias a su propuesta de valor; Coca Cola por su naturaleza y características de producto debería ofrecer frescura, saciar la sed o acompañar las comidas, pero en contra de toda lógica ofrece felicidad y es en torno a ella que desde hace varios años ha persuadido a millones de consumidores en todo el mundo de seguir prefiriéndolos por encima de otras bebidas, pese a campañas difamatorias y mitos que se han generado en torno a la bebida más consumida del planeta.
     
-    .mb-5.d-flex
-      .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
-        h3.col.px-5.mb-0.mx-5.neg Proceso de creación de valor
-        img.clase4.d-none.d-lg-block(src='@/assets/curso/tema1/img32.svg')
+    .row.justify-content-start.mb-4
+      .col-sm-12.col-lg-7
+        .d-flex.align-items-center
+          img.w-card-icon(src="@/assets/curso/tema1/img32.svg")
+          h3.bg13.py-2.w-card-text Proceso de creación de valor
     
     
     .row.justify-content-center.mb-4
@@ -420,11 +426,13 @@
           .col-md.tarjeta.color-acento-contenido.d-none.d-lg-block
             figure.mb-4
               img.ima.img-a.img-t.move(src='@/assets/curso/tema1/img34.svg', alt='tema1')
+    
+    .row.justify-content-start.mb-4
+      .col-sm-12.col-lg-7
+        .d-flex.align-items-center
+          img.w-card-icon(src="@/assets/curso/tema1/img35.svg")
+          h3.bg13.py-2.w-card-text Tipos de mercado
 
-    .mb-5.d-flex
-      .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
-        h3.col.px-5.mb-0.mx-5.neg Tipos de mercado
-        img.clase4.d-none.d-lg-block(src='@/assets/curso/tema1/img35.svg')
     
     p.mb-4 Cada producto o servicio es un mundo aparte y muy particular, para cada uno existen consumidores reales y potenciales con características bien definidas. Es por ello, que existe también una variedad importante de mercados:
     
@@ -465,11 +473,13 @@
         .col-md-6
           figure
             img.img-a.img-t.d-none.d-lg-block(src='@/assets/curso/tema1/img41.png', alt='Texto que describa la imagen')
+    
+    .row.justify-content-start.mb-4
+      .col-sm-12.col-lg-7
+        .d-flex.align-items-center
+          img.w-card-icon(src="@/assets/curso/tema1/img42.svg")
+          h3.bg13.py-2.w-card-text Niveles de necesidad del mercado
 
-    .mb-4.d-flex
-      .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
-        h3.col.px-5.mb-0.mx-5.neg Niveles de necesidad del mercado 
-        img.clase4.d-none.d-lg-block(src='@/assets/curso/tema1/img42.svg')
 
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-10.col-md-12.col-12
@@ -524,10 +534,12 @@
                       h4.mb-1.text-center Demanda
                 figcaption.mb-0 Fuente: SENA (2020)
     
-    .mb-4.d-flex
-      .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
-        h3.col.px-5.mb-0.mx-5.neg Estrategias de mercadeo
-        img.clase4.d-none.d-lg-block(src='@/assets/curso/tema1/img48.svg')
+    .row.justify-content-start.mb-4
+      .col-sm-12.col-lg-7
+        .d-flex.align-items-center
+          img.w-card-icon(src="@/assets/curso/tema1/img48.svg")
+          h3.bg13.py-2.w-card-text Estrategias de mercadeo
+
 
     .mb-4.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blues
@@ -585,28 +597,28 @@
         .avatar
           figure
             img(src="@/assets/curso/tema1/fine.png", alt="alt").img250
-        .crd.crd--avatarHorizontal.crd--first1.py-4
+        .crd.crd--avatarHorizontal.crd--first1.py-4.espac
           .row.align-items-center
             .col-auto
               figure
                 img(src="@/assets/curso/tema1/im1.svg", alt="alt").img100
             .col
               p #[b Fijación de precios mediante márgenes:] consiste en añadir un margen estándar al costo del producto. Hay empresas que estiman el precio mediante la “adición” de un margen al costo total del proyecto que proporcionará el beneficio.
-        .crd.crd--avatarHorizontal.crd--first2.py-4
+        .crd.crd--avatarHorizontal.crd--first2.py-4.espac
           .row.align-items-center
             .col-auto
               figure
                 img(src="@/assets/curso/tema1/im2.svg", alt="alt").img100
             .col
               p #[b Fijación de precios para alcanzar una tasa de rentabilidad:] consiste en considerar una determinada “tasa de rentabilidad” estándar para el producto generando variación constante.
-        .crd.crd--avatarHorizontal.crd--first3.py-4
+        .crd.crd--avatarHorizontal.crd--first3.py-4.espac
           .row.align-items-center
             .col-auto
               figure
                 img(src="@/assets/curso/tema1/im3.svg", alt="alt").img100
             .col
               p #[b Precios de penetración o precios bajos.]
-        .crd.crd--avatarHorizontal.crd--first4.py-4
+        .crd.crd--avatarHorizontal.crd--first4.py-4.espac
           .row.align-items-center
             .col-auto
               figure

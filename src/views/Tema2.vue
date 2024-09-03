@@ -247,10 +247,12 @@
         p.mb-4 Existe una gran variedad de herramientas de medición de datos, todas ellas con características y ventajas diferentes, algunas gratuitas y otras que tienen un sistema de pago que oscila de moderado a alto, lo importante es que la información debe ser analizada y utilizada de la mejor forma posible.
         p.mb-0 A continuación, se presentan algunas de las herramientas más versátiles para la medición de los datos:
     
-    .mb-4.d-flex
-      .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
-        h3.col.px-5.mb-0.mx-5.neg Buscador de Google
-        img.clase4.d-none.d-lg-block(src='@/assets/curso/tema2/img13.svg')
+    .row.justify-content-start.mb-4
+      .col-sm-12.col-lg-7
+        .d-flex.align-items-center
+          img.w-card-icon(src="@/assets/curso/tema2/img13.svg")
+          h3.bg13.py-2.w-card-text Buscador de Google
+
     
     p.mb-5 Las búsquedas en Google son el primer paso para conocer el estado de una empresa y para el desarrollo inicial de las estrategias de comunicación. Para alguien que trabaje en comunicación digital es importante conocer todas las acciones y posibilidades que este buscador ofrece:
 
@@ -318,12 +320,13 @@
             .cajam
               h4.text-center.text-white Crimson Hexagon
         p.text-center Es un sistema de monitoreo de redes sociales para realizar un análisis global de marcas y organizaciones, conociendo las opiniones de consumidores y los puntos de vista que estos tienen de la empresa, los productos, la industria y la competencia.
-
-    .mb-5.d-flex
-      .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
-        h3.col.px-5.mb-0.mx-5.neg Analítica #[em web]
-        img.clase4.d-none.d-lg-block(src='@/assets/curso/tema2/prueba.svg')
     
+    .row.justify-content-start.mb-4
+      .col-sm-12.col-lg-7
+        .d-flex.align-items-center
+          img.w-card-icon(src="@/assets/curso/tema2/prueba.svg")
+          h3.bg13.py-2.w-card-text Analítica #[em web]
+
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-10.col-md-12.col-12
         .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5
@@ -383,10 +386,13 @@
       .col-lg-4.col-md-12.col-12
         img.img-a.img-t.d-none.d-lg-block(src='@/assets/curso/tema2/img22.png' alt='AvatarTop')
     
-    .mb-0.d-flex
-      .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
-        h3.col.px-5.mb-0.mx-5.neg Mediciones en Facebook
-        img.clase4.d-none.d-lg-block(src='@/assets/curso/tema2/img23.svg')
+
+    .row.justify-content-start.mb-4
+      .col-sm-12.col-lg-7
+        .d-flex.align-items-center
+          img.w-card-icon(src="@/assets/curso/tema2/img23.svg")
+          h3.bg13.py-2.w-card-text Mediciones en Facebook
+
     
     .row.align-items-center.justify-content-center.mb-4
       .col-lg-4.col-md-9.col-9
@@ -466,10 +472,13 @@
     
     p.mb-4 De esta forma la comunicación que se realiza a través del #[em Social CRM] es mucho más integral, pues el consumidor es alcanzado por un correo electrónico que se le ha dejado cuando hizo su suscripción en el sitio #[em web] de la empresa, generándole impactos que se #[em postean] en las redes sociales que ha seguido gracias a una campaña de activación, la cual se hace periódicamente para captar nuevos clientes. De la misma forma recibe un mensaje de texto en su celular y mensajes de WhatsApp, todo esto en un periodo de tres semanas en las que la marca ha estado interactuando con el consumidor, creando posicionamiento y recordación.
     
-    .mb-4.d-flex
-      .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
-        h3.col.px-5.mb-0.mx-5.neg Enfoque del Social #[em CRM]
-        img.clase4.d-none.d-lg-block(src='@/assets/curso/tema2/img27.svg')
+
+    .row.justify-content-start.mb-4
+      .col-sm-12.col-lg-7
+        .d-flex.align-items-center
+          img.w-card-icon(src="@/assets/curso/tema2/img27.svg")
+          h3.bg13.py-2.w-card-text Enfoque del Social #[em CRM]
+
     
     p.mb-4 En el enfoque del Social #[em CRM] existen cuatro elementos básicos para tener en cuenta:
 
@@ -617,11 +626,13 @@
         .cajon.color-secundario.p-4.mb-4.my-4
           p.mb-0 #[b Inicialmente el #[em SEO] (del inglés #[em Search Engine Optimization]) se enmarca en las estrategias del #[em marketing] relacional y el colaborativo, que tienden a primar el buscador como canal de publicidad para públicos muy segmentados (aquellos que utilicen cierta búsqueda concreta) y, finalmente, el ideal de una estrategia de #[em SEO] implica crear una red propia de usuarios fidelizados que hablen bien y proactivamente de la marca.]
         p.mb-0 Por eso es importante primero pensar qué tipo de estrategia global se va a llevar a cabo, y en función de esta, pensar en él y no antes. Así, en la relación entre #[em marketing] y #[em SEO] se debe tener en cuenta: #[em marketing] no es #[em SEO] y #[em SEO] no es #[em marketing;] el #[em marketing] es un concepto más amplio que el #[em SEO]. Primero se debe estudiar la estrategia de #[em marketing] y su continuación. La unión de #[em marketing] + #[em SEO] debe llevar a visitas que lleven a acciones y posiblemente esas acciones lleven a ventas o conversiones. Serrano (2015).
+    
+    .row.justify-content-start.mb-4
+      .col-sm-12.col-lg-7
+        .d-flex.align-items-center
+          img.w-card-icon(src="@/assets/curso/tema2/img42.svg")
+          h3.bg13.py-2.w-card-text #[em SEM]
 
-    .mb-4.d-flex
-      .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
-        h3.col.px-5.mb-0.mx-5.neg #[em SEM]
-        img.clase4.d-none.d-lg-block(src='@/assets/curso/tema2/img42.svg')
     
     p.mb-4 En el enfoque del Social #[em CRM] existen cuatro elementos básicos para tener en cuenta:
 
@@ -681,11 +692,13 @@
         p.mb-4.my-4 En la #[em web] hay múltiples opciones de hacer promoción para las empresas y marcas, desde alternativas gratuitas que implican un proceso más orgánico y lento para el logro de posicionamiento de marca, incremento en ventas y reconocimiento por parte del mercado meta; hasta el pago de pauta en sitios #[em web] incluidos en la red #[em Display] de Google a través de su plataforma de pago Adwords, la cual incluye anuncios en YouTube.
         .cajon.color-secundario.p-4.mb-4
           p.mb-0 #[b También en Facebook, la red social más grande del mundo con más de 2400 millones de cuentas inscritas y que permite una serie de modelos de publicidad pagada, que va desde publicaciones que llegan a segmentos específicos hasta campañas muy bien estructuradas que incluyen una completa planificación por temporadas establecidas.]
-        
-    .mb-4.d-flex
-      .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
-        h3.col.px-5.mb-0.mx-5.neg Google Adwords
-        img.clase4.d-none.d-lg-block(src='@/assets/curso/tema2/img47.svg')
+
+    .row.justify-content-start.mb-4
+      .col-sm-12.col-lg-7
+        .d-flex.align-items-center
+          img.w-card-icon(src="@/assets/curso/tema2/img47.svg")
+          h3.bg13.py-2.w-card-text Google Adwords
+
     
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-10.col-md-12.col-12
@@ -730,10 +743,12 @@
             figure
               img(src='@/assets/curso/tema2/img49.png', alt='tema2')
     
-    .mb-4.d-flex
-      .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
-        h3.col.px-5.mb-0.mx-5.neg Facebook #[em Ads]
-        img.clase4.d-none.d-lg-block(src='@/assets/curso/tema2/img50.svg')
+    .row.justify-content-start.mb-4
+      .col-sm-12.col-lg-7
+        .d-flex.align-items-center
+          img.w-card-icon(src="@/assets/curso/tema2/img50.svg")
+          h3.bg13.py-2.w-card-text Facebook #[em Ads]
+
     
     .row.align-items-center.justify-content-center.mb-0
       .col-lg-10.col-md-12.col-12
