@@ -10,10 +10,10 @@
       h1 Introducción
       
     .row
-      figure.mb-5
+      figure
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/Vukk_lp4dO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Video. Marketing Digital
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/w8uKrnk6TC8?si=EgtVBqmBG3E4uVev" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
+        figcaption Video. Plan de marketing Digital
   
   
 </template>

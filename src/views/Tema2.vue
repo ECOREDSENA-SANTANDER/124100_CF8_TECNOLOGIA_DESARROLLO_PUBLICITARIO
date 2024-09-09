@@ -11,7 +11,7 @@
     .row
       figure.mb-4
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/Vukk_lp4dO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/qRnV-Iqybn8?si=40AVg52Jgr0eOpPC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
         figcaption Video. Marketing Digital
     .row.align-items-center.justify-content-center.mb-0
       .col-lg-4.col-md-9.col-9
