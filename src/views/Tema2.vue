@@ -627,14 +627,11 @@
           p.mb-0 #[b Inicialmente el #[em SEO] (del inglés #[em Search Engine Optimization]) se enmarca en las estrategias del #[em marketing] relacional y el colaborativo, que tienden a primar el buscador como canal de publicidad para públicos muy segmentados (aquellos que utilicen cierta búsqueda concreta) y, finalmente, el ideal de una estrategia de #[em SEO] implica crear una red propia de usuarios fidelizados que hablen bien y proactivamente de la marca.]
         p.mb-0 Por eso es importante primero pensar qué tipo de estrategia global se va a llevar a cabo, y en función de esta, pensar en él y no antes. Así, en la relación entre #[em marketing] y #[em SEO] se debe tener en cuenta: #[em marketing] no es #[em SEO] y #[em SEO] no es #[em marketing;] el #[em marketing] es un concepto más amplio que el #[em SEO]. Primero se debe estudiar la estrategia de #[em marketing] y su continuación. La unión de #[em marketing] + #[em SEO] debe llevar a visitas que lleven a acciones y posiblemente esas acciones lleven a ventas o conversiones. Serrano (2015).
     
-    .row.justify-content-start.mb-4
+    .row.justify-content-start.mb-5
       .col-sm-12.col-lg-7
         .d-flex.align-items-center
           img.w-card-icon(src="@/assets/curso/tema2/img42.svg")
           h3.bg13.py-2.w-card-text #[em SEM]
-
-    
-    p.mb-4 En el enfoque del Social #[em CRM] existen cuatro elementos básicos para tener en cuenta:
 
     .row.align-items-center.justify-content-center.mb-4
       .col-lg-10.col-md-12.col-12

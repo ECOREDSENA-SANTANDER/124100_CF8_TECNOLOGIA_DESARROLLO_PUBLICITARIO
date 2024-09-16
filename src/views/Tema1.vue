@@ -624,7 +624,7 @@
               figure
                 img(src="@/assets/curso/tema1/im4.svg", alt="alt").img100
             .col
-              p Precios altos de desnatado o descreme: esta estrategia es muy seguida por el sector tecnológico, dados los altos costos de innovación, los cuales son cubiertos por el mercado que es poco susceptible al precio. 
+              p #[b Precios altos de desnatado o descreme:] esta estrategia es muy seguida por el sector tecnológico, dados los altos costos de innovación, los cuales son cubiertos por el mercado que es poco susceptible al precio. 
 
 
     .mb-4.d-flex

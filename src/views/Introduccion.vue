@@ -9,6 +9,7 @@
           i.fas.fa-info
       h1 Introducción
       
+    p.mb-4 En el siguiente video se realiza la introducción al componente, y se hace referencia a algunos de los temas a tratar.  
     .row
       figure
         .video
