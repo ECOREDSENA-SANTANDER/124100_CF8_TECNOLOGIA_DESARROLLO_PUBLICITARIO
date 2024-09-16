@@ -11,7 +11,7 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 Plan de Marketing digital
-        p.mb-4 Con esta actividad, los aprendices podrán darse cuenta de su conocimiento en cuanto a los conceptos trabajados en este componente.
+        p.mb-4 #[b Con esta actividad, los aprendices podrán darse cuenta de su conocimiento en cuanto a los conceptos trabajados en este componente.]
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
