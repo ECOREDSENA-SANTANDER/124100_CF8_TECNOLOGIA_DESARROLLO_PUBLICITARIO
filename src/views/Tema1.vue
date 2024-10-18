@@ -41,7 +41,7 @@
                         img.img-a.img-t(src='@/assets/curso/tema1/img3.svg', alt='Texto que describa la imagen')
                   .row.justify-content-center.align-items-top
                     .col-md-12.col-lg-6.col-12
-                      p.my-4 Mientras que la RAE define el #[em marketing] como un conjunto de operaciones por las que ha de pasar una mercancía desde el productor al consumidor.
+                      p.my-4 Mientras que la #[em RAE] define el #[em marketing] como un conjunto de operaciones por las que ha de pasar una mercancía desde el productor al consumidor.
                     .col-md-6
                       figure
                         img.img-a.img-t(src='@/assets/curso/tema1/img4.svg', alt='Texto que describa la imagen')
@@ -63,7 +63,7 @@
         img.img-a.img-t.mb-4(src='@/assets/curso/tema1/img6.png', alt='Texto que describa la imagen')
       .col-lg-8.col-md-12.col-12
         .cajon.color-secundario.p-4.mb-4
-          p.mb-0 #[b El #[em marketing] está presente en muchos escenarios de la vida de los seres humanos: la publicidad, las ventas, las promociones y ofertas, la comercialización, la canasta familiar. En un sistema capitalista que basa su economía en la producción y el consumo, la mercadotecnia es parte fundamental de la vida y es indispensable para el desarrollo laboral, personal y social. El #[em marketing] permite que las marcas anuncien sus productos y que los clientes reales o potenciales se enteren de su existencia, en ese orden de ideas no solo es un proceso de comercialización sino también de información comercial.]
+          p.mb-0 El #[em marketing] está presente en muchos escenarios de la vida de los seres humanos: la publicidad, las ventas, las promociones y ofertas, la comercialización, la canasta familiar. En un sistema capitalista que basa su economía en la producción y el consumo, la mercadotecnia es parte fundamental de la vida y es indispensable para el desarrollo laboral, personal y social. El #[em marketing] permite que las marcas anuncien sus productos y que los clientes reales o potenciales se enteren de su existencia, en ese orden de ideas no solo es un proceso de comercialización sino también de información comercial.
         p.mb-0 Para algunos expertos el mercadeo tiene como función principal la producción y comercialización de bienes y servicios en torno a la satisfacción de necesidades. Para quienes ven el mercadeo de forma estratégica su principal función radica en el conocimiento profundo y absoluto de los consumidores: gustos, deseos, estilo de vida, intereses, pensamiento, comportamiento y actitud frente a la compra y consumo. Desde un punto de vista más holístico el #[em marketing] cumple con todas esas funciones o debería hacerlo; es decir, una empresa que implemente un proceso de mercadeo integral debe comenzar con el análisis del mercado para lograr un absoluto conocimiento de sus clientes y consumidores, pasando por el desarrollo de productos y servicios con propuestas de valor claras y con beneficios sólidos hasta el desarrollo de todo el proceso de comunicación con sus clientes y consumidores.
 
     Separador
@@ -161,7 +161,7 @@
           .col-lg-7.col-md-12.col-12
             p.mb-4 La mezcla de mercadeo o #[em marketing mix,] conformado por las 4P’s del mercado: producto, precio, plaza y promoción, es un conjunto de elementos que se conjugan entre sí para el desarrollo de estrategias de comercialización y promoción que permitan llegar al mercado objetivo con el producto o servicio y con la información de este para satisfacer sus necesidades y deseos por encima de empresas o marcas de la competencia.
             .cajon.color-acento-contenido.p-4.mb-4
-              p.mb-0 #[b Según Kotler y Armstrong citados por Thompson (2005), la mezcla de mercadeo “es todo lo que la empresa es capaz de hacer para influir en la demanda de su producto”. En esta mezcla se pueden encontrar cuatro variables principales, cada una de ellas con una serie de subvariables que se deben tener en cuenta para el desarrollo del plan de mercadeo y el diseño de las estrategias.]
+              p.mb-0 Según Kotler y Armstrong citados por Thompson (2005), la mezcla de mercadeo “es todo lo que la empresa es capaz de hacer para influir en la demanda de su producto”. En esta mezcla se pueden encontrar cuatro variables principales, cada una de ellas con una serie de subvariables que se deben tener en cuenta para el desarrollo del plan de mercadeo y el diseño de las estrategias.
           .col-lg-5.col-md-9.col-9
             img.mb-5.d-none.d-lg-block(src='@/assets/curso/tema1/img18.png', alt='tema1')
     
@@ -383,7 +383,7 @@
         img.img-a.img-t.mb-4(src='@/assets/curso/tema1/img31.png', alt='Texto que describa la imagen')
       .col-lg-8.col-md-12.col-12
         .cajon.color-secundario.p-4.mb-4
-          p.mb-2 #[b Las empresas que desarrollan su estrategia de producto partiendo de una propuesta de valor efectiva y auténtica, tienen todas las posibilidades de lograr un posicionamiento en el mercado que les permita sostenibilidad a mediano o largo plazo.]
+          p.mb-2 Las empresas que desarrollan su estrategia de producto partiendo de una propuesta de valor efectiva y auténtica, tienen todas las posibilidades de lograr un posicionamiento en el mercado que les permita sostenibilidad a mediano o largo plazo.
         p.mb-0 Por ejemplo, la marca registrada Coca Cola siendo un producto con más de 100 años en el mercado, con una historia llena de altibajos, competidores directos, indirectos y hasta imitadores, se ha mantenido vigente gracias a su propuesta de valor; Coca Cola por su naturaleza y características de producto debería ofrecer frescura, saciar la sed o acompañar las comidas, pero en contra de toda lógica ofrece felicidad y es en torno a ella que desde hace varios años ha persuadido a millones de consumidores en todo el mundo de seguir prefiriéndolos por encima de otras bebidas, pese a campañas difamatorias y mitos que se han generado en torno a la bebida más consumida del planeta.
     
     .row.justify-content-start.mb-4
@@ -496,7 +496,7 @@
         img.img-a.img-t.mb-4.d-none.d-lg-block(src='@/assets/curso/tema1/img44.png', alt='Texto que describa la imagen')
       .col-lg-8.col-md-12.col-12
         .cajon.color-acento-contenido.p-4.mb-5
-          p.mb-2 #[b Sin embargo, en todos ellos los niveles de satisfacción están supeditados a la capacidad económica, los gustos, los deseos o los intereses del mercado. Por ejemplo, un producto de primera necesidad es el agua y en el mercado existen diferentes niveles de un producto tan básico como este; está el agua potable que se obtiene del acueducto local y existen marcas que extraen el producto de nacimientos en montañas rocosas en las que se filtra el recurso de forma natural y tiene un alto nivel de aditivos beneficiosos para la salud.]
+          p.mb-2 Sin embargo, en todos ellos los niveles de satisfacción están supeditados a la capacidad económica, los gustos, los deseos o los intereses del mercado. Por ejemplo, un producto de primera necesidad es el agua y en el mercado existen diferentes niveles de un producto tan básico como este; está el agua potable que se obtiene del acueducto local y existen marcas que extraen el producto de nacimientos en montañas rocosas en las que se filtra el recurso de forma natural y tiene un alto nivel de aditivos beneficiosos para la salud.
         p.mb-0 Tal vez para la mayoría de personas es suficiente con el agua del grifo, pero para un mercado muy exclusivo con características especiales, es necesario el consumo de agua filtrada naturalmente y para un grupo menos exigente pero que considera el recurso del grifo como de dudosa calidad, el consumo de una marca regular sea suficiente; es allí donde se pueden diferenciar los tres niveles de la satisfacción de necesidades:
 
     .row.align-items-center.justify-content-center.mb-5
@@ -626,7 +626,7 @@
             .col
               p #[b Precios altos de desnatado o descreme:] esta estrategia es muy seguida por el sector tecnológico, dados los altos costos de innovación, los cuales son cubiertos por el mercado que es poco susceptible al precio. 
 
-
+            
     .mb-4.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blues
         h4.col.px-4.mb-0.neg Estrategias de distribución
@@ -652,7 +652,7 @@
             img.img-a.img-t.d-none.d-lg-block(src='@/assets/curso/tema1/img55.svg', alt='Texto que describa la imagen')
         .col-md-12.col-12.col-lg-10
           p.mb-5.my-4 Se recurre a un número inferior de intermediarios disponibles; es decir solo algunos pueden vender tu producto. 
-      .row.p-4(titulo="Estrategia de <em>Push</em> “ presión o empuje ” ")
+      .row.p-4(titulo="Estrategia de <em>Push</em> “presión o empuje” ")
         .col-md-1
           figure
             img.img-a.img-t.d-none.d-lg-block(src='@/assets/curso/tema1/img56.svg', alt='Texto que describa la imagen')
@@ -664,7 +664,7 @@
             img.img-a.img-t.d-none.d-lg-block(src='@/assets/curso/tema1/img57.svg', alt='Texto que describa la imagen')
         .col-md-12.col-12.col-lg-10
           p.mb-5.my-4 Un solo distribuidor recibe el derecho de vender la marca y se compromete a no vender marcas competitivas en la misma categoría.
-      .row.p-4(titulo="Estrategias de <em>Pull</em> “ jalón o aspiración ”")
+      .row.p-4(titulo="Estrategias de <em>Pull</em> “jalón o aspiración”")
         .col-md-1
           figure
             img.img-a.img-t.d-none.d-lg-block(src='@/assets/curso/tema1/img58.svg', alt='Texto que describa la imagen')
@@ -796,7 +796,7 @@
             p.mb-0 Una vez estudiados los elementos relacionados con el #[em marketing,] es necesario compilar toda la información y las estrategias en un plan. La organización de la información permite el direccionamiento de las acciones con fines particulares. Por ello, un plan de mercadeo incluye varios pasos:
 
     
-    AcordionA.acordion(tipo="b" clase-tarjeta="tarjeta tarjeta--grissss").mb-5
+    AcordionA.acordion(tipo="b" clase-tarjeta="tarjeta tarjeta--grissss")
       .row.p-4(titulo="Resumen ejecutivo")
         .col-md-1
           figure

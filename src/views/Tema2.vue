@@ -12,13 +12,13 @@
       figure.mb-4
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/qRnV-Iqybn8?si=40AVg52Jgr0eOpPC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
-        figcaption Video. Marketing Digital
+        figcaption Video. #[em Marketing] Digital
     .row.align-items-center.justify-content-center.mb-0
       .col-lg-4.col-md-9.col-9
         img.img-a.img-t.mb-4(src='@/assets/curso/tema2/img1.png', alt='Texto que describa la imagen')
       .col-lg-8.col-md-12.col-12
         .cajon.color-secundario.p-5.mb-4
-          p.mb-0 #[b El #[em marketing] digital no tiene diferencias abismales con el convencional, salvo aquello que lo define < lo digital > ;  es decir, el entorno donde sucede la interacción entre la marca y el consumidor, desplazando en muchas ocasiones las tiendas físicas, la interacción #[em face to face] y los medios masivos convencionales. ]
+          p.mb-0 El #[em marketing] digital no tiene diferencias abismales con el convencional, salvo aquello que lo define < lo digital >; es decir, el entorno donde sucede la interacción entre la marca y el consumidor, desplazando en muchas ocasiones las tiendas físicas, la interacción #[em face to face] y los medios masivos convencionales. 
         p.mb-0 El #[em marketing] digital permite que las marcas (paradójicamente) sean más cercanas a los mercados objetivo, que llegan a públicos más específicos creando así comunidades más cerradas y menos masivas. Un anuncio en televisión tenía que ser visto por todos los miembros de la familia que en el horario prime time estuviesen viendo la telenovela de moda, de esa forma el anuncio de la cuchilla de afeitar dirigido al padre impactaba de igual forma a la madre, a los hijos y eventualmente a otros miembros de la familia o amigos.
 
     Separador
@@ -47,7 +47,7 @@
         img.img-a.img-t.mb-4(src='@/assets/curso/tema2/img3.png', alt='Texto que describa la imagen')
       .col-lg-8.col-md-12.col-12
         .cajon.color-secundario.p-5.mb-5
-          p.mb-0 #[b Las #[em cookies] son pequeños ficheros de texto con información sobre el usuario. Estas se almacenan en el navegador, desde donde el usuario puede aceptarlas, bloquearlas o eliminarlas. ]
+          p.mb-0 Las #[em cookies] son pequeños ficheros de texto con información sobre el usuario. Estas se almacenan en el navegador, desde donde el usuario puede aceptarlas, bloquearlas o eliminarlas. 
         p.mb-4 A esta información que se almacena en las #[em cookies] se puede acceder posteriormente con distintos fines como ofrecer publicidad, hacer #[em remarketing] (anuncios personalizados dirigidos a usuarios que visitaron previamente tu #[em web]), conocer el número total de sesiones generadas por los usuarios, mantener los productos añadidos en las cestas de la compra de las tiendas #[em online], usar aplicaciones como las de los bancos sin necesidad de iniciar sesión en cada página, etc.
         p.mb-0 Las #[em cookies] tienen varias clasificaciones y criterios: 
     
@@ -101,7 +101,7 @@
       .col-lg-8.col-md-12.col-12
         p.mb-4 Una dimensión es lo que describe los datos. Algunos ejemplos de dimensiones son: país, navegador, dispositivo. La dimensión es diferente a la métrica, la razón es que la métrica utiliza valores que se pueden medir, las dimensiones son más cualitativas.
         .cajon.color-secundario.p-5.mb-0
-          p.mb-0 #[b Por ejemplo, es posible sumar las sesiones diarias procedentes de Bogotá (12.000) con las procedentes de Medellín (45.000) y como resultado te saldrán 57.000 sesiones. Pero lo que no es posible hacer es sumar Bogotá y Medellín. ]
+          p.mb-0 Por ejemplo, es posible sumar las sesiones diarias procedentes de Bogotá (12.000) con las procedentes de Medellín (45.000) y como resultado te saldrán 57.000 sesiones. Pero lo que no es posible hacer es sumar Bogotá y Medellín.
         
     .mb-4.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blues
@@ -156,7 +156,7 @@
               .col-3.my-4
                 figure
                   img.img-a.img-t.d-none.d-lg-block(src='@/assets/curso/tema2/img9.svg', alt='Texto que describa la imagen')
-            h2  ROI #[em (Return On Investment)]
+            h2 #[em ROI (Return On Investment)]
             p El ROI es el retorno de la inversión, es decir, qué cantidad de la que has invertido ha vuelto a la empresa. Este KPI mide la relación existente entre el beneficio neto y los costos. El método exacto para realizar el cálculo depende de los objetivos de la inversión que la empresa realice. Su fórmula es: 
             p.mb-4 ROI = [(ingresos - inversión) / inversión] * 100
           .col-md.tarjeta.color-primario.pri9.f2.p-5
@@ -171,7 +171,7 @@
     .row.align-items-center.justify-content-center.mb-4
       .col-lg-12.col-md-12.col-12 
         .cajon.color-secundario.p-4
-          p.mb-0 #[b Si se tiene una tasa de rebote del 26 % significa que, de cada 100 sesiones, 26 salieron de la #[em web] sin mirar nada más. Este #[em KPI] es útil para conocer el rendimiento de tu #[em web] en general y de las distintas páginas de esta en particular.]
+          p.mb-0 Si se tiene una tasa de rebote del 26 % significa que, de cada 100 sesiones, 26 salieron de la #[em web] sin mirar nada más. Este #[em KPI] es útil para conocer el rendimiento de tu #[em web] en general y de las distintas páginas de esta en particular.
     
     .mb-4.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blues
@@ -399,7 +399,7 @@
         img.img-a.img-t.mb-4(src='@/assets/curso/tema2/img24.png', alt='Texto que describa la imagen')
       .col-lg-8.col-md-12.col-12
         .cajon.color-secundario.p-5.mb-4
-          p.mb-0 #[b Siendo la red social más grande del mundo por su número de suscriptores que superan los 2400 millones, una de las mayores fuentes de datos del mercado y un generador de anuncios virales, es necesario hacer un análisis de las mediciones que se pueden realizar en Facebook.]
+          p.mb-0 Siendo la red social más grande del mundo por su número de suscriptores que superan los 2400 millones, una de las mayores fuentes de datos del mercado y un generador de anuncios virales, es necesario hacer un análisis de las mediciones que se pueden realizar en Facebook.
         p.mb-0 Las variadas posibilidades de comunicación en esta red social permiten mantener a sus usuarios conectados casi de forma permanente: publicaciones, videos, comentarios, #[em likes] en 5 formas diferentes, #[em chats,] grupos, comunidades, perfiles, páginas, transmisiones en vivo, anuncios pagados, campañas, videojuegos, entre otros, son algunas de las actividades que permite realizar. Por consiguiente, es indicado conocer entonces las mediciones que se pueden realizar:
 
     p.mb-4.text-center #[b Las páginas de Facebook permiten realizar mediciones estadísticas semanales en cuanto a:]
@@ -435,7 +435,7 @@
                     p #[b Canal pagado:] indica el número de personas que vieron una publicación o anuncio patrocinado.
                 .row
                   .col-lg-12.col-md-12.col-12
-                    p #[b Usuarios únicos por frecuencia:] muestra gráficamente el número de personas que vieron el contenido de la página en los últimos siete días.
+                    p #[b Usuarios únicos por frecuencia:] presenta gráficamente el número de personas que vieron el contenido de la página en los últimos siete días.
                 .row
                   .col-lg-12.col-md-12.col-12
                     p #[b Visitas a la página:] indica el número de veces que la página fue vista diariamente en un periodo determinado.
@@ -444,7 +444,7 @@
                     p #[b Visitantes únicos:] indica el número de personas que visitaron un #[em fanpage] por día en un periodo determinado.
                 .row
                   .col-lg-12.col-md-12.col-12
-                    p #[b Publicaciones:] muestra de forma gráfica el número de personas que vieron una publicación en un tiempo determinado.
+                    p #[b Publicaciones:] indica de forma gráfica el número de personas que vieron una publicación en un tiempo determinado.
                 .row
                   .col-lg-12.col-md-12.col-12
                     p #[b Audiencia potencial:] suma de los amigos de las personas que dieron “me gusta” o que compartieron una publicación.
@@ -458,8 +458,8 @@
         img.img-a.img-t.mb-4(src='@/assets/curso/tema2/img26.png', alt='Texto que describa la imagen')
       .col-lg-8.col-md-12.col-12
         .cajon.color-secundario.p-5.mb-4
-          p.mb-0 #[b Es un proceso de relacionamiento con los clientes de una empresa o marca, su enfoque está en el proceso de comercialización, mercadeo y comunicación de la empresa con sus clientes reales y potenciales.]
-        p.mb-0 Este proceso depende en casi un 100 % del #[em software] que gestiona la información de los clientes, para luego con base en estos datos generar acciones específicas de promoción y comercialización. El #[em CRM] se nutre de los datos de los clientes a través de Sistemas de Información de Mercados (SIM); estos datos abundan en medios como las redes sociales y los consumidores los entregan de forma libre y voluntaria; además, son muy eficaces para el desarrollo de estrategias puntuales de #[em marketing.]
+          p.mb-0 Es un proceso de relacionamiento con los clientes de una empresa o marca, su enfoque está en el proceso de comercialización, mercadeo y comunicación de la empresa con sus clientes reales y potenciales.
+        p.mb-0 Este proceso depende en casi un 100 % del #[em software] que gestiona la información de los clientes, para luego con base en estos datos generar acciones específicas de promoción y comercialización. El #[em CRM] se nutre de los datos de los clientes a través de Sistemas de Información de Mercados (#[em SIM]); estos datos abundan en medios como las redes sociales y los consumidores los entregan de forma libre y voluntaria; además, son muy eficaces para el desarrollo de estrategias puntuales de #[em marketing.]
 
     .row.align-items-center.justify-content-center.mb-4
       .col-lg-12.col-md-12.col-12
@@ -468,7 +468,7 @@
             .col-lg-2
               img.img-a.img-t.d-none.d-lg-block(src="@/assets/curso/tema1/img1.svg")
             .col-lg-10.col-md-12.col-12
-              h4.mb-0.text-white #[b El CRM evolucionó con la llegada de las redes sociales y hoy por hoy se conoce como #[em “Social CRM”,] mejorando el sistema de interacción entre la marca y el cliente, convirtiendo la comunicación de doble vía y no únicamente desde la marca hacia el consumidor. ]
+              h4.mb-0.text-white #[b El #[em CRM] evolucionó con la llegada de las redes sociales y hoy por hoy se conoce como #[em “Social CRM”,] mejorando el sistema de interacción entre la marca y el cliente, convirtiendo la comunicación de doble vía y no únicamente desde la marca hacia el consumidor. ]
     
     p.mb-4 De esta forma la comunicación que se realiza a través del #[em Social CRM] es mucho más integral, pues el consumidor es alcanzado por un correo electrónico que se le ha dejado cuando hizo su suscripción en el sitio #[em web] de la empresa, generándole impactos que se #[em postean] en las redes sociales que ha seguido gracias a una campaña de activación, la cual se hace periódicamente para captar nuevos clientes. De la misma forma recibe un mensaje de texto en su celular y mensajes de WhatsApp, todo esto en un periodo de tres semanas en las que la marca ha estado interactuando con el consumidor, creando posicionamiento y recordación.
     
@@ -549,7 +549,7 @@
           .col-lg-8
             .cajam
               h4.text-center.text-white Zoho
-        p.text-center Es una suite de servicios empresariales que permite el desarrollo de diferentes tareas relacionadas con el #[em marketing] digital, CRM, gestión de correo electrónico, entre otras.
+        p.text-center Es una suite de servicios empresariales que permite el desarrollo de diferentes tareas relacionadas con el #[em marketing] digital, #[em CRM], gestión de correo electrónico, entre otras.
       .tarjeta.color-acento-botones.p-4
         .row.justify-content-center.mb-3
           .col-8
@@ -603,7 +603,7 @@
           .col-lg-9
             .cajam
               h4.text-center.text-white Saleforce
-        p.text-center Es una suite que provee soluciones CRM por suscripción. En ella se puede crear aplicaciones, tener contacto con toda la organización, contactar clientes y realizar estrategias de venta, todo en línea.
+        p.text-center Es una suite que provee soluciones #[em CRM] por suscripción. En ella se puede crear aplicaciones, tener contacto con toda la organización, contactar clientes y realizar estrategias de venta, todo en línea.
       .tarjeta.color-acento-botones.p-4
         .row.justify-content-center.mb-3
           .col-8
@@ -624,7 +624,7 @@
         img.img-a.img-t.mb-4(src='@/assets/curso/tema2/img24.png', alt='Texto que describa la imagen')
       .col-lg-8.col-md-12.col-12
         .cajon.color-secundario.p-4.mb-4.my-4
-          p.mb-0 #[b Inicialmente el #[em SEO] (del inglés #[em Search Engine Optimization]) se enmarca en las estrategias del #[em marketing] relacional y el colaborativo, que tienden a primar el buscador como canal de publicidad para públicos muy segmentados (aquellos que utilicen cierta búsqueda concreta) y, finalmente, el ideal de una estrategia de #[em SEO] implica crear una red propia de usuarios fidelizados que hablen bien y proactivamente de la marca.]
+          p.mb-0 Inicialmente el #[em SEO] (del inglés #[em Search Engine Optimization]) se enmarca en las estrategias del #[em marketing] relacional y el colaborativo, que tienden a primar el buscador como canal de publicidad para públicos muy segmentados (aquellos que utilicen cierta búsqueda concreta) y, finalmente, el ideal de una estrategia de #[em SEO] implica crear una red propia de usuarios fidelizados que hablen bien y proactivamente de la marca.
         p.mb-0 Por eso es importante primero pensar qué tipo de estrategia global se va a llevar a cabo, y en función de esta, pensar en él y no antes. Así, en la relación entre #[em marketing] y #[em SEO] se debe tener en cuenta: #[em marketing] no es #[em SEO] y #[em SEO] no es #[em marketing;] el #[em marketing] es un concepto más amplio que el #[em SEO]. Primero se debe estudiar la estrategia de #[em marketing] y su continuación. La unión de #[em marketing] + #[em SEO] debe llevar a visitas que lleven a acciones y posiblemente esas acciones lleven a ventas o conversiones. Serrano (2015).
     
     .row.justify-content-start.mb-5
@@ -640,7 +640,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema2/img43.png')})`}"
           )
           .bloque-texto-g__texto.p-5
-            p.mb-0 El #[em SEM] (del inglés #[em Search Engine Marketing]) a diferencia de #[em SEO,] utiliza herramientas que los buscadores ofrecen para el desarrollo de estrategias de posicionamiento a través de anuncios publicitarios pagos, como es el caso de Google Adwords; esto requiere la selección de palabras claves, creación de anuncios y gestión de pauta. Se pueden realizar a través de PPC (Pago Por Clic) y PCP (Costo Por Clic).
+            p.mb-0 El #[em SEM] (del inglés #[em Search Engine Marketing]) a diferencia de #[em SEO,] utiliza herramientas que los buscadores ofrecen para el desarrollo de estrategias de posicionamiento a través de anuncios publicitarios pagos, como es el caso de Google Adwords; esto requiere la selección de palabras claves, creación de anuncios y gestión de pauta. Se pueden realizar a través de #[em PPC] (Pago Por Clic) y #[em PCP] (Costo Por Clic).
 
     .row.align-items-center.justify-content-center.mb-0
       .col-lg-4.col-md-12.col-12
@@ -654,7 +654,7 @@
             p Permite competir con empresas grandes y con alto posicionamiento en el mercado.
           li.d-flex.mb-0
             i.fas.fa-plus.mas
-            p El ROI es más rápido.
+            p El #[em ROI] es más rápido.
           li.d-flex.mb-0
             i.fas.fa-plus.mas
             p Permite llegar a mercados muy específicos porque permite un alto nivel de segmentación.
@@ -688,7 +688,7 @@
       .col-lg-8.col-md-12.col-12
         p.mb-4.my-4 En la #[em web] hay múltiples opciones de hacer promoción para las empresas y marcas, desde alternativas gratuitas que implican un proceso más orgánico y lento para el logro de posicionamiento de marca, incremento en ventas y reconocimiento por parte del mercado meta; hasta el pago de pauta en sitios #[em web] incluidos en la red #[em Display] de Google a través de su plataforma de pago Adwords, la cual incluye anuncios en YouTube.
         .cajon.color-secundario.p-4.mb-4
-          p.mb-0 #[b También en Facebook, la red social más grande del mundo con más de 2400 millones de cuentas inscritas y que permite una serie de modelos de publicidad pagada, que va desde publicaciones que llegan a segmentos específicos hasta campañas muy bien estructuradas que incluyen una completa planificación por temporadas establecidas.]
+          p.mb-0 También en Facebook, la red social más grande del mundo con más de 2400 millones de cuentas inscritas y que permite una serie de modelos de publicidad pagada, que va desde publicaciones que llegan a segmentos específicos hasta campañas muy bien estructuradas que incluyen una completa planificación por temporadas establecidas.
 
     .row.justify-content-start.mb-4
       .col-sm-12.col-lg-7
@@ -709,7 +709,7 @@
     .row.align-items-center.justify-content-center.mb-4
       .col-lg-12.col-md-12.col-12
         .cajon.color-acento-contenido.p-4
-          p.mb-0 #[b Las búsquedas realizadas por las personas allí incluyen el segundo elemento, las palabras claves: estas palabras son las que van a determinar el proceso de promoción dentro de la red #[em Display,] por lo tanto, lo que una empresa compra a Google son palabras claves que están ligadas a la actividad económica de la empresa o de la industria a la que pertenece para llegar al público específico, que a través de este buscador está averiguando un tema en particular. ]
+          p.mb-0 Las búsquedas realizadas por las personas allí incluyen el segundo elemento, las palabras claves: estas palabras son las que van a determinar el proceso de promoción dentro de la red #[em Display,] por lo tanto, lo que una empresa compra a Google son palabras claves que están ligadas a la actividad económica de la empresa o de la industria a la que pertenece para llegar al público específico, que a través de este buscador está averiguando un tema en particular.
 
     p.mb-4 Por ejemplo, una empresa dedicada a la venta de computadores ubicada en Bogotá quiere promocionarse en Google, en este caso la empresa podría adquirir palabras como: computadores, equipos de cómputo, computadoras personales, #[em laptops, all in one] entre otras. Con estas palabras puede realizar varios tipos de estrategias promocionales.
     
@@ -861,7 +861,7 @@
         img.img-a.img-t.mb-4(src='@/assets/curso/tema2/img55.png', alt='Texto que describa la imagen')
       .col-lg-8.col-md-12.col-12
         .cajon.color-secundario.p-4.mb-4
-          p.mb-0 #[b Es tal vez la metodología que presenta mayor eficacia en el desarrollo de una estrategia de #[em marketing,] la cual tenga como finalidad la atracción del mercado potencial para hacerlo adepto a una marca por su propia convicción e iniciativa. ]
+          p.mb-0 Es tal vez la metodología que presenta mayor eficacia en el desarrollo de una estrategia de #[em marketing,] la cual tenga como finalidad la atracción del mercado potencial para hacerlo adepto a una marca por su propia convicción e iniciativa.
         p.mb-0  #[em El inbound marketing] crea experiencias significativas que generan valor para el mercado objetivo de la empresa, esto se realiza con el desarrollo de contenido útil y relevante para los usuarios de un sitio #[em web], al mismo tiempo que se interactúa con ellos a través de medios más personales y con la posibilidad de generar un nivel de conversación más personal, como el correo electrónico, los mensajes de texto y los chats. No tiene un enfoque promocional o publicitario, por el contrario, el contenido generado representa mayor utilidad y relevancia, lo que hace que el mercado potencial se acerque a la marca de forma orgánica. Un ejemplo de ello es el modelo aplicado en escuelas de inglés o institutos donde se dictan estos tipos de cursos, enfatizándose siempre en una conversación más cercana.
 
     p.mb-4 El #[em inbound marketing] se enfoca en tres momentos específicos: atraer, conversar, seducir:
@@ -898,7 +898,7 @@
           ul.lista-ul--color
             li.d-flex.mb-0
               i.fas.fa-plus.mas
-              p.mb-0 CRM
+              p.mb-0 #[em CRM]
             li.d-flex.mb-0
               i.fas.fa-plus.mas
               p.mb-0 Sistema de información de mercados
