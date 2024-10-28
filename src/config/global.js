@@ -276,7 +276,7 @@ export default {
     {
       termino: '<em>Crowdsourcing</em>',
       significado:
-        'Acción por la cual las empresas y marcas generan contenido creativo a través de los propios clientes, <em>fans</em> o usuarios de internet. Este término se ha generalizado y puesto en práctica sobre todo para fomentar la participación en redes sociales.',
+        'Acción por la cual las empresas y marcas generan contenido creativo a través de los propios clientes, <em>fans</em> o usuarios de Internet. Este término se ha generalizado y puesto en práctica sobre todo para fomentar la participación en redes sociales.',
     },
     {
       termino: '<em>Engagement</em>',

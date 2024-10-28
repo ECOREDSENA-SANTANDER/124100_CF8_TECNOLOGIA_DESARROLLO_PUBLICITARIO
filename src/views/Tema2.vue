@@ -146,7 +146,7 @@
       .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blues
         h4.col.px-4.mb-0.neg #[em KPI: (Key Performance Indicator)]
     
-    p.mb-4 un #[em KPI] es un indicador clave de rendimiento, esto quiere decir que gracias a este tipo de indicadores es posible saber si se están cumpliendo o no los objetivos. Algunos ejemplos de #[em KPI] son: #[em ROI], tasa de rebote.
+    p.mb-4 Un #[em KPI] es un indicador clave de rendimiento, esto quiere decir que gracias a este tipo de indicadores es posible saber si se están cumpliendo o no los objetivos. Algunos ejemplos de #[em KPI] son: #[em ROI], tasa de rebote.
     
     .row.align-items-center.justify-content-center.mb-4
       .col-lg-12.col-md-12.col-12 
@@ -362,7 +362,7 @@
     .row.align-items-center.justify-content-center.mb-4
       .col-lg-12.col-md-12.col-12
         .caja6.p-4
-          p.mb-0 Adicionalmente, la analítica #[em web] tiene una serie de tarea definidas dentro de la organización; actividades enfocadas en el #[em CRM] y otros procesos de interacción entre la marca y el consumidor. La analítica interviene además en la toma de decisiones relacionadas con la comercialización de los productos o servicios, así como el estudio permanente de los clientes, el mercado y las tendencias. De este modo es necesario que se tengan en cuenta una serie de indicadores relacionados con la analítica #[em web]: 
+          p.mb-0 Adicionalmente, la analítica #[em web] tiene una serie de tareas definidas dentro de la organización; actividades enfocadas en el #[em CRM] y otros procesos de interacción entre la marca y el consumidor. La analítica interviene además en la toma de decisiones relacionadas con la comercialización de los productos o servicios, así como el estudio permanente de los clientes, el mercado y las tendencias. De este modo es necesario que se tengan en cuenta una serie de indicadores relacionados con la analítica #[em web]: 
     
     .row.align-items-center.justify-content-center.mb-4
       .col-lg-4.col-md-12.col-12
@@ -872,7 +872,7 @@
           figure
             img.img-a.img-t.d-none.d-lg-block(src='@/assets/curso/tema2/img56.svg', alt='Texto que describa la imagen')
         .col-md-10.col-lg-11.col-12.mb-4.mb-md-0
-          p.mb-4 En este punto se atraen a todos aquellos clientes potenciales; es decir, aquellos que tienen la opción de convertirse en compradores efectivos del producto o servicio. para ello, es indispensable desarrollar contenido relevante y muy atractivo, adicional de llegar a ellos con anuncios en redes sociales y medios más directos. Atraer significa demostrar a los prospectos que pueden confiar en la marca para resolver un problema en particular o para satisfacer una necesidad. Las personas buscan respuestas a preguntas que tienen en sus consiente e inconsciente y si están relacionados con un producto o servicio en particular es viable utilizar conocimiento e información que resulte útil para resolver dichas preguntas y atraer al mercado específico. Para este punto se puede hacer uso de algunas herramientas muy puntuales:
+          p.mb-4 En este punto se atraen a todos aquellos clientes potenciales; es decir, aquellos que tienen la opción de convertirse en compradores efectivos del producto o servicio. para ello, es indispensable desarrollar contenido relevante y muy atractivo, adicional de llegar a ellos con anuncios en redes sociales y medios más directos. Atraer significa demostrar a los prospectos que pueden confiar en la marca para resolver un problema en particular o para satisfacer una necesidad. Las personas buscan respuestas a preguntas que tienen en su consciente e inconsciente y si están relacionados con un producto o servicio en particular es viable utilizar conocimiento e información que resulte útil para resolver dichas preguntas y atraer al mercado específico. Para este punto se puede hacer uso de algunas herramientas muy puntuales:
           ul.lista-ul--color
             li.d-flex.mb-0
               i.fas.fa-plus.mas

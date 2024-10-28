@@ -266,7 +266,7 @@
           .col-lg-5.col-md-10.col-10.my-3
             img.img-a.img-t.d-none.d-lg-block(src='@/assets/curso/tema1/img22.png', alt='')
           .col-lg-7.col-md-12.my-3
-            h4.mb-4 Cliente incógnito
+            h4.mb-4 La promoción
             p Implica actividades que comunican las ventajas del producto y persuaden a los clientes de que lo compren. Subvariables:
             .row.justify-content-center
               .col-lg-5.col-md-6.my-3
@@ -451,7 +451,7 @@
             img.img-a.img-t.d-none.d-lg-block(src='@/assets/curso/tema1/img37.png', alt='Texto que describa la imagen')  
       .row(titulo="Mercado de servicios")
         .col-md-12.col-12.col-lg-6.mb-4.mb-md-0
-          p.mb-4 Es el mercado de todos los intangibles, crece cada vez más debido a la demanda de servicios que el mercado ha generado en los últimos años: el servicio de telefonía celular, internet o plataformas de televisión por demanda.
+          p.mb-4 Es el mercado de todos los intangibles, crece cada vez más debido a la demanda de servicios que el mercado ha generado en los últimos años: el servicio de telefonía celular, Internet o plataformas de televisión por demanda.
         .col-md-6
           figure
             img.img-a.img-t.d-none.d-lg-block(src='@/assets/curso/tema1/img38.png', alt='Texto que describa la imagen')
@@ -512,7 +512,7 @@
                 p #[b Deseo:] implica un nivel más alto de satisfacción que la necesidad, este se determina por la cultura y la personalidad; por ejemplo, el hambre se puede saciar también con la satisfacción de un deseo: una hamburguesa con gaseosa.
               li.d-flex
                 i.fas.fa-circle-check
-                p.mb-0 #[b Demanda:] son deseos y peticiones superiores y está totalmente ligado a la capacidad de compra; por ejemplo, satisfacer el hambre y el deseo de consumir algo rico pero demandar aquello que solo unos cuantos pueden pagar, la pizza Luis XIII que tiene un costo superior a los 9000 dólares.
+                p.mb-0 #[b Demanda:] son deseos y peticiones superiores y está totalmente ligado a la capacidad de compra; por ejemplo, satisfacer el hambre y el deseo de consumir algo rico, pero demandar aquello que solo unos cuantos pueden pagar, la pizza Luis XIII que tiene un costo superior a los 9000 dólares.
           .col-md.tarjeta.color-acento-contenido.p-5
             .titulo-sexto.color-secundario.mb-5
               h5 Figura 3. 
@@ -645,7 +645,7 @@
           figure
             img.img-a.img-t.my-1.d-none.d-lg-block(src='@/assets/curso/tema1/img54.svg', alt='Texto que describa la imagen')
         .col-md-12.col-12.col-lg-10
-          p.mb-5.my-4 La empresa busca el mayor número de puntos de venta posible, múltiples centros de almacenamientos para asegurar la máxima cobertura del territorio de ventas y una cifra de ventas elevadas.
+          p.mb-5.my-4 La empresa busca el mayor número de puntos de venta posible, múltiples centros de almacenamiento para asegurar la máxima cobertura del territorio de ventas y una cifra de ventas elevadas.
       .row.p-4(titulo="Distribución selectiva")
         .col-md-1
           figure
@@ -773,14 +773,14 @@
             figure
               img.img-a.img-t.d-none.d-lg-block(src='@/assets/curso/tema1/img69.svg', alt='Texto que describa la imagen')
         h2 Estrategia #[em Below The Line (BTL)]
-        p El empleo de esta estrategia se centra en utilizar medios no convencionales, que se caracterizan por ser menos masivos y más directos. Algunos de ellos son: las relaciones públicas, internet, #[em marketing] directo, promociones, etc. 
+        p El empleo de esta estrategia se centra en utilizar medios no convencionales, que se caracterizan por ser menos masivos y más directos. Algunos de ellos son: las relaciones públicas, Internet, #[em marketing] directo, promociones, etc. 
       .col-md.tarjeta.color-primario.pri9.p-5.pp
         .row.justify-content.mb-3
           .col-3.my-3
             figure
               img.img-a.img-t.d-none.d-lg-block(src='@/assets/curso/tema1/img70.svg', alt='Texto que describa la imagen')
         h2.text-white Estrategias 360º
-        p.text-white Se basan en la utilización de una combinación de medios publicitarios masivos y no masivos. (p. 68-72).
+        p.text-white Se basan en la utilización de una combinación de medios publicitarios masivos y no masivos.
 
     Separador
     #t_1_6.titulo-segundo.mb-5
