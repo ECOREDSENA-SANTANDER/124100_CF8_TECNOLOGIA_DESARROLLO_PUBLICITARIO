@@ -192,7 +192,7 @@
             .col-lg-1
               img.img-a.img-t.d-none.d-lg-block(src="@/assets/curso/tema1/img1.svg")
             .col-lg-11.col-md-12.col-12
-              h4.mb-0.text-white #[b Imaginemos que uno de los objetivos es mejorar el #[em Engagement Rate (ER)] de #[em Twitter], el cual lo vamos a calcular dividiendo el total de interacciones entre el número de seguidores y multiplicando el resultado por cien. En este caso, en el cuadro de mando tendremos este #[em KPI] para saber si estamos cumpliendo o no los objetivos. (Capítulo 2. Terminología básica)].
+              h4.mb-0.text-white #[b Imaginemos que uno de los objetivos es mejorar el #[em Engagement Rate (ER)] de #[em Twitter], el cual lo vamos a calcular dividiendo el total de interacciones entre el número de seguidores y multiplicando el resultado por cien. En este caso, en el cuadro de mando tendremos este #[em KPI] para saber si estamos cumpliendo o no los objetivos].
     
     Separador
     #t_2_2.titulo-segundo.mb-5
