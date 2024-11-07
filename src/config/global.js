@@ -182,7 +182,8 @@ export default {
   referencias: [
     {
       referencia:
-        'Benítez, M. (2019, mayo 27). Diccionario de <em>Marketing</em> Digital. MKT2U.Com.',
+        'Diccionario de Marketing - Más de 1.000 términos técnicos del Mkt. (s/f). FMK - Foromarketing. tomado de: ',
+      link: 'https://www.foromarketing.com/glosario-de-marketing/',
     },
     {
       referencia:
@@ -245,6 +246,21 @@ export default {
         'Xunta de Galicia. (s.f.). Manuales prácticos de la Mipyme: Como Elaborar el Plan de Comunicación.',
       link:
         'http://biblioteca.udgvirtual.udg.mx/jspui/bitstream/123456789/1919/1/Como%20elaborar%20el%20plan%20de%20comunicaci%c3%b3n.pdf',
+    },
+    {
+      referencia:
+        'American Marketing association. (2023, mayo 31). American Marketing Association.',
+      link: 'https://www.ama.org/',
+    },
+    {
+      referencia: '(S/f-b). Rae.es. Recuperado de 2024, de:',
+      link: 'https://dle.rae.es/',
+    },
+    {
+      referencia:
+        'Ridge, B. V. (2023, agosto 27). El enfoque de Philip Kotler hacia el marketing: Un análisis detallado. MEDIUM Multimedia Agencia de Marketing Digital.',
+      link:
+        'https://www.mediummultimedia.com/marketing/que-dice-kotler-del-marketing/',
     },
   ],
   glosario: [
